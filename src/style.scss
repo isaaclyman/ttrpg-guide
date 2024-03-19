@@ -1,0 +1,80 @@
+$bg-contrast: #ECECEC;
+
+html, body {
+  height: 100vh;
+  margin: 0;
+  max-height: 100vh;
+  max-width: 100vw;
+  padding: 0;
+  width: 100vw;
+}
+
+html {
+  background-image: linear-gradient(to left bottom, #225a3c, #1c4b33, #173c29, #122e20, #0d2117);
+  color: #ECECEC;
+  font-family: "Alumni Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  overflow: hidden;
+}
+
+h1 {
+  font-size: 40px;
+  margin: 24px 0;
+  padding: 0 36px;
+  text-align: center;
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 100%;
+}
+
+.rpg-table-frame {
+  background-color: $bg-contrast;
+  border-radius: 18px;
+  box-shadow: 3px 3px 15px 5px #000;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  margin: 12px 36px;
+  overflow: auto;
+}
+
+.rpg-table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  color: #333;
+  font-size: 22px;
+  overflow: auto;
+
+  tr {
+    border-bottom: 2px solid #225a3c;
+  }
+
+  th:not(:first-of-type), td:not(:first-of-type) {
+    border-left: 2px solid #225a3c;
+  }
+
+  th {
+    background-color: $bg-contrast;
+    position: sticky;
+    top: 0;
+  }
+
+  th, td {
+    min-width: 100px;
+    padding: 6px 12px;
+    vertical-align: top;
+    white-space: pre;
+  }
+
+  th:first-of-type, td:first-of-type {
+    background-color: $bg-contrast;
+    font-weight: bold;
+    position: sticky;
+    left: 0;
+  }
+}
