@@ -1,0 +1,17 @@
+{
+  "name": "ttrpg-guide",
+  "version": "1.0.0",
+  "description": "An apples-to-apples comparison chart for tabletop RPGs",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc index.ts"
+  },
+  "author": "Isaac Lyman",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "dependencies": {
+    "alpinejs": "^3.13.7"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.2"
+  }
+}
