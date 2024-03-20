@@ -3,6 +3,7 @@ import rpgs from "../data.json";
 import { columns } from "./headers";
 import {
   DownloadModule,
+  EditModule,
   ExportModule,
   FilterModule,
   FormatModule,
@@ -25,6 +26,7 @@ rpgs.sort((rpg1, rpg2) => {
 
 Tabulator.registerModule([
   DownloadModule,
+  EditModule,
   ExportModule,
   FilterModule,
   FormatModule,

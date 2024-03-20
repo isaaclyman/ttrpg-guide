@@ -7,7 +7,7 @@ An apples-to-apples comparison chart for tabletop RPGs.
 RPGs should only be included if they are:
 
 - Not defunct (still actively sold and promoted)
-- Popular (frequently mentioned in online conversation, and not by sockpuppet accounts)
+- Well known (repeatedly mentioned in online conversation, and not by sockpuppet accounts) 
 
 ## Contributing
 
