@@ -42,7 +42,28 @@ const table = new Tabulator("#rpgtable", {
   data: rpgs,
   initialSort: [{ column: "subreddit_size", dir: "desc" }],
   movableColumns: true,
+  renderVertical: 'basic',
 });
+
+function handleMobileScreens() {
+  const mobileMode = window.innerWidth < 800;
+  table.updateColumnDefinition("name", {
+    ...columns[0],
+    frozen: !mobileMode,
+  });
+
+  if (mobileMode) {
+    document.querySelector('#desktop-info')?.classList.remove('hidden');
+  } else {
+    document.querySelector('#desktop-info')?.classList.add('hidden');
+  }
+}
+
+table.on('tableBuilt', () => {
+  handleMobileScreens();
+  
+  addEventListener('resize', handleMobileScreens);
+})
 
 setTimeout(() => {
   table.redraw();

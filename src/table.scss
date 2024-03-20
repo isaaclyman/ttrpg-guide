@@ -27,3 +27,18 @@ $rowBorderColor: #444458;
 #rpgtable .tabulator-col-content {
   padding: 6px 8px;
 }
+
+#rpgtable .tabulator-responsive-collapse {
+  table {
+    border-collapse: collapse;
+  }
+
+  tr:not(:last-of-type) {
+    border-bottom: 1px solid $rowBorderColor;
+  }
+
+  td {
+    padding: 6px;
+    white-space: pre-line;
+  }
+}
