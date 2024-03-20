@@ -26,7 +26,7 @@ html {
 
 h1 {
   font-size: 40px;
-  margin-bottom: 0;
+  margin-bottom: 4px;
   padding: 0 36px;
   text-align: center;
 }
@@ -67,4 +67,10 @@ p.small {
   .tabulator-cell {
     white-space: pre-line;
   }
+}
+
+.footer {
+  font-size: 0.8em;
+  margin: 12px 0;
+  text-align: center;
 }
