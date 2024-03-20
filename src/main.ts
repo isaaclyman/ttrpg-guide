@@ -42,7 +42,6 @@ const table = new Tabulator("#rpgtable", {
   data: rpgs,
   initialSort: [{ column: "subreddit_size", dir: "desc" }],
   movableColumns: true,
-  renderVertical: 'basic',
 });
 
 function handleMobileScreens() {
@@ -63,8 +62,9 @@ table.on('tableBuilt', () => {
   handleMobileScreens();
   
   addEventListener('resize', handleMobileScreens);
-})
 
-setTimeout(() => {
   table.redraw();
-}, 500);
+  setTimeout(() => {
+    table.redraw();
+  }, 500);
+})
