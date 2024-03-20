@@ -1,9 +1,19 @@
 import "./style.scss";
-import Alpine from "alpinejs";
 import rpgs from "../data.json";
-import { headers } from "./headers";
-
-window.Alpine = Alpine;
+import { columns } from "./headers";
+import {
+  DownloadModule,
+  ExportModule,
+  FilterModule,
+  FormatModule,
+  FrozenColumnsModule,
+  MoveColumnsModule,
+  PopupModule,
+  SortModule,
+  Tabulator,
+} from "tabulator-tables";
+import "tabulator-tables/dist/css/tabulator.min.css";
+import "tabulator-tables/dist/css/tabulator_midnight.min.css";
 
 rpgs.sort((rpg1, rpg2) => {
   return rpg1.subreddit_size < rpg2.subreddit_size
@@ -13,9 +23,24 @@ rpgs.sort((rpg1, rpg2) => {
     : 0;
 });
 
-Alpine.data("rpgdata", () => ({
-  rpgs,
-  headers,
-}));
+Tabulator.registerModule([
+  DownloadModule,
+  ExportModule,
+  FilterModule,
+  FormatModule,
+  FrozenColumnsModule,
+  MoveColumnsModule,
+  PopupModule,
+  SortModule,
+]);
 
-Alpine.start();
+const table = new Tabulator("#rpgtable", {
+  columns,
+  data: rpgs,
+  initialSort: [{ column: "subreddit_size", dir: "desc" }],
+  movableColumns: true
+});
+
+setTimeout(() => {
+  table.redraw();
+}, 500);
