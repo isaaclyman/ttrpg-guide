@@ -1,6 +1,7 @@
-$bg-contrast: #ECECEC;
+$bg-contrast: #ececec;
 
-html, body {
+html,
+body {
   height: 100vh;
   margin: 0;
   max-height: 100vh;
@@ -10,30 +11,47 @@ html, body {
 }
 
 html {
-  background-image: linear-gradient(to left bottom, #225a3c, #1c4b33, #173c29, #122e20, #0d2117);
-  color: #ECECEC;
+  background-image: linear-gradient(
+    288deg,
+    rgba(0, 85, 255, 1) 1.5%,
+    rgba(4, 56, 115, 1) 91.6%
+  );
+  color: #ececec;
   font-family: "Roboto Flex", sans-serif;
   font-optical-sizing: auto;
   font-style: normal;
-  font-variation-settings:
-    "slnt" 0,
-    "wdth" 100,
-    "GRAD" 0,
-    "XOPQ" 96,
-    "XTRA" 468,
-    "YOPQ" 79,
-    "YTAS" 750,
-    "YTDE" -203,
-    "YTFI" 738,
-    "YTLC" 514,
-    "YTUC" 712;
+  font-variation-settings: "slnt" 0, "wdth" 100, "GRAD" 0, "XOPQ" 96, "XTRA" 468,
+    "YOPQ" 79, "YTAS" 750, "YTDE" -203, "YTFI" 738, "YTLC" 514, "YTUC" 712;
 }
 
 h1 {
   font-size: 40px;
-  margin: 24px 0;
+  margin-bottom: 0;
   padding: 0 36px;
   text-align: center;
+}
+
+a {
+  color: $bg-contrast;
+
+  &:visited {
+    color: #AAA;
+  }
+}
+
+p {
+  margin-bottom: 24px;
+  margin-top: 0;
+}
+
+p.small {
+  font-size: 0.8em;
+  text-align: center;
+}
+
+.github-img {
+  height: 0.6em;
+  margin: 0 8px;
 }
 
 .main {

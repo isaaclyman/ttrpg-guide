@@ -11,6 +11,8 @@ RPGs should only be included if they are:
 
 ## Contributing
 
-To expand or edit the list of RPGs, see data.json.
+To expand or edit the list of RPGs, [file an issue](https://github.com/isaaclyman/ttrpg-guide/issues/new/choose) or make a pull request to data.json.
 
-Add any new entries to the end of the list.
+## PR Guidelines
+
+Any new entries should be added to the end of the list.
