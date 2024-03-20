@@ -1,0 +1,29 @@
+$backgroundColor: #3c3c50;
+$borderColor: #444458;
+$textSize: 15;
+
+$headerBackgroundColor: #66668f;
+$headerTextColor: #f1f7fd;
+$headerBorderColor: #444458;
+$headerSeparatorColor: #444458;
+
+$rowBackgroundColor: #3c3c50;
+$rowAltBackgroundColor: #2f2f3c;
+$rowTextColor: #f1f7fd;
+$rowHoverBackground: #3c78d4;
+$rowBorderColor: #444458;
+
+@import "../node_modules/tabulator-tables/src/scss/tabulator.scss";
+
+#rpgtable .tabulator-cell {
+  padding: 6px 8px;
+  white-space: pre-line !important;
+
+  &:first-of-type {
+    font-weight: bold;
+  }
+}
+
+#rpgtable .tabulator-col-content {
+  padding: 6px 8px;
+}

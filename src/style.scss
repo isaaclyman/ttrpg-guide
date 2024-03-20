@@ -13,8 +13,8 @@ body {
 html {
   background-image: linear-gradient(
     288deg,
-    rgba(0, 85, 255, 1) 1.5%,
-    rgba(4, 56, 115, 1) 91.6%
+    #343448 1.5%,
+    #454663 91.6%
   );
   color: #ececec;
   font-family: "Roboto Flex", sans-serif;
@@ -35,7 +35,7 @@ a {
   color: $bg-contrast;
 
   &:visited {
-    color: #AAA;
+    color: #9fcdf1;
   }
 }
 
@@ -62,11 +62,8 @@ p.small {
 }
 
 #rpgtable {
+  box-shadow: -2px -2px 15px 10px rgba(60, 60, 80, 0.9);
   margin: 0 24px;
-
-  .tabulator-cell {
-    white-space: pre-line;
-  }
 }
 
 .footer {
