@@ -35,7 +35,7 @@ Any new entries should be added to the end of the list.
 
 ## To add
 
-If you've played any of the below, please help me add them to the list.
+The following are crowdsourced suggestions. If you've played any of them, please help me add them to the list. If any are already present (e.g. a less famous property under a system that's already in the list), please let me know so I can check it off.
 
 - Midgard
 - The Dark Eye
@@ -66,6 +66,22 @@ If you've played any of the below, please help me add them to the list.
 - Eclipse Phase
 - Exalted
 - Earthdawn
+- Twilight 2000
+- The One Ring
+- Vaesen
+- Into the Odd
+- Dragonbane
+- Lamentations if the Flame Princess (controversial, but no doubt influential)
+- Mothership
+- Black Hack
+- Mausritter
+- Adventurer, Conqueror, King
+- Traveller
+- Candela Obscura
+- Night's Black Agents
+- 13th Age
+- Swords of the Serpentine
+- Shadow of the Demon Lord
 
 ## Wishlist
 
