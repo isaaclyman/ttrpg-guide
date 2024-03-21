@@ -35,6 +35,8 @@ Any new entries should be added to the end of the list.
 
 ## To add
 
+If you've played any of the below, please help me add them to the list.
+
 - Midgard
 - The Dark Eye
 - Engel
@@ -47,6 +49,16 @@ Any new entries should be added to the end of the list.
 - Old School Essentials
 - Basic Fantasy
 - Dungeon Crawl Classics
+- Dream Apart/Dream Askew
+- Microscope
+- Fiasco
+- Alice is Missing
+- The Quiet Year
+- Ironsworn
+- Spire/Heart
+- Into the Odd
+- Cairn
+- Ten Candles
 
 ## Wishlist
 
