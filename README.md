@@ -59,6 +59,13 @@ If you've played any of the below, please help me add them to the list.
 - Into the Odd
 - Cairn
 - Ten Candles
+- Tinyd6
+- Adventure Game Engine (AGE)
+- Palladium Fantasy RPG
+- 2d20 by Modiphius
+- Eclipse Phase
+- Exalted
+- Earthdawn
 
 ## Wishlist
 
