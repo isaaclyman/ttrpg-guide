@@ -1,0 +1,1 @@
+[Guide to tabletop RPG systems](https://rpg.freakinheck.party/) © 2024 by [Isaac Lyman](https://isaaclyman.com/) is licensed under [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1).
