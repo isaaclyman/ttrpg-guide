@@ -39,3 +39,7 @@ Column ideas:
 - Compatible VTTs
 - Discord community links
 - System type (simulationist, narrative, gamist, OSR)
+
+Other ideas:
+
+- Add a footnote to Apocalypse World - it's not really a "core" rulebook, and each PbtA game stands on its own
