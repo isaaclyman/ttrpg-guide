@@ -440,5 +440,22 @@
     "owner": "Far Future Enterprises",
     "timeline": "1977 (1st ed)\n2013 (Traveller5)\n2016 (Mongoose Traveller 2nd ed)",
     "tags": ["fast-paced"]
+  },
+  {
+    "name": "2d20",
+    "core_setting": "Post-apocalyptic",
+    "largest_subreddit": "r/startrekadventures",
+    "subreddit_size": 7200,
+    "known_for": "Momentum\nMetacurrencies",
+    "core_mechanic": "2d20\ncount ≤ character skill\n≥ target set by GM",
+    "price_of_entry": "$20 - Star Trek Adventures: Core Rulebook\n$20 - Fallout: The Roleplaying Game Core Rulebook",
+    "purchase_url": "https://preview.drivethrurpg.com/en/product/214552/star-trek-adventures-core-rulebook",
+    "is_open_licensed": "Yes",
+    "srd_url": "https://preview.drivethrurpg.com/en/product/403658/2d20-System-Reference-Document",
+    "most_famous_property": "Fallout RPG\nStar Trek Adventures (RPG)",
+    "crunch": "Medium crunch / varies",
+    "owner": "Modiphius Entertainment",
+    "timeline": "1993 (Mutant Chronicles)\n2017 (Star Trek Adventures)\n2021 (Fallout: The Roleplaying Game)\n2021 (Dune: Adventures in the Imperium)",
+    "tags": ["cinematic"]
   }
 ]

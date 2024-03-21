@@ -62,7 +62,6 @@ The following are crowdsourced suggestions. If you've played any of them, please
 - Tinyd6
 - Adventure Game Engine (AGE)
 - Palladium Fantasy RPG
-- 2d20 by Modiphius
 - Eclipse Phase
 - Exalted
 - Earthdawn
