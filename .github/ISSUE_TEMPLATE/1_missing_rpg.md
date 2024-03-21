@@ -16,6 +16,8 @@ RPGs will only be included if they are:
 - Not defunct: still actively sold and promoted
 - Popular: some online community for the game has at least 1,000 members (exceptions on a case-by-case basis, BDFL style)
 
+PLEASE NOTE: ALL RPGs vary depending on the way you run them. For this project, we need hard-and-fast answers. "It depends on the GM" isn't helpful. Do your best to characterize the way the game is designed.
+
 -->
 
 **This RPG is still actively sold and promoted (Yes/No):**
