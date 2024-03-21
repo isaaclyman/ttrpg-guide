@@ -257,7 +257,7 @@
     "crunch": "High crunch",
     "owner": "Steve Jackson Games",
     "timeline": "1986 (Basic GURPS)\n1998 (GURPS Lite)\n2004 (4th ed)",
-    "tags": ["gritty", "realism"]
+    "tags": ["gritty", "toolkit"]
   },
   {
     "name": "Fudge",
@@ -326,7 +326,7 @@
     "timeline": "2018 (1st ed)\n2019 (2nd ed)"
   },
   {
-    "name": "Paragon System",
+    "name": "Paragon",
     "core_setting": "Greek myth",
     "largest_subreddit": "r/AgonRPG",
     "subreddit_size": 258,
@@ -373,7 +373,7 @@
     "crunch": "High crunch",
     "owner": "Luke Crane",
     "timeline": "2002 (The Burning Wheel)\n2011 (Burning Wheel Gold)",
-    "tags": ["drama", "literary"]
+    "tags": ["literary"]
   },
   {
     "name": "Champions / HERO System",
