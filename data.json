@@ -170,7 +170,7 @@
     "purchase_url": "https://preview.drivethrurpg.com/en/product/333585/cyberpunk-red",
     "is_open_licensed": "No",
     "srd_url": null,
-    "most_famous_property": "Cyberpunk Red RPG\nCyberpunk 2077 (spinoff video game)",
+    "most_famous_property": "Cyberpunk Red (RPG)\nCyberpunk 2077 (spinoff video game)\nCyberpunk: Edgerunners (spinoff Netflix series)",
     "crunch": "Medium-low crunch",
     "owner": "R. Talsorian Games",
     "timeline": "1988 (Cyberpunk 1st ed)\n1990 (Cyberpunk 2020)\n2020 (Cyberpunk Red)"
@@ -350,5 +350,37 @@
     "crunch": "Low crunch",
     "owner": "S. John Ross",
     "timeline": "1993 (1st ed)\n2021 (2nd ed)"
+  },
+  {
+    "name": "The Burning Wheel",
+    "core_setting": "Medieval Fantasy",
+    "largest_subreddit": "r/BurningWheel",
+    "subreddit_size": 3900,
+    "known_for": "Character beliefs\nLiterary style",
+    "core_mechanic": "d6 dice pool\ntarget depends on die\n≥ target set by GM + modifiers",
+    "price_of_entry": "$20\nBurning Wheel Gold Revised",
+    "purchase_url": "https://www.burningwheel.com/burning-wheel-gold-revised-pdf/",
+    "is_open_licensed": "No",
+    "srd_url": null,
+    "most_famous_property": "Itself",
+    "crunch": "High crunch",
+    "owner": "Luke Crane",
+    "timeline": "2002 (The Burning Wheel)\n2011 (Burning Wheel Gold)"
+  },
+  {
+    "name": "Champions / HERO System",
+    "core_setting": "Setting-agnostic",
+    "largest_subreddit": "r/herosystem",
+    "subreddit_size": 1200,
+    "known_for": "Very open-ended character creation",
+    "core_mechanic": "3d6 ≤ character skill",
+    "price_of_entry": "$50\nHERO System 6th Edition Bundle: Character Creation/Combat and Adventuring",
+    "purchase_url": "https://preview.drivethrurpg.com/en/product/64074/hero-system-6th-edition-bundle-character-creation-combat-and-adventuring",
+    "is_open_licensed": "No",
+    "srd_url": null,
+    "most_famous_property": "Champions Online (spinoff video game)",
+    "crunch": "High crunch",
+    "owner": "Hero Games\nDOJ, Inc.",
+    "timeline": "1990 (Hero System Rulesbook)\n2009 (6th ed)"
   }
 ]
