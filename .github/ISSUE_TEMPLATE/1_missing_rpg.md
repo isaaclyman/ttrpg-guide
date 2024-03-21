@@ -18,7 +18,7 @@ RPGs will only be included if they are:
 
 -->
 
-**This RPG is not defunct (Yes/No):**
+**This RPG is still actively sold and promoted (Yes/No):**
 
 <!-- Consider adding a few links to forums or social media pages where the RPG is discussed. -->
 **This RPG is well known (Yes/No):**
