@@ -13,7 +13,8 @@
     "most_famous_property": "Critical Role (actual play)\nHonor Among Thieves (blockbuster film)\nBaldur's Gate (video game franchise)",
     "crunch": "Medium crunch",
     "owner": "Wizards of the Coast\nHasbro",
-    "timeline": "1974 (1st ed)\n2014 (5th ed)\n2023 (OGL scandal)"
+    "timeline": "1974 (1st ed)\n2014 (5th ed)\n2023 (OGL scandal)",
+    "tags": ["action", "tactical"]
   },
   {
     "name": "Pathfinder 2E",
@@ -61,7 +62,8 @@
     "most_famous_property": "Numenera (distant future sci-fi fantasy setting)\nThe Strange (sci-fi multiverse setting)",
     "crunch": "Low crunch",
     "owner": "Monte Cook Games",
-    "timeline": "2013 (Numenera)\n2015 (Core rulebook)"
+    "timeline": "2013 (Numenera)\n2015 (Core rulebook)",
+    "tags": ["action", "cinematic", "fast-paced"]
   },
   {
     "name": "Basic Role-Playing\n(BRP)",
@@ -205,7 +207,8 @@
     "most_famous_property": "Vampire: The Masquerade",
     "crunch": "Medium-low crunch",
     "owner": "White Wolf Publishing\nParadox Interactive",
-    "timeline": "1991 (Vampire, 1st ed)\n2018 (Vampire, 5th ed)"
+    "timeline": "1991 (Vampire, 1st ed)\n2018 (Vampire, 5th ed)",
+    "tags": ["dark", "drama"]
   },
   {
     "name": "Powered by the Apocalypse\n(PbtA)",
@@ -253,7 +256,8 @@
     "most_famous_property": "Itself",
     "crunch": "High crunch",
     "owner": "Steve Jackson Games",
-    "timeline": "1986 (Basic GURPS)\n1998 (GURPS Lite)\n2004 (4th ed)"
+    "timeline": "1986 (Basic GURPS)\n1998 (GURPS Lite)\n2004 (4th ed)",
+    "tags": ["gritty", "realism"]
   },
   {
     "name": "Fudge",
@@ -285,7 +289,8 @@
     "most_famous_property": "Deadlands: Reloaded (Wild West fantasy setting)",
     "crunch": "Medium crunch",
     "owner": "Pinnacle Entertainment Group",
-    "timeline": "2003 (1st ed)\n2018 (Adventure Edition)"
+    "timeline": "2003 (1st ed)\n2018 (Adventure Edition)",
+    "tags": ["action", "pulpy"]
   },
   {
     "name": "Mork Borg",
@@ -301,7 +306,8 @@
     "most_famous_property": "Itself",
     "crunch": "Low crunch",
     "owner": "Free League Publishing",
-    "timeline": "2020 (published)"
+    "timeline": "2020 (published)",
+    "tags": ["dark", "deadly"]
   },
   {
     "name": "Kids on Bikes",
@@ -349,7 +355,8 @@
     "most_famous_property": "Itself",
     "crunch": "Low crunch",
     "owner": "S. John Ross",
-    "timeline": "1993 (1st ed)\n2021 (2nd ed)"
+    "timeline": "1993 (1st ed)\n2021 (2nd ed)",
+    "tags": ["bite-sized", "humor"]
   },
   {
     "name": "The Burning Wheel",
@@ -365,7 +372,8 @@
     "most_famous_property": "Itself",
     "crunch": "High crunch",
     "owner": "Luke Crane",
-    "timeline": "2002 (The Burning Wheel)\n2011 (Burning Wheel Gold)"
+    "timeline": "2002 (The Burning Wheel)\n2011 (Burning Wheel Gold)",
+    "tags": ["drama", "literary"]
   },
   {
     "name": "Champions / HERO System",
@@ -413,6 +421,7 @@
     "most_famous_property": "Itself",
     "crunch": "Low crunch",
     "owner": "The Impossible Dream",
-    "timeline": "2005 (published)"
+    "timeline": "2005 (published)",
+    "tags": ["dark", "deadly"]
   }
 ]
