@@ -382,5 +382,21 @@
     "crunch": "High crunch",
     "owner": "Hero Games\nDOJ, Inc.",
     "timeline": "1990 (Hero System Rulesbook)\n2009 (6th ed)"
+  },
+  {
+    "name": "Cortex System",
+    "core_setting": "Setting-agnostic",
+    "largest_subreddit": "r/CortexRPG",
+    "subreddit_size": 2300,
+    "known_for": "Several licensed RPGs",
+    "core_mechanic": "roll dice assigned to traits\n(d4 - d12)\nadd two highest\n≥ GM d6 pool roll",
+    "price_of_entry": "$25\nCortex Prime",
+    "purchase_url": "https://shop.direwolfdigital.com/products/cortex-prime?variant=42682288275609",
+    "is_open_licensed": "No",
+    "srd_url": null,
+    "most_famous_property": "Battlestar Galactica RPG\nMarvel Heroic RPG\nSerenity RPG (AKA Firefly)\nSupernatural RPG",
+    "crunch": "Medium-low crunch",
+    "owner": "Dire Wolf Digital",
+    "timeline": "2005 (Serenity RPG)\n2007 (Battlestar Galactica RPG)\n2012 (Marvel Heroic RPG)\n2020 (Cortex Prime)"
   }
 ]
