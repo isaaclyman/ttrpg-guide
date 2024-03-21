@@ -35,7 +35,7 @@ Any new entries should be added to the end of the list.
 
 ## To add
 
-The following are crowdsourced suggestions. If you've played any of them, please help me add them to the list. If any are already present (e.g. a less famous property under a system that's already in the list), please let me know so I can check it off.
+The following are crowdsourced suggestions. If you've played any of them, please help me add them to the list. If any are already present (e.g. a less famous property under a system that's already listed), please let me know so I can check it off. And if any aren't notable enough to include, please let me know about that as well.
 
 - Midgard
 - The Dark Eye
