@@ -17,6 +17,21 @@ To expand or edit the list of RPGs, [file an issue](https://github.com/isaaclyma
 
 Any new entries should be added to the end of the list.
 
+## To add
+
+- Midgard
+- The Dark Eye
+- Engel
+- Arcane Codex
+- Degenesis
+- Splittermond
+- HeXXen 1733
+- Shadow of the demonlord
+- Weird wizard
+- Old School Essentials
+- Basic Fantasy
+- Dungeon Crawl Classics
+
 ## Wishlist
 
 Column ideas:
