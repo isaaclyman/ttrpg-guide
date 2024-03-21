@@ -81,7 +81,6 @@ The following are crowdsourced suggestions. If you've played any of them, please
 - Night's Black Agents
 - 13th Age
 - Swords of the Serpentine
-- Shadow of the Demon Lord
 
 ## Wishlist
 
