@@ -59,3 +59,6 @@ Link to the PDF versions of those books here.
 
 <!-- When was the game first published? When was its most popular setting published? When did the latest version come out? -->
 **Timeline:**
+
+<!-- What does the game feel like to play? See https://github.com/isaaclyman/ttrpg-guide/issues/3 for examples. -->
+**Gameplay:**
