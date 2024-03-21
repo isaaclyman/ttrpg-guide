@@ -16,3 +16,11 @@ To expand or edit the list of RPGs, [file an issue](https://github.com/isaaclyma
 ## PR Guidelines
 
 Any new entries should be added to the end of the list.
+
+## Wishlist
+
+Column ideas:
+
+- Compatible VTTs
+- Discord community links
+- System type (simulationist, narrative, gamist, OSR)
