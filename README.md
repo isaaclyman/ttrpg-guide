@@ -6,8 +6,8 @@ An apples-to-apples comparison chart for tabletop RPGs.
 
 RPGs should only be included if they are:
 
-- Not defunct (still actively sold and promoted)
-- Well known (repeatedly mentioned in online conversation, and not by sockpuppet accounts)
+- Not defunct: still actively sold and promoted
+- Popular: some online community for the game has at least 1,000 members (exceptions on a case-by-case basis, BDFL style)
 
 ## FAQ
 
@@ -88,7 +88,7 @@ Column ideas:
 
 - Compatible VTTs
 - Discord community links
-- System type (simulationist, narrative, gamist, OSR)
+- Gameplay tags (gritty, realistic, cinematic, humor, pulp, heist, fast-paced, action)
 
 Other ideas:
 
