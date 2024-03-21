@@ -71,7 +71,7 @@ The following are crowdsourced suggestions. If you've played any of them, please
 - Vaesen
 - Into the Odd
 - Dragonbane
-- Lamentations if the Flame Princess (controversial, but no doubt influential)
+- Lamentations of the Flame Princess
 - Mothership
 - Black Hack
 - Mausritter
