@@ -33,65 +33,65 @@ export const columns: ColumnDefinition[] = [
         const data = row.getData();
         return Math.max(data.subreddit_size, data.discord_size);
       }
-      
+
       const aSize = getSize(aRow);
       const bSize = getSize(bRow);
       return aSize - bSize;
-    }
+    },
   },
   {
     field: "subreddit_size",
     title: "Subreddit",
     headerSortTristate: true,
     formatter: function (cell) {
-      const sub =  cell.getData().largest_subreddit;
+      const sub = cell.getData().largest_subreddit;
       const size = cell.getValue();
       if (!sub || !size) {
         return "???";
       }
 
-      const container = document.createElement('div');
-      
-      const sizeText = document.createElement('div');
+      const container = document.createElement("div");
+
+      const sizeText = document.createElement("div");
       sizeText.innerText = numberFormatter.format(Number(size));
       container.appendChild(sizeText);
 
-      const subLink = document.createElement('a');
+      const subLink = document.createElement("a");
       subLink.innerText = sub;
       subLink.href = `https://reddit.com/${sub}`;
-      subLink.target = '_blank';
+      subLink.target = "_blank";
       container.appendChild(subLink);
 
       return container;
     },
-    sorter: 'number'
+    sorter: "number",
   },
   {
     field: "discord_size",
     title: "Discord",
-    sorter: 'number',
+    sorter: "number",
     headerSortTristate: true,
     formatter: function (cell) {
-      const url = cell.getData().discord_url
+      const url = cell.getData().discord_url;
       const size = cell.getValue();
       if (!url || !size) {
         return "???";
       }
 
-      const container = document.createElement('div');
-      
-      const sizeText = document.createElement('div');
+      const container = document.createElement("div");
+
+      const sizeText = document.createElement("div");
       sizeText.innerText = numberFormatter.format(Number(size));
       container.appendChild(sizeText);
 
-      const subLink = document.createElement('a');
+      const subLink = document.createElement("a");
       subLink.innerText = "Discord";
       subLink.href = url;
-      subLink.target = '_blank';
+      subLink.target = "_blank";
       container.appendChild(subLink);
 
       return container;
-    }
+    },
   },
   {
     field: "known_for",
@@ -141,21 +141,21 @@ export const columns: ColumnDefinition[] = [
     field: "price_of_entry",
     title: "Price of Entry (PDF)",
     headerSortTristate: true,
-    sorter: 'number',
-    formatter: function(cell) {
+    sorter: "number",
+    formatter: function (cell) {
       const books = cell.getData().core_books;
       if (!books) {
-        return '???';
+        return "???";
       }
 
-      const container = document.createElement('div');
+      const container = document.createElement("div");
 
       for (const book of books) {
-        const bookDiv = document.createElement('div');
-        const anchor = document.createElement('a');
+        const bookDiv = document.createElement("div");
+        const anchor = document.createElement("a");
         anchor.innerText = `${book.price}—${book.title}`;
         anchor.href = book.url;
-        anchor.target = '_blank';
+        anchor.target = "_blank";
         bookDiv.appendChild(anchor);
         container.appendChild(bookDiv);
       }
@@ -165,51 +165,62 @@ export const columns: ColumnDefinition[] = [
     formatterParams: {
       labelField: "price_of_entry",
       urlField: "purchase_url",
-      target: "_blank"
-    }
+      target: "_blank",
+    },
   },
   {
     field: "license",
     title: "License",
     headerSortTristate: true,
-    formatter: function(cell) {
+    formatter: function (cell) {
       const srdUrl = cell.getData().srd_url;
       const license = cell.getValue();
       if (!srdUrl && !license) {
         return "❌ No license found";
       }
 
-      const container = document.createElement('div');
+      const container = document.createElement("div");
 
       if (license) {
-        const permissiveLine = document.createElement('div');
-        permissiveLine.innerText = license.is_permissive ? '✅ Permissive license' : '⛓️ Limited license';
+        const permissiveLine = document.createElement("div");
+        permissiveLine.innerText = license.is_permissive
+          ? "✅ Permissive license"
+          : "⛓️ Limited license";
         container.appendChild(permissiveLine);
 
-        const licenseLine = document.createElement('div');
-        const licenseAnchor = document.createElement('a');
+        const licenseLine = document.createElement("div");
+        const licenseAnchor = document.createElement("a");
         licenseAnchor.innerText = license.display;
         licenseAnchor.href = license.url;
-        licenseAnchor.target = '_blank';
+        licenseAnchor.target = "_blank";
         licenseLine.appendChild(licenseAnchor);
         container.appendChild(licenseLine);
       } else {
-        const noLicenseLine = document.createElement('div');
+        const noLicenseLine = document.createElement("div");
         noLicenseLine.innerText = "❌ No license found";
         container.appendChild(noLicenseLine);
       }
 
       if (srdUrl) {
-        const srdLine = document.createElement('div');
-        const srdAnchor = document.createElement('a');
+        const srdLine = document.createElement("div");
+        const srdAnchor = document.createElement("a");
         srdAnchor.innerText = "System Reference Document";
         srdAnchor.href = srdUrl;
-        srdAnchor.target = '_blank';
+        srdAnchor.target = "_blank";
         srdLine.appendChild(srdAnchor);
         container.appendChild(srdLine);
       }
 
       return container;
+    },
+    sorter: function (aLicense, bLicense, aRow, bRow) {
+      function getValue(license: any, row: RowComponent): number {
+        return (license !== null ? 1 : 0) + (license?.is_permissive ? 1 : 0) + (row.getData().srd_url !== null ? 1 : 0);
+      }
+      const aValue = getValue(aLicense, aRow);
+      const bValue = getValue(bLicense, bRow);
+
+      return aValue - bValue;
     },
   },
   {
