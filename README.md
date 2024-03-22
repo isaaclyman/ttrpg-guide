@@ -85,5 +85,4 @@ The following are crowdsourced suggestions. If you've played any of them, please
 Column ideas:
 
 - Compatible VTTs
-- Discord community links
 - Gameplay tags (gritty, realistic, cinematic, humor, pulp, heist, fast-paced, action)
