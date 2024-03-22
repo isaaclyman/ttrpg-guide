@@ -22,7 +22,15 @@ PLEASE NOTE: ALL RPGs vary depending on the way you run them. For this project, 
 
 **This RPG is still actively sold and promoted (Yes/No):**
 
-<!-- Add a link to the largest online community where the game is discussed. -->
+<!--
+Add a link to:
+
+- The largest subreddit for the game or any of its settings
+- The largest Discord server
+- Any other place where the game is discussed online
+
+If the game doesn't have one of the above, you can skip it.
+-->
 **Evidence of popularity:**
 
 <!-- The name of the system is preferred, e.g. "Powered by the Apocalypse" instead of "Apocalypse World" -->
@@ -53,7 +61,7 @@ Link to the PDF versions of those books here.
 <!-- List the most famous video games, TV shows, movies, or settings based on this system. -->
 **Most Famous Property:**
 
-<!-- How crunchy is the system? That is, how detailed and complex are the rules? -->
+<!-- AT MOST, how crunchy is the system? That is, how detailed and complex are the rules if you play with all of them? -->
 **Amount of Crunch:**
 
 <!-- Who owns the game? If the owner is a company that has a parent company, list them as well. -->
