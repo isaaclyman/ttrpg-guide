@@ -169,24 +169,47 @@ export const columns: ColumnDefinition[] = [
     }
   },
   {
-    field: "is_open_licensed",
-    title: "Open-licensed rules?",
+    field: "license",
+    title: "License",
     headerSortTristate: true,
     formatter: function(cell) {
-      const url = cell.getData().srd_url;
-      if (!url) {
-        return cell.getValue();
+      const srdUrl = cell.getData().srd_url;
+      const license = cell.getValue();
+      if (!srdUrl && !license) {
+        return "❌ No license found";
       }
 
-      const anchor = document.createElement('a');
-      anchor.innerText = cell.getValue();
-      anchor.href = url;
-      return anchor;
-    },
-    formatterParams: {
-      labelField: "is_open_licensed",
-      urlField: "srd_url",
-      target: "_blank",
+      const container = document.createElement('div');
+
+      if (license) {
+        const permissiveLine = document.createElement('div');
+        permissiveLine.innerText = license.is_permissive ? '✅ Permissive license' : '⛓️ Limited license';
+        container.appendChild(permissiveLine);
+
+        const licenseLine = document.createElement('div');
+        const licenseAnchor = document.createElement('a');
+        licenseAnchor.innerText = license.display;
+        licenseAnchor.href = license.url;
+        licenseAnchor.target = '_blank';
+        licenseLine.appendChild(licenseAnchor);
+        container.appendChild(licenseLine);
+      } else {
+        const noLicenseLine = document.createElement('div');
+        noLicenseLine.innerText = "❌ No license found";
+        container.appendChild(noLicenseLine);
+      }
+
+      if (srdUrl) {
+        const srdLine = document.createElement('div');
+        const srdAnchor = document.createElement('a');
+        srdAnchor.innerText = "System Reference Document";
+        srdAnchor.href = srdUrl;
+        srdAnchor.target = '_blank';
+        srdLine.appendChild(srdAnchor);
+        container.appendChild(srdLine);
+      }
+
+      return container;
     },
   },
   {

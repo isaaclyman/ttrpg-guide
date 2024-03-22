@@ -18,7 +18,11 @@
       "title": "Dungeon Master's Guide",
       "url": "https://www.dndbeyond.com/marketplace/sourcebooks/dungeon-masters-guide"
     }],
-    "is_open_licensed": "Yes",
+    "license": {
+      "is_permissive": true,
+      "display": "OGL + CC BY 4.0",
+      "url": "https://dnd.wizards.com/resources/systems-reference-document"
+    },
     "srd_url": "https://5thsrd.org/",
     "most_famous_property": "Critical Role (actual play)\nHonor Among Thieves (blockbuster film)\nBaldur's Gate (video game franchise)",
     "crunch": "Medium crunch",
@@ -41,7 +45,11 @@
       "title": "Pathfinder Core Rulebook",
       "url": "https://paizo.com/products/btq01zp3?Pathfinder-Core-Rulebook"
     }],
-    "is_open_licensed": "Yes",
+    "license": {
+      "is_permissive": true,
+      "display": "ORC",
+      "url": "https://paizo.com/orclicense"
+    },
     "srd_url": "https://2e.aonprd.com/",
     "most_famous_property": "Itself",
     "crunch": "Medium-high crunch",
@@ -63,7 +71,11 @@
       "title": "Starfinder Core Rulebook",
       "url": "https://paizo.com/products/btpy9ssr?Starfinder-Core-Rulebook"
     }],
-    "is_open_licensed": "Yes",
+    "license": {
+      "is_permissive": true,
+      "display": "ORC",
+      "url": "https://paizo.com/orclicense"
+    },
     "srd_url": "https://www.aonsrd.com/",
     "most_famous_property": "Itself",
     "crunch": "Medium-high crunch",
@@ -85,7 +97,11 @@
       "title": "Cypher System Rulebook",
       "url": "https://www.montecookgames.com/store/product/cypher-system-rulebook-2/"
     }],
-    "is_open_licensed": "Yes",
+    "license": {
+      "is_permissive": true,
+      "display": "CSOL",
+      "url": "https://csol.montecookgames.com/"
+    },
     "srd_url": "https://callmepartario.github.io/og-csrd/",
     "most_famous_property": "Numenera (distant future sci-fi fantasy setting)\nThe Strange (sci-fi multiverse setting)",
     "crunch": "Low crunch",
@@ -108,7 +124,11 @@
       "title": "Basic Roleplaying: Universal Game Engine",
       "url": "https://www.chaosium.com/basic-roleplaying-universal-game-engine-pdf/"
     }],
-    "is_open_licensed": "Yes",
+    "license": {
+      "is_permissive": true,
+      "display": "BRP-OGL",
+      "url": "https://www.chaosium.com/brp-system-reference-document/"
+    },
     "srd_url": "https://brp.chaosium.com/basic-roleplaying/",
     "most_famous_property": "Call of Cthulhu (Lovecraftian 1920s setting)\nDelta Green (modern paranormal conspiracy setting)",
     "crunch": "Low crunch",
@@ -130,7 +150,7 @@
       "title": "Shadowrun: Sixth World Core Rulebook:\nCity Edition: Seattle",
       "url": "https://store.catalystgamelabs.com/products/shadowrun-sixth-world-core-rulebook"
     }],
-    "is_open_licensed": "No",
+    "license": null,
     "srd_url": null,
     "most_famous_property": "Spinoff video game franchise",
     "crunch": "High crunch",
@@ -152,7 +172,11 @@
       "title": "Genesys Core Rulebook",
       "url": "https://preview.drivethrurpg.com/en/product/228813/genesys-core-rulebook"
     }],
-    "is_open_licensed": "No",
+    "license": {
+      "is_permissive": false,
+      "display": "Genesys Foundry Creator Program",
+      "url": "https://help.drivethrurpg.com/hc/en-us/articles/12723259024023-Genesys-Foundry-Content-Guidelines"
+    },
     "srd_url": null,
     "most_famous_property": "Star Wars RPG",
     "crunch": "Medium crunch",
@@ -174,7 +198,11 @@
       "title": "Blades in the Dark",
       "url": "https://evilhat.com/product/blades-in-the-dark/"
     }],
-    "is_open_licensed": "Yes",
+    "license": {
+      "is_permissive": true,
+      "display": "CC BY 3.0",
+      "url": "https://bladesinthedark.com/licensing"
+    },
     "srd_url": "https://bladesinthedark.com/basics",
     "most_famous_property": "Blades in the Dark",
     "crunch": "Low crunch",
@@ -196,7 +224,7 @@
       "title": "WFRP: Core Rulebook",
       "url": "https://cubicle7games.com/warhammer-fantasy-roleplay-rulebook-pdf"
     }],
-    "is_open_licensed": "No",
+    "license": null,
     "srd_url": null,
     "most_famous_property": "Warhammer (video game franchise)\nWarhammer (miniature wargame)\nWarhammer 40,000 (miniature wargame)",
     "crunch": "Medium-high crunch",
@@ -218,7 +246,7 @@
       "title": "Ars Magica: Fifth Edition",
       "url": "https://www.atlas-games.com/product_tables/AG0205"
     }],
-    "is_open_licensed": "No",
+    "license": null,
     "srd_url": null,
     "most_famous_property": "Itself",
     "crunch": "Medium-high crunch",
@@ -244,7 +272,11 @@
       "title": "Cyberpunk Red",
       "url": "https://preview.drivethrurpg.com/en/product/333585/cyberpunk-red"
     }],
-    "is_open_licensed": "No",
+    "license": {
+      "is_permissive": false,
+      "display": "Homebrew Content Policy",
+      "url": "https://rtalsoriangames.com/homebrew-content-policy/"
+    },
     "srd_url": null,
     "most_famous_property": "Cyberpunk Red (RPG)\nCyberpunk 2077 (spinoff video game)\nCyberpunk: Edgerunners (spinoff Netflix series)",
     "crunch": "Medium-low crunch",
@@ -274,7 +306,11 @@
       "title": "Tales from the Loop RPG: Rulebook",
       "url": "https://preview.drivethrurpg.com/en/product/210617/tales-from-the-loop-rpg-rulebook"
     }],
-    "is_open_licensed": "Yes",
+    "license": {
+      "is_permissive": true,
+      "display": "FTL",
+      "url": "https://freeleaguepublishing.com/wp-content/uploads/2023/11/Year-Zero-Engine-License-Agreement.pdf"
+    },
     "srd_url": "https://frank-mitchell.com/rpg/year-zero-engine-ogl/",
     "most_famous_property": "Alien: The Roleplaying Game\nMutant Year Zero (RPG)\nMutany Year Zero: Road to Eden (spinoff video game)\nTales from the Loop (RPG)",
     "crunch": "Low crunch",
@@ -296,7 +332,11 @@
       "title": "Vampire: The Masquerade 5th Edition",
       "url": "https://preview.drivethrurpg.com/en/product/256795/vampire-the-masquerade-5th-edition"
     }],
-    "is_open_licensed": "No",
+    "license": {
+      "is_permissive": false,
+      "display": "Partner Licensing Network",
+      "url": "https://www.paradoxinteractive.com/games/world-of-darkness/business/official-licensing"
+    },
     "srd_url": null,
     "most_famous_property": "Vampire: The Masquerade",
     "crunch": "Medium-low crunch",
@@ -351,7 +391,11 @@
       "title": "Thirsty Sword Lesbians",
       "url": "https://preview.drivethrurpg.com/en/product/348096/thirsty-sword-lesbians"
     }],
-    "is_open_licensed": "In progress",
+    "license": {
+      "is_permissive": true,
+      "display": "Powered by the Apocalypse policy",
+      "url": "http://apocalypse-world.com/pbta/policy"
+    },
     "srd_url": null,
     "most_famous_property": "Apocalypse World\nAvatar Legends\nCity of Mist\nDungeon World\nMasks: A New Generation\nMonsterhearts\nMonster of the Week\nThirsty Sword Lesbians",
     "crunch": "Low crunch / varies",
@@ -373,7 +417,7 @@
       "title": "Stars Without Number: Revised Edition",
       "url": "https://preview.drivethrurpg.com/en/product/230009/Stars-Without-Number-Revised-Edition-Free-Version"
     }],
-    "is_open_licensed": "No",
+    "license": null,
     "srd_url": null,
     "most_famous_property": "Itself",
     "crunch": "Medium crunch",
@@ -399,7 +443,11 @@
       "title": "GURPS Basic Set: Campaigns",
       "url": "https://preview.drivethrurpg.com/en/product/224831/gurps-basic-set-campaigns"
     }],
-    "is_open_licensed": "No",
+    "license": {
+      "is_permissive": false,
+      "display": "No derivative works allowed",
+      "url": "https://www.sjgames.com/gurps/faq/FAQ4-2.html"
+    },
     "srd_url": null,
     "most_famous_property": "Itself",
     "crunch": "High crunch",
@@ -426,7 +474,11 @@
       "title": "Fudge 10th Anniversary Edition",
       "url": "https://preview.drivethrurpg.com/en/product/327196/fudge-10th-anniversary-edition"
     }],
-    "is_open_licensed": "Yes",
+    "license": {
+      "is_permissive": true,
+      "display": "OGL",
+      "url": "https://www.fudgerpg.com/about/about-fudge/fudge-ogl-requirements.html"
+    },
     "srd_url": "https://simonefelli.github.io/web/srd/",
     "most_famous_property": "Fate Core",
     "crunch": "Low crunch",
@@ -448,7 +500,11 @@
       "title": "Savage Worlds Adventure Edition Core Rules",
       "url": "https://peginc.com/product/savage-worlds-adventure-edition-core-rules-pdf-swade/"
     }],
-    "is_open_licensed": "No",
+    "license": {
+      "is_permissive": false,
+      "display": "Fan License + Creator Program + Partner Licensing",
+      "url": "https://peginc.com/licensing/"
+    },
     "srd_url": null,
     "most_famous_property": "Deadlands: Reloaded (Wild West fantasy setting)",
     "crunch": "Medium crunch",
@@ -471,7 +527,11 @@
       "title": "Mörk Borg English",
       "url": "https://preview.drivethrurpg.com/en/product/295910/moerk-borg-english"
     }],
-    "is_open_licensed": "Yes",
+    "license": {
+      "is_permissive": true,
+      "display": "MÖRK BORG THIRD PARTY LICENSE",
+      "url": "https://morkborg.com/license/"
+    },
     "srd_url": "https://morkborg.com/content/",
     "most_famous_property": "Itself",
     "crunch": "Low crunch",
@@ -494,7 +554,7 @@
       "title": "Kids on Bikes: Core Rulebook",
       "url": "https://preview.drivethrurpg.com/en/product/231938/Kids-on-Bikes-Core-Rulebook"
     }],
-    "is_open_licensed": "No",
+    "license": null,
     "srd_url": null,
     "most_famous_property": "Itself",
     "crunch": "Low crunch",
@@ -516,7 +576,11 @@
       "title": "AGON",
       "url": "https://johnharper.itch.io/agon"
     }],
-    "is_open_licensed": "Yes",
+    "license": {
+      "is_permissive": true,
+      "display": "CC BY 4.0",
+      "url": "http://agon-rpg.com/"
+    },
     "srd_url": "http://www.agon-rpg.com/",
     "most_famous_property": "AGON",
     "crunch": "Low crunch",
@@ -538,7 +602,7 @@
       "title": "Risus: The Anything RPG",
       "url": "https://preview.drivethrurpg.com/en/product/170294/Risus-The-Anything-RPG"
     }],
-    "is_open_licensed": "Yes",
+    "license": null,
     "srd_url": "https://www.risusiverse.com/home/rule-elucidation",
     "most_famous_property": "Itself",
     "crunch": "Low crunch",
@@ -561,7 +625,7 @@
       "title": "Burning Wheel Gold Revised",
       "url": "https://www.burningwheel.com/burning-wheel-gold-revised-pdf/"
     }],
-    "is_open_licensed": "No",
+    "license": null,
     "srd_url": null,
     "most_famous_property": "Itself",
     "crunch": "High crunch",
@@ -584,7 +648,7 @@
       "title": "HERO System 6th Edition Bundle",
       "url": "https://preview.drivethrurpg.com/en/product/64074/hero-system-6th-edition-bundle-character-creation-combat-and-adventuring"
     }],
-    "is_open_licensed": "No",
+    "license": null,
     "srd_url": null,
     "most_famous_property": "Champions Online (spinoff video game)",
     "crunch": "High crunch",
@@ -606,7 +670,7 @@
       "title": "Cortex Prime",
       "url": "https://shop.direwolfdigital.com/products/cortex-prime?variant=42682288275609"
     }],
-    "is_open_licensed": "No",
+    "license": null,
     "srd_url": null,
     "most_famous_property": "Battlestar Galactica RPG\nMarvel Heroic RPG\nSerenity RPG (AKA Firefly)\nSupernatural RPG",
     "crunch": "Medium-low crunch",
@@ -628,7 +692,7 @@
       "title": "Dread",
       "url": "https://preview.drivethrurpg.com/en/product/83854/Dread"
     }],
-    "is_open_licensed": "No",
+    "license": null,
     "srd_url": null,
     "most_famous_property": "Itself",
     "crunch": "Low crunch",
@@ -655,7 +719,11 @@
       "title": "Traveller Core Rulebook Update 2022",
       "url": "https://www.mongoosepublishing.com/products/traveller-core-rulebook-update-2022?variant=42088931754231"
     }],
-    "is_open_licensed": "Yes",
+    "license": {
+      "is_permissive": false,
+      "display": "Fair Use Policy + Creator Program + Partner Licensing",
+      "url": "https://www.mongoosepublishing.com/pages/traveller-licensing"
+    },
     "srd_url": "https://www.traveller-srd.com/",
     "most_famous_property": "Itself",
     "crunch": "Medium-high crunch",
@@ -686,7 +754,11 @@
       "title": "Dune - Adventures in the Imperium",
       "url": "https://preview.drivethrurpg.com/en/product/338242/dune-adventures-in-the-imperium-core-rulebook-standard-edition"
     }],
-    "is_open_licensed": "Yes",
+    "license": {
+      "is_permissive": false,
+      "display": "Worldbuilders Creator Program",
+      "url": "https://www.modiphius.net/en-us/pages/2d20worldbuilders"
+    },
     "srd_url": "https://preview.drivethrurpg.com/en/product/403658/2d20-System-Reference-Document",
     "most_famous_property": "Fallout RPG\nStar Trek Adventures (RPG)",
     "crunch": "Medium crunch / varies",
@@ -709,7 +781,11 @@
       "title": "Lancer Core Book: First Edition",
       "url": "https://massif-press.itch.io/corebook-pdf"
     }],
-    "is_open_licensed": "Yes",
+    "license": {
+      "is_permissive": true,
+      "display": "Third Party License",
+      "url": "https://massifpress.com/legal"
+    },
     "srd_url": "https://massif-press.itch.io/corebook-pdf-free",
     "most_famous_property": "Itself",
     "crunch": "Medium-high crunch",

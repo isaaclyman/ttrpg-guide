@@ -14,7 +14,11 @@
       "title": "",
       "url": ""
     }],
-    "is_open_licensed": ,
+    "license": {
+      "is_permissive": bool,
+      "display": "",
+      "url": ""
+    },
     "srd_url": ,
     "most_famous_property": ,
     "crunch": ,
