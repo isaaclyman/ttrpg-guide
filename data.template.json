@@ -9,7 +9,11 @@
     "known_for": ,
     "core_mechanic": ,
     "price_of_entry": ,
-    "purchase_url": ,
+    "core_books": [{
+      "price": "",
+      "title": "",
+      "url": ""
+    }],
     "is_open_licensed": ,
     "srd_url": ,
     "most_famous_property": ,

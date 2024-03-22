@@ -8,8 +8,16 @@
     "discord_size": 188600,
     "known_for": "Most popular TTRPG (by far)\nMassive community",
     "core_mechanic": "1d20 + ability bonus\n≥ target set by GM",
-    "price_of_entry": "$30\nPlayer's Handbook\nDungeon Master's Guide",
-    "purchase_url": "https://www.dndbeyond.com/marketplace/sourcebooks",
+    "price_of_entry": 60,
+    "core_books": [{
+      "price": "$30",
+      "title": "Player's Handbook",
+      "url": "https://www.dndbeyond.com/marketplace/sourcebooks/players-handbook"
+    }, {
+      "price": "$30",
+      "title": "Dungeon Master's Guide",
+      "url": "https://www.dndbeyond.com/marketplace/sourcebooks/dungeon-masters-guide"
+    }],
     "is_open_licensed": "Yes",
     "srd_url": "https://5thsrd.org/",
     "most_famous_property": "Critical Role (actual play)\nHonor Among Thieves (blockbuster film)\nBaldur's Gate (video game franchise)",
@@ -27,8 +35,12 @@
     "discord_size": 25200,
     "known_for": "Adaptation of D&D 3.5E",
     "core_mechanic": "1d20 + ability bonus\n≥ target set by GM",
-    "price_of_entry": "$20\nCore Rulebook",
-    "purchase_url": "https://paizo.com/products/btq01zp3?Pathfinder-Core-Rulebook",
+    "price_of_entry": 20,
+    "core_books": [{
+      "price": "$20",
+      "title": "Pathfinder Core Rulebook",
+      "url": "https://paizo.com/products/btq01zp3?Pathfinder-Core-Rulebook"
+    }],
     "is_open_licensed": "Yes",
     "srd_url": "https://2e.aonprd.com/",
     "most_famous_property": "Itself",
@@ -45,8 +57,12 @@
     "discord_size": 6100,
     "known_for": "Adaptation of Pathfinder",
     "core_mechanic": "1d20 + ability bonus\n≥ target set by GM",
-    "price_of_entry": "$20\nCore Rulebook",
-    "purchase_url": "https://paizo.com/products/btpy9ssr?Starfinder-Core-Rulebook",
+    "price_of_entry": 20,
+    "core_books": [{
+      "price": "$20",
+      "title": "Starfinder Core Rulebook",
+      "url": "https://paizo.com/products/btpy9ssr?Starfinder-Core-Rulebook"
+    }],
     "is_open_licensed": "Yes",
     "srd_url": "https://www.aonsrd.com/",
     "most_famous_property": "Itself",
@@ -63,8 +79,12 @@
     "subreddit_size": 9200,
     "known_for": "Easy to GM\nSingle-use loot items",
     "core_mechanic": "Negotiate difficulty\n1d20 ≥ target",
-    "price_of_entry": "$23\nCypher System Rulebook",
-    "purchase_url": "https://www.montecookgames.com/store/product/cypher-system-rulebook-2/",
+    "price_of_entry": 23,
+    "core_books": [{
+      "price": "$23",
+      "title": "Cypher System Rulebook",
+      "url": "https://www.montecookgames.com/store/product/cypher-system-rulebook-2/"
+    }],
     "is_open_licensed": "Yes",
     "srd_url": "https://callmepartario.github.io/og-csrd/",
     "most_famous_property": "Numenera (distant future sci-fi fantasy setting)\nThe Strange (sci-fi multiverse setting)",
@@ -82,8 +102,12 @@
     "discord_size": 1600,
     "known_for": "Sanity tracker\nMost popular TTRPG in Japan (Cthulhu)",
     "core_mechanic": "1d100 ≤ character skill",
-    "price_of_entry": "$25\nBasic Roleplaying: Universal Game Engine",
-    "purchase_url": "https://www.chaosium.com/basic-roleplaying-universal-game-engine-pdf/",
+    "price_of_entry": 25,
+    "core_books": [{
+      "price": "$25",
+      "title": "Basic Roleplaying: Universal Game Engine",
+      "url": "https://www.chaosium.com/basic-roleplaying-universal-game-engine-pdf/"
+    }],
     "is_open_licensed": "Yes",
     "srd_url": "https://brp.chaosium.com/basic-roleplaying/",
     "most_famous_property": "Call of Cthulhu (Lovecraftian 1920s setting)\nDelta Green (modern paranormal conspiracy setting)",
@@ -100,8 +124,12 @@
     "discord_size": 2500,
     "known_for": "Incredibly granular rules",
     "core_mechanic": "d6 dice pool\ncount fives and sixes\n≥ threshold set by GM",
-    "price_of_entry": "$20\nShadowrun: Sixth World Core Rulebook:\nCity Edition: Seattle",
-    "purchase_url": "https://store.catalystgamelabs.com/products/shadowrun-sixth-world-core-rulebook",
+    "price_of_entry": 20,
+    "core_books": [{
+      "price": "$20",
+      "title": "Shadowrun: Sixth World Core Rulebook:\nCity Edition: Seattle",
+      "url": "https://store.catalystgamelabs.com/products/shadowrun-sixth-world-core-rulebook"
+    }],
     "is_open_licensed": "No",
     "srd_url": null,
     "most_famous_property": "Spinoff video game franchise",
@@ -118,8 +146,12 @@
     "discord_size": 12200,
     "known_for": "Side effects on rolls - not just pass/fail\nHigh improv",
     "core_mechanic": "custom non-numeric dice\n(success/fail, luck, critical results,\nand several others)",
-    "price_of_entry": "$20\nGenesys Core Rulebook",
-    "purchase_url": "https://preview.drivethrurpg.com/en/product/228813/genesys-core-rulebook",
+    "price_of_entry": 20,
+    "core_books": [{
+      "price": "$20",
+      "title": "Genesys Core Rulebook",
+      "url": "https://preview.drivethrurpg.com/en/product/228813/genesys-core-rulebook"
+    }],
     "is_open_licensed": "No",
     "srd_url": null,
     "most_famous_property": "Star Wars RPG",
@@ -136,8 +168,12 @@
     "discord_size": 8200,
     "known_for": "Fast-paced play\nFaction system",
     "core_mechanic": "d6 dice pool\ntake highest\n4/5 = partial success, 6 = success",
-    "price_of_entry": "$20\nBlades in the Dark",
-    "purchase_url": "https://evilhat.com/product/blades-in-the-dark/",
+    "price_of_entry": 20,
+    "core_books": [{
+      "price": "$20",
+      "title": "Blades in the Dark",
+      "url": "https://evilhat.com/product/blades-in-the-dark/"
+    }],
     "is_open_licensed": "Yes",
     "srd_url": "https://bladesinthedark.com/basics",
     "most_famous_property": "Blades in the Dark",
@@ -154,8 +190,12 @@
     "discord_size": 8300,
     "known_for": "High risk of PC death\nGritty setting",
     "core_mechanic": "1d100 ≤ character skill",
-    "price_of_entry": "$30\nWarhammer Fantasy Roleplay: Core Rulebook",
-    "purchase_url": "https://cubicle7games.com/warhammer-fantasy-roleplay-rulebook-pdf",
+    "price_of_entry": 30,
+    "core_books": [{
+      "price": "$30",
+      "title": "WFRP: Core Rulebook",
+      "url": "https://cubicle7games.com/warhammer-fantasy-roleplay-rulebook-pdf"
+    }],
     "is_open_licensed": "No",
     "srd_url": null,
     "most_famous_property": "Warhammer (video game franchise)\nWarhammer (miniature wargame)\nWarhammer 40,000 (miniature wargame)",
@@ -172,8 +212,12 @@
     "discord_size": 1300,
     "known_for": "Complex system for building custom spells",
     "core_mechanic": "1d10 + character bonuses\n≥ target set by GM",
-    "price_of_entry": "$20\nArs Magica: Fifth Edition",
-    "purchase_url": "https://www.atlas-games.com/product_tables/AG0205",
+    "price_of_entry": 20,
+    "core_books": [{
+      "price": "$20",
+      "title": "Ars Magica: Fifth Edition",
+      "url": "https://www.atlas-games.com/product_tables/AG0205"
+    }],
     "is_open_licensed": "No",
     "srd_url": null,
     "most_famous_property": "Itself",
@@ -190,8 +234,16 @@
     "discord_size": 8000,
     "known_for": "Lifepath system",
     "core_mechanic": "1d10 + character bonuses\n≥ target set by GM",
-    "price_of_entry": "$10 - Fuzion Core\n$30 - Cyberpunk Red",
-    "purchase_url": "https://preview.drivethrurpg.com/en/product/333585/cyberpunk-red",
+    "price_of_entry": 30,
+    "core_books": [{
+      "price": "$4",
+      "title": "Fuzion Core",
+      "url": "https://preview.drivethrurpg.com/en/product/2367/fuzion-core-rules"
+    },{
+      "price": "$30",
+      "title": "Cyberpunk Red",
+      "url": "https://preview.drivethrurpg.com/en/product/333585/cyberpunk-red"
+    }],
     "is_open_licensed": "No",
     "srd_url": null,
     "most_famous_property": "Cyberpunk Red (RPG)\nCyberpunk 2077 (spinoff video game)\nCyberpunk: Edgerunners (spinoff Netflix series)",
@@ -208,8 +260,20 @@
     "discord_size": 5300,
     "known_for": "\"Pushed\" rolls",
     "core_mechanic": "d6 dice pool\nsuccess = at least one 6",
-    "price_of_entry": "$25 - MUTANT: Year Zero - Roleplaying At The End Of Days\n$25 - ALIEN RPG Core Rulebook",
-    "purchase_url": "https://preview.drivethrurpg.com/en/product/139453/mutant-year-zero-roleplaying-at-the-end-of-days",
+    "price_of_entry": 25,
+    "core_books": [{
+      "price": "$25",
+      "title": "MUTANT: Year Zero",
+      "url": "https://preview.drivethrurpg.com/en/product/139453/mutant-year-zero-roleplaying-at-the-end-of-days"
+    },{
+      "price": "$25",
+      "title": "ALIEN RPG Core Rulebook",
+      "url": "https://preview.drivethrurpg.com/en/product/293976/alien-rpg-core-rulebook"
+    },{
+      "price": "$25",
+      "title": "Tales from the Loop RPG: Rulebook",
+      "url": "https://preview.drivethrurpg.com/en/product/210617/tales-from-the-loop-rpg-rulebook"
+    }],
     "is_open_licensed": "Yes",
     "srd_url": "https://frank-mitchell.com/rpg/year-zero-engine-ogl/",
     "most_famous_property": "Alien: The Roleplaying Game\nMutant Year Zero (RPG)\nMutany Year Zero: Road to Eden (spinoff video game)\nTales from the Loop (RPG)",
@@ -226,8 +290,12 @@
     "discord_size": 21400,
     "known_for": "Dark/mature themes\nPolitical intrigue",
     "core_mechanic": "d10 dice pool\n≥ target set by GM",
-    "price_of_entry": "$25\nVampire: The Masquerade 5th Edition Core Rulebook",
-    "purchase_url": "https://preview.drivethrurpg.com/en/product/256795/vampire-the-masquerade-5th-edition",
+    "price_of_entry": 25,
+    "core_books": [{
+      "price": "$25",
+      "title": "Vampire: The Masquerade 5th Edition",
+      "url": "https://preview.drivethrurpg.com/en/product/256795/vampire-the-masquerade-5th-edition"
+    }],
     "is_open_licensed": "No",
     "srd_url": null,
     "most_famous_property": "Vampire: The Masquerade",
@@ -245,8 +313,44 @@
     "discord_size": 1000,
     "known_for": "Moves\nPermissive license\nDiversity of spinoff games",
     "core_mechanic": "2d6 + modifiers\n≥ fixed target",
-    "price_of_entry": "$28\nApocalypse World (2nd Ed)",
-    "purchase_url": "https://preview.drivethrurpg.com/en/product/194344/apocalypse-world-2nd-ed",
+    "price_of_entry": 28,
+    "core_books": [{
+      "price": "$28",
+      "title": "Apocalypse World (2nd Ed)",
+      "url": "https://preview.drivethrurpg.com/en/product/194344/apocalypse-world-2nd-ed"
+    }, {
+      "price": "$25",
+      "title": "Avatar Legends: The Roleplaying Game",
+      "url": "https://preview.drivethrurpg.com/en/product/384956/avatar-legends-the-roleplaying-game"
+    }, {
+      "price": "$20",
+      "title": "City of Mist: Player's Guide",
+      "url": "https://preview.drivethrurpg.com/en/product/266983/city-of-mist-player-s-guide"
+    }, {
+      "price": "$20",
+      "title": "City of Mist: MC Toolkit",
+      "url": "https://preview.drivethrurpg.com/en/product/266981/city-of-mist-mc-toolkit"
+    }, {
+      "price": "$10",
+      "title": "Dungeon World",
+      "url": "https://preview.drivethrurpg.com/en/product/108028/Dungeon-World"
+    }, {
+      "price": "$14",
+      "title": "Masks: A New Generation",
+      "url": "https://preview.drivethrurpg.com/en/product/193258/masks-a-new-generation"
+    }, {
+      "price": "$10",
+      "title": "Monsterhearts",
+      "url": "https://preview.drivethrurpg.com/en/product/100540/monsterhearts"
+    }, {
+      "price": "$20",
+      "title": "Monster of the Week",
+      "url": "https://preview.drivethrurpg.com/en/product/143518/monster-of-the-week"
+    }, {
+      "price": "$15",
+      "title": "Thirsty Sword Lesbians",
+      "url": "https://preview.drivethrurpg.com/en/product/348096/thirsty-sword-lesbians"
+    }],
     "is_open_licensed": "In progress",
     "srd_url": null,
     "most_famous_property": "Apocalypse World\nAvatar Legends\nCity of Mist\nDungeon World\nMasks: A New Generation\nMonsterhearts\nMonster of the Week\nThirsty Sword Lesbians",
@@ -263,8 +367,12 @@
     "discord_size": 2300,
     "known_for": "True sandbox exploration",
     "core_mechanic": "2d6 + modifiers\n≥ target set by GM",
-    "price_of_entry": "Free",
-    "purchase_url": "https://preview.drivethrurpg.com/en/product/230009/Stars-Without-Number-Revised-Edition-Free-Version",
+    "price_of_entry": 0,
+    "core_books": [{
+      "price": "Free",
+      "title": "Stars Without Number: Revised Edition",
+      "url": "https://preview.drivethrurpg.com/en/product/230009/Stars-Without-Number-Revised-Edition-Free-Version"
+    }],
     "is_open_licensed": "No",
     "srd_url": null,
     "most_famous_property": "Itself",
@@ -281,8 +389,16 @@
     "discord_size": 5782,
     "known_for": "First setting-agnostic RPG",
     "core_mechanic": "3d6 + modifiers\n≤ character skill",
-    "price_of_entry": "$55\nGURPS Basic Set: Characters\nGURPS Basic Set: Campaigns",
-    "purchase_url": "https://www.sjgames.com/gurps/books/Basic/",
+    "price_of_entry": 55,
+    "core_books": [{
+      "price": "$30",
+      "title": "GURPS Basic Set: Characters",
+      "url": "https://preview.drivethrurpg.com/en/product/224830/gurps-basic-set-characters"
+    }, {
+      "price": "$25",
+      "title": "GURPS Basic Set: Campaigns",
+      "url": "https://preview.drivethrurpg.com/en/product/224831/gurps-basic-set-campaigns"
+    }],
     "is_open_licensed": "No",
     "srd_url": null,
     "most_famous_property": "Itself",
@@ -300,8 +416,16 @@
     "discord_size": 2700,
     "known_for": "Rules-light",
     "core_mechanic": "4d6 (as +/0/- dice)\ncount fives and sixes (+)\n≥ target set by GM",
-    "price_of_entry": "Free (pay what you want)",
-    "purchase_url": "https://evilhat.com/product/fate-core-system/",
+    "price_of_entry": 0,
+    "core_books": [{
+      "price": "Free",
+      "title": "Fate Core System",
+      "url": "https://evilhat.com/product/fate-core-system/"
+    }, {
+      "price": "$17",
+      "title": "Fudge 10th Anniversary Edition",
+      "url": "https://preview.drivethrurpg.com/en/product/327196/fudge-10th-anniversary-edition"
+    }],
     "is_open_licensed": "Yes",
     "srd_url": "https://simonefelli.github.io/web/srd/",
     "most_famous_property": "Fate Core",
@@ -318,8 +442,12 @@
     "subreddit_size": 20500,
     "known_for": "Bennies\nFlexible character advancement",
     "core_mechanic": "roll die assigned to trait\n(d4 - d12)\n≥ target set by GM (typically 4)",
-    "price_of_entry": "$20\nSavage Worlds Adventure Edition Core Rules ",
-    "purchase_url": "https://peginc.com/product/savage-worlds-adventure-edition-core-rules-pdf-swade/",
+    "price_of_entry": 20,
+    "core_books": [{
+      "price": "$20",
+      "title": "Savage Worlds Adventure Edition Core Rules",
+      "url": "https://peginc.com/product/savage-worlds-adventure-edition-core-rules-pdf-swade/"
+    }],
     "is_open_licensed": "No",
     "srd_url": null,
     "most_famous_property": "Deadlands: Reloaded (Wild West fantasy setting)",
@@ -329,7 +457,7 @@
     "tags": ["action", "pulpy"]
   },
   {
-    "name": "Mork Borg",
+    "name": "Mörk Borg",
     "core_setting": "Horror / doom metal",
     "largest_subreddit": "r/MorkBorg",
     "subreddit_size": 13100,
@@ -337,8 +465,12 @@
     "discord_size": 6600,
     "known_for": "Extremely frequent PC death",
     "core_mechanic": "1d20 + stat bonus",
-    "price_of_entry": "$20\nMörk Borg English",
-    "purchase_url": "https://preview.drivethrurpg.com/en/product/295910/moerk-borg-english",
+    "price_of_entry": 20,
+    "core_books": [{
+      "price": "$20",
+      "title": "Mörk Borg English",
+      "url": "https://preview.drivethrurpg.com/en/product/295910/moerk-borg-english"
+    }],
     "is_open_licensed": "Yes",
     "srd_url": "https://morkborg.com/content/",
     "most_famous_property": "Itself",
@@ -356,8 +488,12 @@
     "discord_size": 4500,
     "known_for": "Collaborative worldbuilding",
     "core_mechanic": "roll die assigned to trait\n(d4 - d12)\n≥ target set by GM",
-    "price_of_entry": "$10\nKids on Bikes: Core Rulebook",
-    "purchase_url": "https://preview.drivethrurpg.com/en/product/231938/Kids-on-Bikes-Core-Rulebook",
+    "price_of_entry": 10,
+    "core_books": [{
+      "price": "$10",
+      "title": "Kids on Bikes: Core Rulebook",
+      "url": "https://preview.drivethrurpg.com/en/product/231938/Kids-on-Bikes-Core-Rulebook"
+    }],
     "is_open_licensed": "No",
     "srd_url": null,
     "most_famous_property": "Itself",
@@ -374,8 +510,12 @@
     "discord_size": 300,
     "known_for": "Zero-prep one-shots",
     "core_mechanic": "party rolls together\ndice pool based on traits\ntake 2 highest + d4 result\n≥ GM dice pool roll",
-    "price_of_entry": "$15\nAGON",
-    "purchase_url": "https://johnharper.itch.io/agon",
+    "price_of_entry": 15,
+    "core_books": [{
+      "price": "$15",
+      "title": "AGON",
+      "url": "https://johnharper.itch.io/agon"
+    }],
     "is_open_licensed": "Yes",
     "srd_url": "http://www.agon-rpg.com/",
     "most_famous_property": "AGON",
@@ -392,8 +532,12 @@
     "discord_size": 100,
     "known_for": "4-page rulebook\nCharacter clichés",
     "core_mechanic": "d6 dice pool\n≥ target set by GM",
-    "price_of_entry": "Free",
-    "purchase_url": "https://preview.drivethrurpg.com/en/product/170294/Risus-The-Anything-RPG",
+    "price_of_entry": 0,
+    "core_books": [{
+      "price": "Free",
+      "title": "Risus: The Anything RPG",
+      "url": "https://preview.drivethrurpg.com/en/product/170294/Risus-The-Anything-RPG"
+    }],
     "is_open_licensed": "Yes",
     "srd_url": "https://www.risusiverse.com/home/rule-elucidation",
     "most_famous_property": "Itself",
@@ -411,8 +555,12 @@
     "discord_size": 1200,
     "known_for": "Character beliefs\nLiterary style",
     "core_mechanic": "d6 dice pool\ntarget depends on die\n≥ target set by GM + modifiers",
-    "price_of_entry": "$20\nBurning Wheel Gold Revised",
-    "purchase_url": "https://www.burningwheel.com/burning-wheel-gold-revised-pdf/",
+    "price_of_entry": 20,
+    "core_books": [{
+      "price": "$20",
+      "title": "Burning Wheel Gold Revised",
+      "url": "https://www.burningwheel.com/burning-wheel-gold-revised-pdf/"
+    }],
     "is_open_licensed": "No",
     "srd_url": null,
     "most_famous_property": "Itself",
@@ -430,8 +578,12 @@
     "discord_size": 800,
     "known_for": "Very open-ended character creation",
     "core_mechanic": "3d6 ≤ character skill",
-    "price_of_entry": "$50\nHERO System 6th Edition Bundle",
-    "purchase_url": "https://preview.drivethrurpg.com/en/product/64074/hero-system-6th-edition-bundle-character-creation-combat-and-adventuring",
+    "price_of_entry": 50,
+    "core_books": [{
+      "price": "$50",
+      "title": "HERO System 6th Edition Bundle",
+      "url": "https://preview.drivethrurpg.com/en/product/64074/hero-system-6th-edition-bundle-character-creation-combat-and-adventuring"
+    }],
     "is_open_licensed": "No",
     "srd_url": null,
     "most_famous_property": "Champions Online (spinoff video game)",
@@ -448,8 +600,12 @@
     "discord_size": 4000,
     "known_for": "Several licensed RPGs",
     "core_mechanic": "roll dice assigned to traits\n(d4 - d12)\nadd two highest\n≥ GM d6 pool roll",
-    "price_of_entry": "$25\nCortex Prime",
-    "purchase_url": "https://shop.direwolfdigital.com/products/cortex-prime?variant=42682288275609",
+    "price_of_entry": 25,
+    "core_books": [{
+      "price": "$25",
+      "title": "Cortex Prime",
+      "url": "https://shop.direwolfdigital.com/products/cortex-prime?variant=42682288275609"
+    }],
     "is_open_licensed": "No",
     "srd_url": null,
     "most_famous_property": "Battlestar Galactica RPG\nMarvel Heroic RPG\nSerenity RPG (AKA Firefly)\nSupernatural RPG",
@@ -466,8 +622,12 @@
     "discord_size": null,
     "known_for": "Rising tension and suspense",
     "core_mechanic": "Pull 1+ blocks from Jenga tower",
-    "price_of_entry": "$12\nDread",
-    "purchase_url": "https://preview.drivethrurpg.com/en/product/83854/Dread",
+    "price_of_entry": 12,
+    "core_books": [{
+      "price": "$12",
+      "title": "Dread",
+      "url": "https://preview.drivethrurpg.com/en/product/83854/Dread"
+    }],
     "is_open_licensed": "No",
     "srd_url": null,
     "most_famous_property": "Itself",
@@ -485,8 +645,16 @@
     "discord_size": 4300,
     "known_for": "One of the oldest sci-fi RPGs\nPossible inspiration for Firefly (TV series)",
     "core_mechanic": "2d6 + modifiers\n≥ 8 + modifiers",
-    "price_of_entry": "$99\nTraveller5 Core Rules 3-Book Set",
-    "purchase_url": "https://preview.drivethrurpg.com/en/product/150646/t5-traveller5-core-rules-3-book-set",
+    "price_of_entry": 99,
+    "core_books": [{
+      "price": "$99",
+      "title": "Traveller5 Core Rules 3-Book Set",
+      "url": "https://preview.drivethrurpg.com/en/product/150646/t5-traveller5-core-rules-3-book-set"
+    }, {
+      "price": "$30",
+      "title": "Traveller Core Rulebook Update 2022",
+      "url": "https://www.mongoosepublishing.com/products/traveller-core-rulebook-update-2022?variant=42088931754231"
+    }],
     "is_open_licensed": "Yes",
     "srd_url": "https://www.traveller-srd.com/",
     "most_famous_property": "Itself",
@@ -504,8 +672,20 @@
     "discord_size": 800,
     "known_for": "Momentum\nMetacurrencies",
     "core_mechanic": "2d20\ncount ≤ character skill\n≥ target set by GM",
-    "price_of_entry": "$20 - Star Trek Adventures: Core Rulebook\n$20 - Fallout: The Roleplaying Game Core Rulebook",
-    "purchase_url": "https://preview.drivethrurpg.com/en/product/214552/star-trek-adventures-core-rulebook",
+    "price_of_entry": 20,
+    "core_books": [{
+      "price": "$20",
+      "title": "Star Trek Adventures: Core Rulebook",
+      "url": "https://preview.drivethrurpg.com/en/product/214552/star-trek-adventures-core-rulebook"
+    }, {
+      "price": "$20",
+      "title": "Fallout: The Roleplaying Game Core Rulebook",
+      "url": "https://preview.drivethrurpg.com/en/product/366742/fallout-the-roleplaying-game-core-rulebook-pdf"
+    }, {
+      "price": "$25",
+      "title": "Dune - Adventures in the Imperium",
+      "url": "https://preview.drivethrurpg.com/en/product/338242/dune-adventures-in-the-imperium-core-rulebook-standard-edition"
+    }],
     "is_open_licensed": "Yes",
     "srd_url": "https://preview.drivethrurpg.com/en/product/403658/2d20-System-Reference-Document",
     "most_famous_property": "Fallout RPG\nStar Trek Adventures (RPG)",
@@ -523,8 +703,12 @@
     "discord_size": 40900,
     "known_for": "Customizable mechs\nCOMP/CON online companion",
     "core_mechanic": "1d20 + modifiers\n≥ 10, 20, or enemy value",
-    "price_of_entry": "$25\nLancer Core Book: First Edition",
-    "purchase_url": "https://massif-press.itch.io/corebook-pdf",
+    "price_of_entry": 25,
+    "core_books": [{
+      "price": "$25",
+      "title": "Lancer Core Book: First Edition",
+      "url": "https://massif-press.itch.io/corebook-pdf"
+    }],
     "is_open_licensed": "Yes",
     "srd_url": "https://massif-press.itch.io/corebook-pdf-free",
     "most_famous_property": "Itself",

@@ -11,10 +11,6 @@ RPGs should only be included if they are:
 
 ## FAQ
 
-#### Why is *Apocalypse World* used as the "Price of Entry" for Powered by the Apocalypse?
-
-"Powered by the Apocalypse" covers a very diverse set of RPGs in reality, and an even more diverse set in theory. But in order for this chart to compare apples to apples, there has to be a price point and some kind of "core book." *Apocalypse World* is the RPG that started the PbtA phenomenon and the only book that could be called canonical, so it's the only reasonable choice.
-
 #### Why is (GAME) listed as (LOW/MEDIUM/HIGH) crunch? It's actually (LOWER/HIGHER).
 
 Crunch can be subjective. For each game, rather than making the judgment call on my own, I found forum and social media threads on the topic and did my best to gather some kind of consensus. Sometimes there's a lot of dissent among the player base and that's okay! But whenever someone said "yes, the system has a lot of rules, but you can play without most of them," I ignored that. The only fair way to compare systems is the way they were designed (RAW).

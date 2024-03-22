@@ -8,7 +8,6 @@ const crunchAmounts = [
   "high ",
 ];
 
-const priceMatcher = /^\$([0-9]+)/i;
 const yearMatcher = /^[0-9]+/i;
 
 const numberFormatter = new Intl.NumberFormat();
@@ -45,7 +44,7 @@ export const columns: ColumnDefinition[] = [
     title: "Subreddit",
     headerSortTristate: true,
     formatter: function (cell) {
-      const sub =  cell.getRow().getData().largest_subreddit;
+      const sub =  cell.getData().largest_subreddit;
       const size = cell.getValue();
       if (!sub || !size) {
         return "???";
@@ -73,7 +72,7 @@ export const columns: ColumnDefinition[] = [
     sorter: 'number',
     headerSortTristate: true,
     formatter: function (cell) {
-      const url = cell.getRow().getData().discord_url
+      const url = cell.getData().discord_url
       const size = cell.getValue();
       if (!url || !size) {
         return "???";
@@ -142,29 +141,27 @@ export const columns: ColumnDefinition[] = [
     field: "price_of_entry",
     title: "Price of Entry (PDF)",
     headerSortTristate: true,
-    sorter: function (a: string, b: string) {
-      const aPrice = a.toLowerCase().startsWith("free")
-        ? "0"
-        : priceMatcher.exec(a)?.[1];
-      const bPrice = b.toLowerCase().startsWith("free")
-        ? "0"
-        : priceMatcher.exec(b)?.[1];
-
-      if (aPrice === bPrice) {
-        return 0;
+    sorter: 'number',
+    formatter: function(cell) {
+      const books = cell.getData().core_books;
+      if (!books) {
+        return '???';
       }
 
-      if (!aPrice) {
-        return 1;
+      const container = document.createElement('div');
+
+      for (const book of books) {
+        const bookDiv = document.createElement('div');
+        const anchor = document.createElement('a');
+        anchor.innerText = `${book.price}—${book.title}`;
+        anchor.href = book.url;
+        anchor.target = '_blank';
+        bookDiv.appendChild(anchor);
+        container.appendChild(bookDiv);
       }
 
-      if (!bPrice) {
-        return -1;
-      }
-
-      return Number(aPrice) - Number(bPrice);
+      return container;
     },
-    formatter: "link",
     formatterParams: {
       labelField: "price_of_entry",
       urlField: "purchase_url",
@@ -176,7 +173,7 @@ export const columns: ColumnDefinition[] = [
     title: "Open-licensed rules?",
     headerSortTristate: true,
     formatter: function(cell) {
-      const url = cell.getRow().getData().srd_url;
+      const url = cell.getData().srd_url;
       if (!url) {
         return cell.getValue();
       }
