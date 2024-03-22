@@ -25,6 +25,10 @@ It's still possible I screwed something up. If you have in-depth experience with
 
 This is a guide to tabletop *systems*, not games. Granted, there's significant diversity within some systems, especially loosely-defined ones like PbtA. But in my opinion, it's still useful information to group PbtA games together, and doing so helps keep the project manageable.
 
+#### (TRAIT) is subjective. It depends on the GM.
+
+_Everything_ depends on the GM. If I included house rules and homebrew, every cell in the table would just say "it depends." I think we can all agree that's not useful.
+
 ## Contributing
 
 To expand or edit the list of RPGs, [file an issue](https://github.com/isaaclyman/ttrpg-guide/issues/new/choose) or make a pull request to data.json.
