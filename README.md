@@ -87,7 +87,3 @@ Column ideas:
 - Compatible VTTs
 - Discord community links
 - Gameplay tags (gritty, realistic, cinematic, humor, pulp, heist, fast-paced, action)
-
-Other ideas:
-
-- Add a footnote to Apocalypse World - it's not really a "core" rulebook, and each PbtA game stands on its own
