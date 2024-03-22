@@ -12,7 +12,6 @@ import {
   MoveColumnsModule,
   PopupModule,
   ResizeTableModule,
-  RowComponent,
   SortModule,
   Tabulator,
 } from "tabulator-tables";
