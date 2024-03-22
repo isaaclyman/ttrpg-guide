@@ -40,7 +40,7 @@ Tabulator.registerModule([
 const table = new Tabulator("#rpgtable", {
   columns,
   data: rpgs,
-  initialSort: [{ column: "subreddit_size", dir: "desc" }],
+  initialSort: [{ column: "popularity", dir: "desc" }],
   movableColumns: true,
 });
 

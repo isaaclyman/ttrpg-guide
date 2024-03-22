@@ -1,4 +1,4 @@
-import { ColumnDefinition } from "tabulator-tables";
+import { ColumnDefinition, RowComponent } from "tabulator-tables";
 
 const crunchAmounts = [
   "low ",
@@ -26,26 +26,73 @@ export const columns: ColumnDefinition[] = [
     headerSort: false,
   },
   {
-    field: "largest_subreddit",
-    title: "Largest Subreddit",
-    headerSort: false,
-    formatter: 'link',
-    formatterParams: function(cell) {
-      return {
-        labelField: 'largest_subreddit',
-        url: `https://reddit.com/${cell.getValue()}`,
-        target: '_blank',
+    field: "popularity",
+    title: "Popularity",
+    visible: false,
+    sorter: function (_, __, aRow, bRow) {
+      function getSize(row: RowComponent) {
+        const data = row.getData();
+        return Math.max(data.subreddit_size, data.discord_size);
       }
+      
+      const aSize = getSize(aRow);
+      const bSize = getSize(bRow);
+      return aSize - bSize;
     }
   },
   {
     field: "subreddit_size",
-    title: "Subreddit Size",
-    sorter: "number",
+    title: "Subreddit",
     headerSortTristate: true,
-    formatter: function (cell): string {
-      return numberFormatter.format(cell.getValue());
+    formatter: function (cell) {
+      const sub =  cell.getRow().getData().largest_subreddit;
+      const size = cell.getValue();
+      if (!sub || !size) {
+        return "???";
+      }
+
+      const container = document.createElement('div');
+      
+      const sizeText = document.createElement('div');
+      sizeText.innerText = numberFormatter.format(Number(size));
+      container.appendChild(sizeText);
+
+      const subLink = document.createElement('a');
+      subLink.innerText = sub;
+      subLink.href = `https://reddit.com/${sub}`;
+      subLink.target = '_blank';
+      container.appendChild(subLink);
+
+      return container;
     },
+    sorter: 'number'
+  },
+  {
+    field: "discord_size",
+    title: "Discord",
+    sorter: 'number',
+    headerSortTristate: true,
+    formatter: function (cell) {
+      const url = cell.getRow().getData().discord_url
+      const size = cell.getValue();
+      if (!url || !size) {
+        return "???";
+      }
+
+      const container = document.createElement('div');
+      
+      const sizeText = document.createElement('div');
+      sizeText.innerText = numberFormatter.format(Number(size));
+      container.appendChild(sizeText);
+
+      const subLink = document.createElement('a');
+      subLink.innerText = "Discord";
+      subLink.href = url;
+      subLink.target = '_blank';
+      container.appendChild(subLink);
+
+      return container;
+    }
   },
   {
     field: "known_for",
