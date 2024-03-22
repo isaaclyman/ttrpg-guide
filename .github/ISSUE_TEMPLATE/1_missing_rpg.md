@@ -55,6 +55,9 @@ Link to the PDF versions of those books here.
 -->
 **Core PDFs:**
 
+<!-- What license is the game published under? Is there a Creative Commons or Open License? Link it here. -->
+**License:**
+
 <!-- If the core rules are *legally* available on the Internet, link them here. -->
 **System Reference Document:**
 
