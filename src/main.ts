@@ -12,6 +12,7 @@ import {
   MoveColumnsModule,
   PopupModule,
   ResizeTableModule,
+  RowComponent,
   SortModule,
   Tabulator,
 } from "tabulator-tables";
@@ -52,19 +53,57 @@ function handleMobileScreens() {
   });
 
   if (mobileMode) {
-    document.querySelector('#desktop-info')?.classList.remove('hidden');
+    document.querySelector("#desktop-info")?.classList.remove("hidden");
   } else {
-    document.querySelector('#desktop-info')?.classList.add('hidden');
+    document.querySelector("#desktop-info")?.classList.add("hidden");
   }
 }
 
-table.on('tableBuilt', () => {
+table.on("tableBuilt", () => {
   handleMobileScreens();
-  
-  addEventListener('resize', handleMobileScreens);
+
+  addEventListener("resize", handleMobileScreens);
 
   table.redraw();
   setTimeout(() => {
     table.redraw();
   }, 500);
-})
+});
+
+function searchMatchesRow(data: any, {searchText}: { searchText: string }): boolean {
+  const searchable = [
+    data.name,
+    data.core_setting,
+    data.largest_subreddit,
+    data.known_for,
+    data.core_mechanic,
+    ...data.core_books?.map((bk: any) => bk.title),
+    data.license && data.license.is_permissive
+      ? "Permissive license"
+      : data.license && !data.license.is_permissive
+      ? "Limited license"
+      : "No license found",
+    (data.license && data.license.display) ?? '',
+    data.srd_url ?? '',
+    data.most_famous_property,
+    data.crunch,
+    data.owner,
+    data.timeline
+  ].join('\n');
+
+  return searchable.toLowerCase().includes(searchText.toLowerCase());
+}
+
+const searchInput = document.querySelector(
+  "#search"
+) as HTMLInputElement | null;
+if (searchInput) {
+  searchInput.addEventListener("input", (event) => {
+    const text = (event.target as HTMLInputElement).value;
+    if (typeof text !== "string" || !text?.trim()) {
+      table.clearFilter(false);
+    } else {
+      table.setFilter(searchMatchesRow, { searchText: text });
+    }
+  });
+}

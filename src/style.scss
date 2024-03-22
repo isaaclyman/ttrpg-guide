@@ -27,6 +27,7 @@ html {
 h1 {
   font-size: 40px;
   margin-bottom: 4px;
+  margin-top: 16px;
   padding: 0 36px;
   text-align: center;
 }
@@ -63,6 +64,19 @@ p.small {
   flex-direction: column;
   height: 100%;
   width: 100%;
+}
+
+.actions {
+  margin-bottom: 16px;
+  text-align: center;
+  z-index: 100;
+}
+
+.search-input {
+  border: 2px solid #AAA;
+  border-radius: 18px;
+  padding: 6px 12px;
+  width: 300px;
 }
 
 #rpgtable {
