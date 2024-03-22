@@ -1,18 +1,21 @@
-{
-  "name": ,
-  "core_setting": ,
-  "largest_subreddit": ,
-  "subreddit_size": ,
-  "discord_url": ,
-  "known_for": ,
-  "core_mechanic": ,
-  "price_of_entry": ,
-  "purchase_url": ,
-  "is_open_licensed": ,
-  "srd_url": ,
-  "most_famous_property": ,
-  "crunch": ,
-  "owner": ,
-  "timeline": ,
-  "tags": []
-}
+[
+  {
+    "name": ,
+    "core_setting": ,
+    "largest_subreddit": ,
+    "subreddit_size": ,
+    "discord_url": ,
+    "discord_size": ,
+    "known_for": ,
+    "core_mechanic": ,
+    "price_of_entry": ,
+    "purchase_url": ,
+    "is_open_licensed": ,
+    "srd_url": ,
+    "most_famous_property": ,
+    "crunch": ,
+    "owner": ,
+    "timeline": ,
+    "tags": []
+  }
+]
