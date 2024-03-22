@@ -110,20 +110,20 @@ if (searchInput) {
 const downloadJson = document.querySelector('#download-json') as HTMLAnchorElement | null;
 if (downloadJson) {
   downloadJson.addEventListener('click', (_) => {
-    table.download('json', `TTRPG Guide ${new Date().toLocaleString()}.json`);
+    table.download('json', `TTRPG Guide ${new Date().toLocaleDateString()}.json`);
   });
 }
 
 const downloadHtml = document.querySelector('#download-html') as HTMLAnchorElement | null;
 if (downloadHtml) {
   downloadHtml.addEventListener('click', (_) => {
-    table.download('html', `TTRPG Guide ${new Date().toLocaleString()}.html`);
+    table.download('html', `TTRPG Guide ${new Date().toLocaleDateString()}.html`);
   });
 }
 
 const downloadCsv = document.querySelector('#download-csv') as HTMLAnchorElement | null;
 if (downloadCsv) {
   downloadCsv.addEventListener('click', (_) => {
-    table.download('csv', `TTRPG Guide ${new Date().toLocaleString()}.csv`);
+    table.download('csv', `TTRPG Guide ${new Date().toLocaleDateString()}.csv`);
   });
 }
