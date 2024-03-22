@@ -457,5 +457,24 @@
     "owner": "Modiphius Entertainment",
     "timeline": "1993 (Mutant Chronicles)\n2017 (Star Trek Adventures)\n2021 (Fallout: The Roleplaying Game)\n2021 (Dune: Adventures in the Imperium)",
     "tags": ["cinematic"]
-  }
+  },
+  {
+    "name": "Lancer",
+    "core_setting": "Science fiction",
+    "largest_subreddit": "r/LancerRPG",
+    "subreddit_size": 32300,
+    "discord_url": "https://discord.com/invite/lancer",
+    "discord_size": 40900,
+    "known_for": "Customizable mechs\nCOMP/CON online companion",
+    "core_mechanic": "1d20 + modifiers\n≥ 10, 20, or enemy value",
+    "price_of_entry": "$25\nLancer Core Book: First Edition",
+    "purchase_url": "https://massif-press.itch.io/corebook-pdf",
+    "is_open_licensed": "Yes",
+    "srd_url": "https://massif-press.itch.io/corebook-pdf-free",
+    "most_famous_property": "Itself",
+    "crunch": "Medium-high crunch",
+    "owner": "Massif Press",
+    "timeline": "2019 (published)",
+    "tags": ["action", "tactical"]
+  }  
 ]
