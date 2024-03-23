@@ -814,5 +814,28 @@
     "crunch": "Medium crunch",
     "owner": "Need Games",
     "timeline": "2022 (published)"
+  },
+  {
+    "name": "Alice is Missing: A Silent Roleplaying Game",
+    "core_setting": "Teen drama",
+    "largest_subreddit": null,
+    "subreddit_size": null,
+    "discord_url": "https://discord.com/invite/v2vVvAZ",
+    "discord_size": 4500,
+    "known_for": "Silent RPG\nText-only",
+    "core_mechanic": "Players send text messages to each other in character",
+    "price_of_entry": 30,
+    "core_books": [{
+      "price": "$30",
+      "title": "Alice is Missing: A Silent Roleplaying Game",
+      "url": "https://preview.drivethrurpg.com/en/product/321387/Alice-Is-Missing-A-Silent-Roleplaying-Game"
+    }],
+    "license": null,
+    "srd_url": null,
+    "most_famous_property": "Itself",
+    "crunch": "Low crunch",
+    "owner": "Hunters Entertainment",
+    "timeline": "2020 (published)",
+    "tags": ["drama", "emotional"]
   }
 ]
