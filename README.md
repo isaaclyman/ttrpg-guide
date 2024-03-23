@@ -11,6 +11,12 @@ RPGs should only be included if they are:
 
 ## FAQ
 
+#### Why did you choose these data points? They don't capture what makes (GAME) unique.
+
+It's impossible to fully capture the spirit of a game in a single row of a table. Your favorite RPG has probably been sold short; so has mine. Still, a quick-and-dirty, point-by-point comparison is useful for people who want a broad view of tabletop RPGs or are trying to pick their next roleplaying system. If you want complete, in-depth analysis, you'll have to go to the source books (or maybe Wikipedia).
+
+If you want to make things better, consider [tagging your favorite RPG](https://github.com/isaaclyman/ttrpg-guide/issues/3), [filing an issue](https://github.com/isaaclyman/ttrpg-guide/issues/new/choose), or making a pull request to this repository.
+
 #### Why is (GAME) listed as (LOW/MEDIUM/HIGH) crunch? It's actually (LOWER/HIGHER).
 
 Crunch can be subjective. For each game, rather than making the judgment call on my own, I found forum and social media threads on the topic and did my best to gather some kind of consensus. Sometimes there's a lot of dissent among the player base and that's okay! But whenever someone said "yes, the system has a lot of rules, but you can play without most of them," I ignored that. The only fair way to compare systems is the way they were designed (RAW).
