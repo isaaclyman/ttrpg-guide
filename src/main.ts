@@ -24,6 +24,28 @@ rpgs.sort((rpg1, rpg2) => {
     : 0;
 });
 
+rpgs.forEach(rpg => {
+  (rpg as any).searchable = [
+    rpg.name,
+    rpg.core_setting,
+    rpg.largest_subreddit,
+    rpg.known_for,
+    rpg.core_mechanic,
+    ...rpg.core_books?.map((bk: any) => bk.title),
+    rpg.license && rpg.license.is_permissive
+      ? "Permissive license"
+      : rpg.license && !rpg.license.is_permissive
+      ? "Limited license"
+      : "No license found",
+    (rpg.license && rpg.license.display) ?? '',
+    rpg.srd_url ?? '',
+    rpg.most_famous_property,
+    rpg.crunch,
+    rpg.owner,
+    rpg.timeline
+  ].join('\n');
+})
+
 Tabulator.registerModule([
   DownloadModule,
   EditModule,
@@ -70,26 +92,7 @@ table.on("tableBuilt", () => {
 });
 
 function searchMatchesRow(data: any, {searchText}: { searchText: string }): boolean {
-  const searchable = [
-    data.name,
-    data.core_setting,
-    data.largest_subreddit,
-    data.known_for,
-    data.core_mechanic,
-    ...data.core_books?.map((bk: any) => bk.title),
-    data.license && data.license.is_permissive
-      ? "Permissive license"
-      : data.license && !data.license.is_permissive
-      ? "Limited license"
-      : "No license found",
-    (data.license && data.license.display) ?? '',
-    data.srd_url ?? '',
-    data.most_famous_property,
-    data.crunch,
-    data.owner,
-    data.timeline
-  ].join('\n');
-
+  const searchable = data.searchable ?? '';
   return searchable.toLowerCase().includes(searchText.toLowerCase());
 }
 
