@@ -90,7 +90,7 @@
     "discord_size": 5700,
     "subreddit_size": 9200,
     "known_for": "Easy to GM\nSingle-use loot items",
-    "core_mechanic": "Negotiate difficulty\n1d20 ≥ target",
+    "core_mechanic": "Negotiate difficulty target\n1d20 ≥ target",
     "price_of_entry": 23,
     "core_books": [{
       "price": "$23",
@@ -520,7 +520,7 @@
     "discord_url": "https://discord.com/invite/bMZw8G3",
     "discord_size": 6600,
     "known_for": "Extremely frequent PC death",
-    "core_mechanic": "1d20 + stat bonus",
+    "core_mechanic": "1d20 + stat bonus\n≥ target set by GM",
     "price_of_entry": 20,
     "core_books": [{
       "price": "$20",
