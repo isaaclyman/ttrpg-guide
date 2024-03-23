@@ -792,5 +792,27 @@
     "owner": "Massif Press",
     "timeline": "2019 (published)",
     "tags": ["action", "tactical"]
+  },
+  {
+    "name": "Fabula Ultima TTJRPG",
+    "core_setting": "Medieval Fantasy",
+    "largest_subreddit": "r/fabulaultima",
+    "subreddit_size": 2400,
+    "discord_url": "https://discord.com/invite/fMfV8Ty",
+    "discord_size": 3900,
+    "known_for": "Emulating Japanese-style console RPGs",
+    "core_mechanic": "roll dice assigned to attributes\n(d6 - d12)\n≥ target set by GM",
+    "price_of_entry": 18,
+    "core_books": [{
+      "price": "$18",
+      "title": "Fabula Ultima TTJRPG",
+      "url": "https://preview.drivethrurpg.com/en/product/410108/fabula-ultima-ttjrpg"
+    }],
+    "license": null,
+    "srd_url": null,
+    "most_famous_property": "Itself",
+    "crunch": "Medium crunch",
+    "owner": "Need Games",
+    "timeline": "2022 (published)"
   }
 ]
