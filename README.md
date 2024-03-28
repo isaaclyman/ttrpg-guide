@@ -57,7 +57,6 @@ The following are crowdsourced suggestions. If you've played any of them, please
 - Dream Apart/Dream Askew
 - Microscope
 - Fiasco
-- Alice is Missing
 - The Quiet Year
 - Ironsworn
 - Spire/Heart
@@ -84,6 +83,12 @@ The following are crowdsourced suggestions. If you've played any of them, please
 - Night's Black Agents
 - 13th Age
 - Swords of the Serpentine
+
+## Intentionally not included
+
+The following games have been determined to not meet the criteria for inclusion.
+
+- Alice is Missing (can't find evidence of popularity)
 
 ## Wishlist
 
