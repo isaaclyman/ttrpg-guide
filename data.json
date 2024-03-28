@@ -822,7 +822,7 @@
   {
     "name": "Dungeon Crawl Classics\n(DCC)",
     "core_setting": "Medieval Fantasy",
-    "largest_subreddit": "r/dccrpg/",
+    "largest_subreddit": "r/dccrpg",
     "subreddit_size": 9700,
     "discord_url": "https://discord.com/invite/GS5BBvdfYa",
     "discord_size": 2800,
@@ -840,10 +840,37 @@
       "url": "https://goodman-games.com/third-party-publisher-hub/"
     },
     "srd_url": "https://goodman-games.com/wp-content/uploads/2020/03/DCC_QSR_Free.pdf",
-    "most_famous_property": "Itself",
+    "most_famous_property": "Itself\nMutant Crawl Classics",
     "crunch": "Medium crunch",
     "owner": "Goodman Games",
     "timeline": "2012 (published)",
     "tags": ["chaotic", "pulpy"]
+  },
+  {
+    "name": "Shadow of the Demon Lord",
+    "core_setting": "Dark Fantasy",
+    "largest_subreddit": "r/shadowofthedemonlord",
+    "subreddit_size": 4800,
+    "discord_url": "https://discord.com/invite/taDMeUPZCu",
+    "discord_size": 3400,
+    "known_for": "Gory setting\nInsanity/Corruption tracker",
+    "core_mechanic": "1d20 + modifiers\n≥ 10",
+    "price_of_entry": 19,
+    "core_books": [{
+      "price": "$19",
+      "title": "Shadow of the Demon Lord",
+      "url": "https://preview.drivethrurpg.com/en/product/155572/shadow-of-the-demon-lord"
+    }],
+    "license": {
+      "is_permissive": false,
+      "display": "Disciples of the Demon Lord Creator Program",
+      "url": "https://www.drivethrurpg.com/cc/18/Disciples-of-the-Demon-Lord"
+    },
+    "srd_url": null,
+    "most_famous_property": "Itself\nShadow of the Weird Wizard",
+    "crunch": "Medium-low crunch",
+    "owner": "Schwalb Entertainment",
+    "timeline": "2015 (published)",
+    "tags": ["deadly", "fast-paced"]
   }
 ]

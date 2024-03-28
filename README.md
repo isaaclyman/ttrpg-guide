@@ -50,8 +50,6 @@ The following are crowdsourced suggestions. If you've played any of them, please
 - Degenesis
 - Splittermond
 - HeXXen 1733
-- Shadow of the demonlord
-- Weird wizard
 - Old School Essentials
 - Basic Fantasy
 - Dream Apart/Dream Askew
