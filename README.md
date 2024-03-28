@@ -58,7 +58,6 @@ The following are crowdsourced suggestions. If you've played any of them, please
 - Microscope
 - Fiasco
 - The Quiet Year
-- Ironsworn
 - Spire/Heart
 - Into the Odd
 - Cairn
