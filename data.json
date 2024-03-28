@@ -876,5 +876,32 @@
     "owner": "Schwalb Entertainment",
     "timeline": "2015 (published)",
     "tags": ["deadly", "fast-paced"]
+  },
+  {
+    "name": "Old School Essentials\n(OSE)",
+    "core_setting": "Medieval Fantasy",
+    "largest_subreddit": "r/OSE",
+    "subreddit_size": 1200,
+    "discord_url": "https://discord.com/invite/7djvGNPnr6",
+    "discord_size": 6200,
+    "known_for": "Revival of Basic/Expert (B/X) D&D",
+    "core_mechanic": "1d20 + modifiers\n≤ ability score",
+    "price_of_entry": 20,
+    "core_books": [{
+      "price": "$20",
+      "title": "OSE Classic Fantasy: Rules Tome",
+      "url": "https://preview.drivethrurpg.com/en/product/279183/old-school-essentials-classic-fantasy-rules-tome"
+    }],
+    "license": {
+      "is_permissive": true,
+      "display": "Third Party License + OGL",
+      "url": "https://necroticgnome.com/products/old-school-essentials-third-party-license"
+    },
+    "srd_url": "https://oldschoolessentials.necroticgnome.com/srd/index.php/Main_Page",
+    "most_famous_property": "Itself",
+    "crunch": "Medium crunch",
+    "owner": "Necrotic Gnome",
+    "timeline": "2019 (published)",
+    "tags": []
   }
 ]

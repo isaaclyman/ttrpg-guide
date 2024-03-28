@@ -50,7 +50,6 @@ The following are crowdsourced suggestions. If you've played any of them, please
 - Degenesis
 - Splittermond
 - HeXXen 1733
-- Old School Essentials
 - Basic Fantasy
 - Dream Apart/Dream Askew
 - Microscope
@@ -79,6 +78,7 @@ The following are crowdsourced suggestions. If you've played any of them, please
 - Night's Black Agents
 - 13th Age
 - Swords of the Serpentine
+- Knave
 
 ## Intentionally not included
 
