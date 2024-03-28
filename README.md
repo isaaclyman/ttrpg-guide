@@ -54,7 +54,6 @@ The following are crowdsourced suggestions. If you've played any of them, please
 - Weird wizard
 - Old School Essentials
 - Basic Fantasy
-- Dungeon Crawl Classics
 - Dream Apart/Dream Askew
 - Microscope
 - Fiasco

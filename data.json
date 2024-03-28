@@ -89,7 +89,7 @@
     "discord_url": "https://discord.com/invite/WQYRWhn",
     "discord_size": 5700,
     "subreddit_size": 9200,
-    "known_for": "Easy to GM\nSingle-use loot items",
+    "known_for": "Easy to GM\n\"Cyphers\"",
     "core_mechanic": "Negotiate difficulty target\n1d20 ≥ target",
     "price_of_entry": 23,
     "core_books": [{
@@ -190,7 +190,7 @@
     "subreddit_size": 36800,
     "discord_url": "https://discord.com/invite/uXwCKq3",
     "discord_size": 8200,
-    "known_for": "Fast-paced play\nFaction system",
+    "known_for": "Fast-paced play\n\"Faction\" system",
     "core_mechanic": "d6 dice pool\ntake highest\n4/5 = partial success, 6 = success",
     "price_of_entry": 20,
     "core_books": [{
@@ -260,7 +260,7 @@
     "subreddit_size": 41300,
     "discord_url": "https://discord.com/invite/Bk3gXfr",
     "discord_size": 8000,
-    "known_for": "Lifepath system",
+    "known_for": "\"Lifepath\" system",
     "core_mechanic": "1d10 + character bonuses\n≥ target set by GM",
     "price_of_entry": 30,
     "core_books": [{
@@ -351,7 +351,7 @@
     "subreddit_size": 48100,
     "discord_url": "https://discord.com/invite/Qxg28ts",
     "discord_size": 1000,
-    "known_for": "Moves\nPermissive license\nDiversity of spinoff games",
+    "known_for": "\"Moves\"\nPermissive license\nDiversity of spinoff games",
     "core_mechanic": "2d6 + modifiers\n≥ fixed target",
     "price_of_entry": 28,
     "core_books": [{
@@ -492,7 +492,7 @@
     "discord_url": "https://discord.com/invite/VqT7CJj",
     "discord_size": 3900,
     "subreddit_size": 20500,
-    "known_for": "Bennies\nFlexible character advancement",
+    "known_for": "\"Bennies\"\nFlexible character advancement",
     "core_mechanic": "roll die assigned to trait\n(d4 - d12)\n≥ target set by GM (typically 4)",
     "price_of_entry": 20,
     "core_books": [{
@@ -594,7 +594,7 @@
     "subreddit_size": 986,
     "discord_url": "https://discord.com/invite/pxVJFhG2e5",
     "discord_size": 100,
-    "known_for": "4-page rulebook\nCharacter clichés",
+    "known_for": "4-page rulebook\n\"Clichés\"",
     "core_mechanic": "d6 dice pool\n≥ target set by GM",
     "price_of_entry": 0,
     "core_books": [{
@@ -617,7 +617,7 @@
     "subreddit_size": 3900,
     "discord_url": "https://discord.com/invite/4K7e3Zv",
     "discord_size": 1200,
-    "known_for": "Character beliefs\nLiterary style",
+    "known_for": "\"Beliefs\"\nLiterary style",
     "core_mechanic": "d6 dice pool\ntarget depends on die\n≥ target set by GM + modifiers",
     "price_of_entry": 20,
     "core_books": [{
@@ -738,7 +738,7 @@
     "subreddit_size": 7200,
     "discord_url": "https://discord.com/invite/fPtkHqx",
     "discord_size": 800,
-    "known_for": "Momentum\nMetacurrencies",
+    "known_for": "\"Momentum\"\nMetacurrencies",
     "core_mechanic": "2d20\ncount ≤ character skill\n≥ target set by GM",
     "price_of_entry": 20,
     "core_books": [{
@@ -814,5 +814,32 @@
     "crunch": "Medium crunch",
     "owner": "Need Games",
     "timeline": "2022 (published)"
+  },
+  {
+    "name": "Dungeon Crawl Classics\n(DCC)",
+    "core_setting": "Medieval Fantasy",
+    "largest_subreddit": "r/dccrpg/",
+    "subreddit_size": 9700,
+    "discord_url": "https://discord.com/invite/GS5BBvdfYa",
+    "discord_size": 2800,
+    "known_for": "Adaptation of D&D 3.5E\nThe \"dice chain\"\nLots of random effect tables",
+    "core_mechanic": "1d20 + stat bonus\n≥ target set by GM",
+    "price_of_entry": 25,
+    "core_books": [{
+      "price": "$25",
+      "title": "Dungeon Crawl Classics RPG",
+      "url": "https://preview.drivethrurpg.com/en/product/101050/dungeon-crawl-classics-rpg-dcc-rpg"
+    }],
+    "license": {
+      "is_permissive": false,
+      "display": "Free licensing with approval",
+      "url": "https://goodman-games.com/third-party-publisher-hub/"
+    },
+    "srd_url": "https://goodman-games.com/wp-content/uploads/2020/03/DCC_QSR_Free.pdf",
+    "most_famous_property": "Itself",
+    "crunch": "Medium crunch",
+    "owner": "Goodman Games",
+    "timeline": "2012 (published)",
+    "tags": ["chaotic", "pulpy"]
   }
 ]
