@@ -305,6 +305,10 @@
       "price": "$25",
       "title": "Tales from the Loop RPG: Rulebook",
       "url": "https://preview.drivethrurpg.com/en/product/210617/tales-from-the-loop-rpg-rulebook"
+    },{
+      "price": "$25",
+      "title": "Vaesen - Nordic Horror Roleplaying",
+      "url": "https://preview.drivethrurpg.com/en/product/319119/vaesen-nordic-horror-roleplaying"
     }],
     "license": {
       "is_permissive": true,
@@ -312,10 +316,10 @@
       "url": "https://freeleaguepublishing.com/wp-content/uploads/2023/11/Year-Zero-Engine-License-Agreement.pdf"
     },
     "srd_url": "https://frank-mitchell.com/rpg/year-zero-engine-ogl/",
-    "most_famous_property": "Alien: The Roleplaying Game\nMutant Year Zero (RPG)\nMutany Year Zero: Road to Eden (spinoff video game)\nTales from the Loop (RPG)",
+    "most_famous_property": "Alien: The Roleplaying Game\nMutant Year Zero (RPG)\nMutany Year Zero: Road to Eden (spinoff video game)\nTales from the Loop (RPG)\nVaesen (RPG)",
     "crunch": "Low crunch",
     "owner": "Free League Publishing",
-    "timeline": "2014 (Mutant Year Zero)\n2017 (Tales from the Loop)\n2019 (Alien)"
+    "timeline": "2014 (Mutant Year Zero)\n2017 (Tales from the Loop)\n2019 (Alien)\n2020 (Vaesen)"
   },
   {
     "name": "Storytelling System / World of Darkness",
@@ -423,7 +427,7 @@
     }],
     "license": null,
     "srd_url": null,
-    "most_famous_property": "Itself",
+    "most_famous_property": "Itself\nWorlds Without Number",
     "crunch": "Medium crunch",
     "owner": "Sine Nomine Publishing",
     "timeline": "2010 (original)\n2017 (revised ed)"

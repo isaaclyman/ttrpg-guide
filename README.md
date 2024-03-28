@@ -68,7 +68,6 @@ The following are crowdsourced suggestions. If you've played any of them, please
 - Earthdawn
 - Twilight 2000
 - The One Ring
-- Vaesen
 - Into the Odd
 - Dragonbane
 - Lamentations of the Flame Princess
