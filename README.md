@@ -13,23 +13,39 @@ RPGs should only be included if they are:
 
 #### Why did you choose these data points? They don't capture what makes (GAME) unique.
 
-It's impossible to fully capture the spirit of a game in a single row of a table. Your favorite RPG has probably been sold short; so has mine. Still, a quick-and-dirty, point-by-point comparison is useful for people who want a broad view of tabletop RPGs or are trying to pick their next roleplaying system. If you want complete, in-depth analysis, you'll have to go to the source books (or maybe Wikipedia).
+<details>
+  <summary>It's impossible to fully capture...</summary>
 
-If you want to make things better, consider [tagging your favorite RPG](https://github.com/isaaclyman/ttrpg-guide/issues/3), [filing an issue](https://github.com/isaaclyman/ttrpg-guide/issues/new/choose), or making a pull request to this repository.
+  It's impossible to fully capture the spirit of a game in a single row of a table. Your favorite RPG has probably been sold short; so has mine. Still, a quick-and-dirty, point-by-point comparison is useful for people who want a broad view of tabletop RPGs or are trying to pick their next roleplaying system. If you want complete, in-depth analysis, you'll have to go to the source books (or maybe Wikipedia).
+
+  If you want to make things better, consider [tagging your favorite RPG](https://github.com/isaaclyman/ttrpg-guide/issues/3), [filing an issue](https://github.com/isaaclyman/ttrpg-guide/issues/new/choose), or making a pull request to this repository.
+</details>
 
 #### Why is (GAME) listed as (LOW/MEDIUM/HIGH) crunch? It's actually (LOWER/HIGHER).
 
-Crunch can be subjective. For each game, rather than making the judgment call on my own, I found forum and social media threads on the topic and did my best to gather some kind of consensus. Sometimes there's a lot of dissent among the player base and that's okay! But whenever someone said "yes, the system has a lot of rules, but you can play without most of them," I ignored that. The only fair way to compare systems is the way they were designed (RAW).
+<details>
+  <summary>Crunch can be subjective. For each game...</summary>
+  
+  Crunch can be subjective. For each game, rather than making the judgment call on my own, I found forum and social media threads on the topic and did my best to gather some kind of consensus. Sometimes there's a lot of dissent among the player base and that's okay! But whenever someone said "yes, the system has a lot of rules, but you can play without most of them," I ignored that. The only fair way to compare systems is the way they were designed (RAW).
 
-It's still possible I screwed something up. If you have in-depth experience with two of the RPGs on the list and believe they're misrepresented relative to each other, [file an issue](https://github.com/isaaclyman/ttrpg-guide/issues/new/choose) and let me know.
+  It's still possible I screwed something up. If you have in-depth experience with two of the RPGs on the list and believe they're misrepresented relative to each other, [file an issue](https://github.com/isaaclyman/ttrpg-guide/issues/new/choose) and let me know.
+</details>
 
 #### Why are (GAME) and (GAME) listed under the same system? They're nothing alike.
 
-This is a guide to tabletop *systems*, not games. Granted, there's significant diversity within some systems, especially loosely-defined ones like PbtA. But in my opinion, it's still useful information to group PbtA games together, and doing so helps keep the project manageable.
+<details>
+  <summary>This is a guide to tabletop systems, not games...</summary>
+  
+  This is a guide to tabletop *systems*, not games. Granted, there's significant diversity within some systems, especially loosely-defined ones like PbtA. But in my opinion, it's still useful information to group PbtA games together, and doing so helps keep the project manageable.
+</details>
 
 #### (TRAIT) is subjective. It depends on the GM.
 
-_Everything_ depends on the GM. If I included house rules and homebrew, every cell in the table would just say "it depends." I think we can all agree that's not useful.
+<details>
+  <summary>Everythig depends on the GM...</summary>
+  
+  _Everything_ depends on the GM. If I included house rules and homebrew, every cell in the table would just say "it depends." I think we can all agree that's not useful.
+</details>
 
 ## To add
 
