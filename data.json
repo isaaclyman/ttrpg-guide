@@ -1,7 +1,7 @@
 [
   {
     "name": "Dungeons & Dragons 5E",
-    "core_setting": "Medieval Fantasy",
+    "core_setting": "Medieval fantasy",
     "largest_subreddit": "r/DnD",
     "subreddit_size": 3500000,
     "discord_url": "https://discord.com/invite/dnd",
@@ -32,7 +32,7 @@
   },
   {
     "name": "Pathfinder 2E",
-    "core_setting": "Medieval Fantasy",
+    "core_setting": "Medieval fantasy",
     "largest_subreddit": "r/Pathfinder_RPG",
     "subreddit_size": 147000,
     "discord_url": "https://discord.com/invite/pathfinder",
@@ -620,7 +620,7 @@
   },
   {
     "name": "The Burning Wheel",
-    "core_setting": "Medieval Fantasy",
+    "core_setting": "Medieval fantasy",
     "largest_subreddit": "r/BurningWheel",
     "subreddit_size": 3900,
     "discord_url": "https://discord.com/invite/4K7e3Zv",
@@ -803,7 +803,7 @@
   },
   {
     "name": "Fabula Ultima",
-    "core_setting": "Medieval Fantasy",
+    "core_setting": "Medieval fantasy",
     "largest_subreddit": "r/fabulaultima",
     "subreddit_size": 2400,
     "discord_url": "https://discord.com/invite/fMfV8Ty",
@@ -825,7 +825,7 @@
   },
   {
     "name": "Dungeon Crawl Classics\n(DCC)",
-    "core_setting": "Medieval Fantasy",
+    "core_setting": "Medieval fantasy",
     "largest_subreddit": "r/dccrpg",
     "subreddit_size": 9700,
     "discord_url": "https://discord.com/invite/GS5BBvdfYa",
@@ -852,7 +852,7 @@
   },
   {
     "name": "Shadow of the Demon Lord",
-    "core_setting": "Dark Fantasy",
+    "core_setting": "Dark fantasy",
     "largest_subreddit": "r/shadowofthedemonlord",
     "subreddit_size": 4800,
     "discord_url": "https://discord.com/invite/taDMeUPZCu",
@@ -879,7 +879,7 @@
   },
   {
     "name": "Old School Essentials\n(OSE)",
-    "core_setting": "Medieval Fantasy",
+    "core_setting": "Medieval fantasy",
     "largest_subreddit": "r/OSE",
     "subreddit_size": 1200,
     "discord_url": "https://discord.com/invite/7djvGNPnr6",
@@ -906,7 +906,7 @@
   },
   {
     "name": "GUMSHOE System",
-    "core_setting": "Mystery / Investigation",
+    "core_setting": "Mystery",
     "largest_subreddit": "r/GumshoeRPG",
     "subreddit_size": 2000,
     "discord_url": "https://discord.com/invite/xKfgxVm",
@@ -938,5 +938,32 @@
     "owner": "Pelgrane Press",
     "timeline": "2007 (The Book of Unremitting Horror)\n2012 (Night's Black Agents)\n2022 (Swords of the Serpentine)",
     "tags": ["mystery"]
+  },
+  {
+    "name": "Illuminated Worlds",
+    "core_setting": "Industrial age mystery / Horror",
+    "largest_subreddit": "r/CandelaObscura",
+    "subreddit_size": 2300,
+    "discord_url": "https://discord.com/invite/WXaJtG4ujy",
+    "discord_size": 300,
+    "known_for": "\"Gilded\" dice",
+    "core_mechanic": "d6 dice pool\ntake highest\n4/5 = partial success, 6 = success",
+    "price_of_entry": 20,
+    "core_books": [{
+      "price": "$20",
+      "title": "Candela Obscura Core Rulebook",
+      "url": "https://shop.critrole.com/collections/books/products/candela-obscura-core-rulebook-pdf"
+    }],
+    "license": {
+      "is_permissive": true,
+      "display": "CGL",
+      "url": "https://darringtonpress.com/license/"
+    },
+    "srd_url": null,
+    "most_famous_property": "Candela Obscura (RPG)\nCandela Obscura (Critical Role actual play)",
+    "crunch": "Low crunch",
+    "owner": "Critical Role Productions",
+    "timeline": "2023 (web series)\n2023 (core rulebook)",
+    "tags": ["cinematic", "mystery"]
   }
 ]

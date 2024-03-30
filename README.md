@@ -74,7 +74,6 @@ The following are crowdsourced suggestions. If you've played any of them, please
 - Black Hack
 - Mausritter
 - Adventurer, Conqueror, King
-- Candela Obscura
 - 13th Age
 - Knave
 
