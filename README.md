@@ -35,10 +35,10 @@ _Everything_ depends on the GM. If I included house rules and homebrew, every ce
 
 The following are crowdsourced suggestions. If you've played any of them, please [help me add them](https://github.com/isaaclyman/ttrpg-guide/issues/new/choose) to the list.
 
-- Ordem Paranormal (r/OrdemParanormalRPG - 74,100 members)
-- Tormenta (r/Tormenta - 36,600 members)
+- Ordem Paranormal (r/OrdemParanormalRPG - 74,100 members) - *Portuguese speaker needed*
+- Tormenta (r/Tormenta - 36,600 members) - *Portuguese speaker needed*
 - Mothership (r/mothershiprpg - 7,800 members)
-- The Dark Eye (r/DSA_RPG - 7,700 members)
+- The Dark Eye (r/DSA_RPG - 7,700 members) - *German speaker needed*
 - Exalted (r/exalted - 6,000 members)
 - Palladium Rifts (r/Rifts - 4,100 members)
 - Eclipse Phase (r/eclipsephase - 3,800 members)
