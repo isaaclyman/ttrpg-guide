@@ -31,14 +31,6 @@ This is a guide to tabletop *systems*, not games. Granted, there's significant d
 
 _Everything_ depends on the GM. If I included house rules and homebrew, every cell in the table would just say "it depends." I think we can all agree that's not useful.
 
-## Contributing
-
-To expand or edit the list of RPGs, [file an issue](https://github.com/isaaclyman/ttrpg-guide/issues/new/choose) or make a pull request to data.json.
-
-## PR Guidelines
-
-Any new entries should be added to the end of the list.
-
 ## To add
 
 The following are crowdsourced suggestions. If you've played any of them, please help me add them to the list.
@@ -92,9 +84,16 @@ Games:
 - The Quiet Year - POP
 - Tinyd6 - POP
 
+## Contributing
+
+To expand or edit the list of RPGs, [file an issue](https://github.com/isaaclyman/ttrpg-guide/issues/new/choose) or make a pull request to data.json.
+
+## PR Guidelines
+
+Any new entries should be added to the end of the list.
+
 ## Wishlist
 
 Column ideas:
 
 - Compatible VTTs
-- Gameplay tags (gritty, realistic, cinematic, humor, pulp, heist, fast-paced, action)
