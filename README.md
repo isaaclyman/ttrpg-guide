@@ -41,7 +41,7 @@ Any new entries should be added to the end of the list.
 
 ## To add
 
-The following are crowdsourced suggestions. If you've played any of them, please help me add them to the list. If any are already present (e.g. a less famous property under a system that's already listed), please let me know so I can check it off.
+The following are crowdsourced suggestions. If you've played any of them, please help me add them to the list.
 
 - Ordem Paranormal (r/OrdemParanormalRPG - 74,100 members)
 - Tormenta (r/Tormenta - 36,600 members)
