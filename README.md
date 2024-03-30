@@ -33,7 +33,7 @@ _Everything_ depends on the GM. If I included house rules and homebrew, every ce
 
 ## To add
 
-The following are crowdsourced suggestions. If you've played any of them, please help me add them to the list.
+The following are crowdsourced suggestions. If you've played any of them, please [help me add them](https://github.com/isaaclyman/ttrpg-guide/issues/new/choose) to the list.
 
 - Ordem Paranormal (r/OrdemParanormalRPG - 74,100 members)
 - Tormenta (r/Tormenta - 36,600 members)
