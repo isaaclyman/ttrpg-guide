@@ -215,7 +215,7 @@ export const columns: ColumnDefinition[] = [
     },
     sorter: function (aLicense, bLicense, aRow, bRow) {
       function getValue(license: any, row: RowComponent): number {
-        return (license !== null ? 1 : 0) + (license?.is_permissive ? 1 : 0) + (row.getData().srd_url !== null ? 1 : 0);
+        return (license !== null ? 2 : 0) + (license?.is_permissive ? 2 : 0) + (row.getData().srd_url !== null ? 1 : 0);
       }
       const aValue = getValue(aLicense, aRow);
       const bValue = getValue(bLicense, bRow);
