@@ -75,9 +75,7 @@ The following are crowdsourced suggestions. If you've played any of them, please
 - Mausritter
 - Adventurer, Conqueror, King
 - Candela Obscura
-- Night's Black Agents
 - 13th Age
-- Swords of the Serpentine
 - Knave
 
 ## Intentionally not included

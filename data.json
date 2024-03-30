@@ -903,5 +903,40 @@
     "owner": "Necrotic Gnome",
     "timeline": "2019 (published)",
     "tags": []
+  },
+  {
+    "name": "GUMSHOE System",
+    "core_setting": "Mystery / Investigation",
+    "largest_subreddit": "r/GumshoeRPG",
+    "subreddit_size": 2000,
+    "discord_url": "https://discord.com/invite/xKfgxVm",
+    "discord_size": 1500,
+    "known_for": "\"Clues\"\nAutomatic success on investigation checks",
+    "core_mechanic": "1d6 + point spend\n≥ target set by GM",
+    "price_of_entry": 25,
+    "core_books": [{
+      "price": "$15",
+      "title": "The Book of Unremitting Horror",
+      "url": "https://preview.drivethrurpg.com/en/product/51077/the-book-of-unremitting-horror-gumshoe-version"
+    },{
+      "price": "$30",
+      "title": "Swords of the Serpentine",
+      "url": "https://preview.drivethrurpg.com/en/product/408716/swords-of-the-serpentine"
+    },{
+      "price": "$25",
+      "title": "Night's Black Agents",
+      "url": "https://preview.drivethrurpg.com/en/product/106783/night-s-black-agents"
+    }],
+    "license": {
+      "is_permissive": true,
+      "display": "CC BY 3.0",
+      "url": "https://pelgranepress.com/2013/10/24/the-gumshoe-system-reference-document/"
+    },
+    "srd_url": "https://gumshoesrd.opengamingnetwork.com/home/",
+    "most_famous_property": "Night's Black Agents (vampire thriller setting)\nSwords of the Serpentine (medieval fantasy setting)",
+    "crunch": "Low crunch",
+    "owner": "Pelgrane Press",
+    "timeline": "2007 (The Book of Unremitting Horror)\n2012 (Night's Black Agents)\n2022 (Swords of the Serpentine)",
+    "tags": ["mystery"]
   }
 ]
