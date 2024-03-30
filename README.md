@@ -42,7 +42,7 @@ RPGs should only be included if they are:
 #### (TRAIT) is subjective. It depends on the GM.
 
 <details>
-  <summary>Everythig depends on the GM...</summary>
+  <summary>Everything depends on the GM...</summary>
   
   _Everything_ depends on the GM. If I included house rules and homebrew, every cell in the table would just say "it depends." I think we can all agree that's not useful.
 </details>
