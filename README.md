@@ -43,45 +43,54 @@ Any new entries should be added to the end of the list.
 
 The following are crowdsourced suggestions. If you've played any of them, please help me add them to the list. If any are already present (e.g. a less famous property under a system that's already listed), please let me know so I can check it off. And if any aren't notable enough to include, please let me know about that as well.
 
-- Midgard
-- The Dark Eye
-- Engel
-- Arcane Codex
-- Degenesis
-- Splittermond
-- HeXXen 1733
-- Basic Fantasy
-- Dream Apart/Dream Askew
-- Microscope
-- Fiasco
-- The Quiet Year
-- Spire/Heart
-- Into the Odd
-- Cairn
-- Ten Candles
-- Tinyd6
-- Adventure Game Engine (AGE)
-- Palladium Fantasy RPG
-- Eclipse Phase
-- Exalted
-- Earthdawn
-- Twilight 2000
-- The One Ring
-- Into the Odd
-- Dragonbane
-- Lamentations of the Flame Princess
-- Mothership
-- Black Hack
-- Mausritter
-- Adventurer, Conqueror, King
-- 13th Age
-- Knave
+- Ordem Paranormal (r/OrdemParanormalRPG - 74,100 members)
+- Tormenta (r/Tormenta - 36,600 members)
+- Mothership (r/mothershiprpg - 7,800 members)
+- The Dark Eye (r/DSA_RPG - 7,700 members)
+- Exalted (r/exalted - 6,000 members)
+- Palladium Rifts (r/Rifts - 4,100 members)
+- Eclipse Phase (r/eclipsephase - 3,800 members)
+- 13th Age (r/13thage - 3,000 members)
+- Into the Odd (Bastionland, Mausritter) (https://discord.com/invite/u9Gyc3Y42Y - 2,600 members)
+- The One Ring (r/oneringrpg - 2,300 members)
+- Twilight 2000 (r/Twilight2000 - 1,900 members)
+- Adventure Game Engine (r/FantasyAGE - 1,800 members)
+- Black Hack (r/TheBlackHack - 1,600 members)
+- Fiasco (r/Fiasco - 1,600 members)
+- Microscope (r/MicroscopeRPG - 1,500 members)
+- Cairn (r/cairnrpg - 1,400 members)
+- Dragonbane (r/DragonbaneRPG - 1,200 members)
+- Spire (r/SpireRPG - 1,200 members)
+- Earthdawn (r/earthdawn - 1,100 members)
+- Ten Candles (r/TenCandles - 1,000 members)
 
 ## Intentionally not included
 
 The following games have been determined to not meet the criteria for inclusion.
 
-- Alice is Missing (can't find evidence of popularity)
+Notation:
+
+- DEF = defunct; no longer published or supported
+- POP = not popular enough / needs evidence of popularity
+
+Games:
+
+- Adventurer Conqueror King System (ACKS) - POP
+- Alice is Missing - POP
+- Arcane Codex - POP
+- Breathless - POP
+- Basic Fantasy (BFRPG) - POP
+- Degenesis - DEF
+- Dream Apart/Dream Askew - POP
+- Engel - DEF
+- HeXXen 1733 - POP
+- Knave - POP
+- Lamentations of the Flame Princess (LotFP) - POP
+- Midgard - POP
+- Palladium Fantasy RPG - POP
+- Splittermond - POP
+- The Quiet Year - POP
+- Tinyd6 - POP
 
 ## Wishlist
 
