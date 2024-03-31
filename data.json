@@ -322,7 +322,7 @@
     "timeline": "2014 (Mutant Year Zero)\n2017 (Tales from the Loop)\n2019 (Alien)\n2020 (Vaesen)"
   },
   {
-    "name": "Storytelling System / World of Darkness",
+    "name": "Storytelling System",
     "core_setting": "Modern vampire gothic",
     "largest_subreddit": "r/WhiteWolfRPG",
     "subreddit_size": 49100,
@@ -335,6 +335,10 @@
       "price": "$25",
       "title": "Vampire: The Masquerade 5th Edition",
       "url": "https://preview.drivethrurpg.com/en/product/256795/vampire-the-masquerade-5th-edition"
+    },{
+      "price": "$25",
+      "title": "Exalted 3rd Edition",
+      "url": "https://preview.drivethrurpg.com/en/product/162759/exalted-3rd-edition"
     }],
     "license": {
       "is_permissive": false,
@@ -342,10 +346,10 @@
       "url": "https://www.paradoxinteractive.com/games/world-of-darkness/business/official-licensing"
     },
     "srd_url": null,
-    "most_famous_property": "Vampire: The Masquerade",
+    "most_famous_property": "Vampire: The Masquerade (vampire gothic setting)\nExalted (high fantasy setting)",
     "crunch": "Medium-low crunch",
     "owner": "White Wolf Publishing\nParadox Interactive",
-    "timeline": "1991 (Vampire, 1st ed)\n2018 (Vampire, 5th ed)",
+    "timeline": "1991 (Vampire 1st ed)\n2001 (Exalted 1st ed)\n2015 (Exalted 3rd ed)\n2018 (Vampire 5th ed)",
     "tags": ["dark", "drama"]
   },
   {

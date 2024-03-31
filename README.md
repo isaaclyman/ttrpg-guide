@@ -54,7 +54,6 @@ The following are crowdsourced suggestions. If you've played any of them, please
 - Ordem Paranormal (r/OrdemParanormalRPG - 74,100 members) - *Portuguese speaker needed*
 - Tormenta (r/Tormenta - 36,600 members) - *Portuguese speaker needed*
 - The Dark Eye (r/DSA_RPG - 7,700 members) - *German speaker needed*
-- Exalted (r/exalted - 6,000 members)
 - Palladium Rifts (r/Rifts - 4,100 members)
 - Eclipse Phase (r/eclipsephase - 3,800 members)
 - 13th Age (r/13thage - 3,000 members)
