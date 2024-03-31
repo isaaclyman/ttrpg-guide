@@ -430,7 +430,8 @@
     "most_famous_property": "Itself\nWorlds Without Number",
     "crunch": "Medium crunch",
     "owner": "Sine Nomine Publishing",
-    "timeline": "2010 (original)\n2017 (revised ed)"
+    "timeline": "2010 (original)\n2017 (revised ed)",
+    "tags": ["sandbox"]
   },
   {
     "name": "Generic Universal Role-Playing System\n(GURPS)",
@@ -988,5 +989,40 @@
     "owner": "Tuesday Knight Games",
     "timeline": "2021 (Kickstarter)",
     "tags": ["deadly"]
+  },
+  {
+    "name": "Into the Odd",
+    "core_setting": "Industrial age horror",
+    "largest_subreddit": "r/Mausritter",
+    "subreddit_size": 1400,
+    "discord_url": "https://discord.com/invite/u9Gyc3Y42Y",
+    "discord_size": 2600,
+    "known_for": "Quickness over realism",
+    "core_mechanic": "1d20 ≤ attribute score",
+    "price_of_entry": 15,
+    "core_books": [{
+      "price": "$15",
+      "title": "Into the Odd - Remastered",
+      "url": "https://preview.drivethrurpg.com/en/product/399483/into-the-odd-remastered"
+    },{
+      "price": "$19",
+      "title": "Electric Bastionland",
+      "url": "https://chrismcdee.itch.io/electric-bastionland"
+    },{
+      "price": "Free",
+      "title": "Mausritter",
+      "url": "https://losing-games.itch.io/mausritter"
+    }],
+    "license": {
+      "is_permissive": true,
+      "display": "Mark of the Odd",
+      "url": "https://bit.ly/markoftheodd"
+    },
+    "srd_url": "https://docs.google.com/document/d/16-MI6-fgLybyB0GJsylj1PHkVTh1uyS3VC7xnVWg_Aw/edit?usp=sharing",
+    "most_famous_property": "Electric Bastionland (electric age setting)\nMausritter (mouse fantasy setting)",
+    "crunch": "Low crunch",
+    "owner": "Free League Publishing",
+    "timeline": "2014 (Into the Odd)\n2019 (Mausritter)\n2020 (Electric Bastionland)\n2022 (Into the Odd - Remastered)",
+    "tags": ["sandbox"]
   }
 ]

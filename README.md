@@ -53,13 +53,12 @@ The following are crowdsourced suggestions. If you've played any of them, please
 
 - Ordem Paranormal (r/OrdemParanormalRPG - 74,100 members) - *Portuguese speaker needed*
 - Tormenta (r/Tormenta - 36,600 members) - *Portuguese speaker needed*
-- Mothership (r/mothershiprpg - 7,800 members)
 - The Dark Eye (r/DSA_RPG - 7,700 members) - *German speaker needed*
 - Exalted (r/exalted - 6,000 members)
 - Palladium Rifts (r/Rifts - 4,100 members)
 - Eclipse Phase (r/eclipsephase - 3,800 members)
 - 13th Age (r/13thage - 3,000 members)
-- Into the Odd (Bastionland, Mausritter) (https://discord.com/invite/u9Gyc3Y42Y - 2,600 members)
+- Troika(r/Troika - 2,700 members)
 - The One Ring (r/oneringrpg - 2,300 members)
 - Twilight 2000 (r/Twilight2000 - 1,900 members)
 - Adventure Game Engine (r/FantasyAGE - 1,800 members)
