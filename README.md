@@ -58,7 +58,7 @@ The following are crowdsourced suggestions. If you've played any of them, please
 - Palladium Rifts (r/Rifts - 4,100 members)
 - Eclipse Phase (r/eclipsephase - 3,800 members)
 - 13th Age (r/13thage - 3,000 members)
-- Troika(r/Troika - 2,700 members)
+- Troika (r/Troika - 2,700 members)
 - The One Ring (r/oneringrpg - 2,300 members)
 - Twilight 2000 (r/Twilight2000 - 1,900 members)
 - Adventure Game Engine (r/FantasyAGE - 1,800 members)
