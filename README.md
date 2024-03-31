@@ -95,6 +95,7 @@ Games:
 - Knave - POP
 - Lamentations of the Flame Princess (LotFP) - POP
 - Midgard - POP
+- OSRIC - POP
 - Palladium Fantasy RPG - POP
 - Splittermond - POP
 - The Quiet Year - POP

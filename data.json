@@ -965,5 +965,28 @@
     "owner": "Critical Role Productions",
     "timeline": "2023 (web series)\n2023 (core rulebook)",
     "tags": ["cinematic", "mystery"]
+  },
+  {
+    "name": "d100 Panic Engine",
+    "core_setting": "Sci-fi horror",
+    "largest_subreddit": "r/mothershiprpg",
+    "subreddit_size": 7800,
+    "discord_url": "https://discord.com/invite/mothership-461670627468771329",
+    "discord_size": 7800,
+    "known_for": "\"Zine\" campaigns",
+    "core_mechanic": "1d100 ≤ character skill",
+    "price_of_entry": 0,
+    "core_books": [{
+      "price": "Free",
+      "title": "Mothership: Player's Survival Guide",
+      "url": "https://preview.drivethrurpg.com/en/product/245017/mothership-player-s-survival-guide"
+    }],
+    "license": null,
+    "srd_url": null,
+    "most_famous_property": "Mothership (RPG)",
+    "crunch": "Low crunch",
+    "owner": "Tuesday Knight Games",
+    "timeline": "2021 (Kickstarter)",
+    "tags": ["deadly"]
   }
 ]
