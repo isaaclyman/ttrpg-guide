@@ -405,7 +405,7 @@
     }],
     "license": {
       "is_permissive": true,
-      "display": "Powered by the Apocalypse policy",
+      "display": "PbtA policy",
       "url": "http://apocalypse-world.com/pbta/policy"
     },
     "srd_url": null,
@@ -515,7 +515,7 @@
     }],
     "license": {
       "is_permissive": false,
-      "display": "Fan License + Creator Program + Partner Licensing",
+      "display": "Fan License\n+ Creator Program\n+ Partner Licensing",
       "url": "https://peginc.com/licensing/"
     },
     "srd_url": null,
@@ -734,7 +734,7 @@
     }],
     "license": {
       "is_permissive": false,
-      "display": "Fair Use Policy + Creator Program + Partner Licensing",
+      "display": "Fair Use Policy\n+ Creator Program\n+ Partner Licensing",
       "url": "https://www.mongoosepublishing.com/pages/traveller-licensing"
     },
     "srd_url": "https://www.traveller-srd.com/",
@@ -872,7 +872,7 @@
     }],
     "license": {
       "is_permissive": false,
-      "display": "Disciples of the Demon Lord Creator Program",
+      "display": "DotDL Creator Program",
       "url": "https://www.drivethrurpg.com/cc/18/Disciples-of-the-Demon-Lord"
     },
     "srd_url": null,
