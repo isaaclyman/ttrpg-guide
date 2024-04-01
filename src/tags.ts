@@ -123,6 +123,6 @@ export const colorsByTag: { [tagName: string]: TagDefinition } = {
   toolkit: {
     bgColor: "#3e4a61",
     text: "light",
-    tooltip: "hundreds of atomic options for designing characters, adventures, and rulesets"
+    tooltip: "free-form, atomic options for designing characters, adventures, and rulesets"
   },
 };
