@@ -202,6 +202,10 @@
       "price": "$20",
       "title": "Blades in the Dark",
       "url": "https://evilhat.com/product/blades-in-the-dark/"
+    },{
+      "price": "$20",
+      "title": "Scum and Villainy",
+      "url": "https://evilhat.com/product/scum-and-villainy/"
     }],
     "license": {
       "is_permissive": true,
@@ -209,7 +213,7 @@
       "url": "https://bladesinthedark.com/licensing"
     },
     "srd_url": "https://bladesinthedark.com/basics",
-    "most_famous_property": "Blades in the Dark",
+    "most_famous_property": "Blades in the Dark (Victorian fantasy setting)\nScum and Villainy (space opera setting)",
     "crunch": "Low crunch",
     "owner": "Evil Hat Productions",
     "timeline": "2015 (Blades - Kickstarter)\n2017 (Blades - published)\n2017 (Forged - standalone SRD)",

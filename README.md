@@ -63,6 +63,7 @@ The following are crowdsourced suggestions. If you've played any of them, please
 - Fiasco (r/Fiasco - 1,600 members)
 - Microscope (r/MicroscopeRPG - 1,500 members)
 - Cairn (r/cairnrpg - 1,400 members)
+- Fragged Empire (r/FraggedEmpire - 1,300 members)
 - Dragonbane (r/DragonbaneRPG - 1,200 members)
 - Spire (r/SpireRPG - 1,200 members)
 - Earthdawn (r/earthdawn - 1,100 members)
