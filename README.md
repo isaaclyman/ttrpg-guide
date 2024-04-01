@@ -54,7 +54,6 @@ The following are crowdsourced suggestions. If you've played any of them, please
 - Ordem Paranormal (r/OrdemParanormalRPG - 74,100 members) - *Portuguese speaker needed*
 - Tormenta (r/Tormenta - 36,600 members) - *Portuguese speaker needed*
 - The Dark Eye (r/DSA_RPG - 7,700 members) - *German speaker needed*
-- Palladium Rifts (r/Rifts - 4,100 members)
 - Eclipse Phase (r/eclipsephase - 3,800 members)
 - 13th Age (r/13thage - 3,000 members)
 - Troika (r/Troika - 2,700 members)
@@ -94,7 +93,6 @@ Games:
 - Lamentations of the Flame Princess (LotFP) - POP
 - Midgard - POP
 - OSRIC - POP
-- Palladium Fantasy RPG - POP
 - Splittermond - POP
 - The Quiet Year - POP
 - Tinyd6 - POP

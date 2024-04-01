@@ -1028,5 +1028,32 @@
     "owner": "Free League Publishing",
     "timeline": "2014 (Into the Odd)\n2019 (Mausritter)\n2020 (Electric Bastionland)\n2022 (Into the Odd - Remastered)",
     "tags": ["sandbox"]
+  },
+  {
+    "name": "Palladium System\n(Megaversal System)",
+    "core_setting": "Setting-agnostic",
+    "largest_subreddit": "r/Rifts",
+    "subreddit_size": 4100,
+    "discord_url": "https://discord.com/invite/xGkk75Z",
+    "discord_size": 1400,
+    "known_for": "Destructive battles\nHuge range of power levels at character creation",
+    "core_mechanic": "1d100 ≤ character skill",
+    "price_of_entry": 20,
+    "core_books": [{
+      "price": "$20",
+      "title": "Rifts Ultimate Edition",
+      "url": "https://preview.drivethrurpg.com/en/product/181928/rifts-ultimate-edition-rpg"
+    }],
+    "license": {
+      "is_permissive": false,
+      "display": "No derivative works allowed",
+      "url": "https://palladiumbooks.com/47-company-info/submission-info/523-palladium-booksr-internet-policy"
+    },
+    "srd_url": null,
+    "most_famous_property": "Rifts (sci-fi multiverse setting)\nTeenage Mutant Ninja Turtles & Other Strangeness (RPG)\nPalladium Fantasy RPG (medieval fantasy setting)",
+    "crunch": "High crunch",
+    "owner": "Palladium Books",
+    "timeline": "1983 (Palladium Fantasy RPG)\n1985 (TMNT & Other Strangeness)\n1990 (Rifts 1st ed)\n2005 (Rifts Ultimate ed)",
+    "tags": []
   }
 ]
