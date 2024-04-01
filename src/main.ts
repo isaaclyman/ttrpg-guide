@@ -29,6 +29,7 @@ rpgs.forEach(rpg => {
     rpg.name,
     rpg.core_setting,
     rpg.largest_subreddit,
+    ...rpg.tags,
     rpg.known_for,
     rpg.core_mechanic,
     ...rpg.core_books?.map((bk: any) => bk.title),
