@@ -1115,5 +1115,32 @@
     "owner": "Posthuman Studios",
     "timeline": "2009 (1st ed)\n2019 (2nd ed)",
     "tags": []
+  },
+  {
+    "name": "Mutants & Masterminds",
+    "core_setting": "Superhero fiction",
+    "largest_subreddit": "r/mutantsandmasterminds",
+    "subreddit_size": 15000,
+    "discord_url": "https://discord.com/invite/MJQQd6H",
+    "discord_size": 2200,
+    "known_for": "\"Power Levels\"\nOpen-ended superpowers",
+    "core_mechanic": "1d20 + stat bonus\n≥ target set by GM",
+    "price_of_entry": 27,
+    "core_books": [{
+      "price": "$27",
+      "title": "Deluxe Hero's Handbook",
+      "url": "https://greenroninstore.com/collections/mutants-masterminds-third-edition/products/mutants-masterminds-deluxe-heros-handbook-pdf"
+    }],
+    "license": {
+      "is_permissive": true,
+      "display": "Super-Powered by M&M",
+      "url": "https://greenroninstore.com/pages/super-powered-by-m-m-trademark-license"
+    },
+    "srd_url": "https://www.d20herosrd.com/",
+    "most_famous_property": "Itself\nDC Adventures (RPG)",
+    "crunch": "Medium crunch",
+    "owner": "Green Ronin Publishing",
+    "timeline": "2002 (1st ed)\n2010 (DC Adventures)\n2011 (3rd ed)",
+    "tags": []
   }
 ]
