@@ -47,6 +47,18 @@ RPGs should only be included if they are:
   _Everything_ depends on the GM. If I included house rules and homebrew, every cell in the table would just say "it depends." I think we can all agree that's not useful.
 </details>
 
+#### What's the difference between a Permissive and Limited license?
+
+<details>
+  <summary>"✅ Permissive license" means you can create...</summary>
+
+  "✅ Permissive license" means you can create your own settings or adventures for the game and sell them, royalty-free, without the publisher's permission. Licenses are subject to change and misinterpretation, so always consult the publisher's website for the full license agreement.
+
+  "⛓️ Limited license" means a license exists, but it doesn't allow you to do the above. This covers a range of licensing from "No derivative works allowed" (which may include an aggressive legal strategy to prevent anyone from making new content) to a non-commercial Creative Commons license.
+
+  "❌ No license found" means there doesn't seem to be a license document readily available online. If you're aware of one, please file an issue and help us add it.
+</details>
+
 ## To add
 
 The following are crowdsourced suggestions. If you've played any of them, please [help me add them](https://github.com/isaaclyman/ttrpg-guide/issues/new/choose) to the list.
@@ -58,7 +70,7 @@ The following are crowdsourced suggestions. If you've played any of them, please
 - Troika (r/Troika - 2,700 members)
 - The One Ring (r/oneringrpg - 2,300 members)
 - Twilight 2000 (r/Twilight2000 - 1,900 members)
-- Adventure Game Engine (r/FantasyAGE - 1,800 members)
+- Adventure Game Engine + Dragon Age RPG (r/FantasyAGE - 1,800 members)
 - Black Hack (r/TheBlackHack - 1,600 members)
 - Fiasco (r/Fiasco - 1,600 members)
 - Microscope (r/MicroscopeRPG - 1,500 members)
