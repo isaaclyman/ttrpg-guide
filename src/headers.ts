@@ -101,6 +101,7 @@ export const columns: ColumnDefinition[] = [
       const tags = cell.getValue() as string[];
       if (!tags || !tags.length) {
         const anchor = document.createElement("a");
+        anchor.classList.add("tag-link");
         anchor.innerText = "Help us tag this game!";
         anchor.href = "https://github.com/isaaclyman/ttrpg-guide/issues/3";
         anchor.target = "_blank";
