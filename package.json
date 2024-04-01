@@ -9,12 +9,12 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "@types/tabulator-tables": "^5.6.0",
+    "@types/tabulator-tables": "^6.2.0",
     "sass": "^1.72.0",
     "typescript": "^5.2.2",
     "vite": "^5.1.6"
   },
   "dependencies": {
-    "tabulator-tables": "^6.0.1"
+    "tabulator-tables": "^6.2.0"
   }
 }
