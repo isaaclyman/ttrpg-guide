@@ -213,7 +213,7 @@
     "crunch": "Low crunch",
     "owner": "Evil Hat Productions",
     "timeline": "2015 (Blades - Kickstarter)\n2017 (Blades - published)\n2017 (Forged - standalone SRD)",
-    "tags": []
+    "tags": ["heist"]
   },
   {
     "name": "Warhammer Fantasy Roleplay\n(WFRP)",
@@ -508,7 +508,7 @@
     "crunch": "Low crunch",
     "owner": "Grey Ghost Press",
     "timeline": "1992 (published)\n2003 (FATE, 1st ed)\n2013 (Fate Core)",
-    "tags": []
+    "tags": ["toolkit"]
   },
   {
     "name": "Savage Worlds\n(SWADE)",
@@ -681,7 +681,7 @@
     "crunch": "High crunch",
     "owner": "Hero Games\nDOJ, Inc.",
     "timeline": "1990 (Hero System Rulesbook)\n2009 (6th ed)",
-    "tags": []
+    "tags": ["toolkit"]
   },
   {
     "name": "Cortex System",

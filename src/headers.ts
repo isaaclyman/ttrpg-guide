@@ -1,4 +1,5 @@
 import { ColumnDefinition, RowComponent } from "tabulator-tables";
+import { colorsByTag } from "./tags";
 
 const crunchAmounts = [
   "low ",
@@ -92,6 +93,34 @@ export const columns: ColumnDefinition[] = [
 
       return container;
     },
+  },
+  {
+    field: "tags",
+    title: "Tags",
+    formatter: function (cell) {
+      const tags = cell.getValue() as string[];
+      if (!tags || !tags.length) {
+        const anchor = document.createElement("a");
+        anchor.innerText = "Help us tag this game!";
+        anchor.href = "https://github.com/isaaclyman/ttrpg-guide/issues/3";
+        anchor.target = "_blank";
+        return anchor;
+      }
+
+      const container = document.createElement("div");
+      for (const tag of tags) {
+        const tagElement = document.createElement("div");
+        const definition = colorsByTag[tag] ?? {};
+        tagElement.classList.add("tag");
+        tagElement.style.backgroundColor = definition.bgColor;
+        tagElement.style.color = definition.text == 'dark' ? '#101010' : '#DEDEDE';
+        tagElement.innerText = tag;
+        tagElement.title = definition.tooltip;
+        container.appendChild(tagElement);
+      }
+
+      return container;
+    }
   },
   {
     field: "known_for",
