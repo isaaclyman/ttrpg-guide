@@ -307,7 +307,7 @@
     "subreddit_size": 10300,
     "discord_url": "https://discord.com/invite/VJ7Xpcq",
     "discord_size": 5400,
-    "known_for": "\"Pushed\" rolls",
+    "known_for": "\"Pushed\" rolls\nHigh-profile licensed RPGs",
     "core_mechanic": "d6 dice pool\nsuccess = at least one 6",
     "price_of_entry": 25,
     "core_books": [{
@@ -320,8 +320,16 @@
       "url": "https://preview.drivethrurpg.com/en/product/293976/alien-rpg-core-rulebook"
     },{
       "price": "$25",
+      "title": "Blade Runner RPG Core Rulebook",
+      "url": "https://preview.drivethrurpg.com/en/product/399929/blade-runner-rpg-core-rulebook"
+    },{
+      "price": "$25",
       "title": "Tales from the Loop RPG: Rulebook",
       "url": "https://preview.drivethrurpg.com/en/product/210617/tales-from-the-loop-rpg-rulebook"
+    },{
+      "price": "$25",
+      "title": "The Walking Dead Universe RPG",
+      "url": "https://preview.drivethrurpg.com/en/product/458995/the-walking-dead-universe-rpg"
     },{
       "price": "$25",
       "title": "Vaesen - Nordic Horror Roleplaying",
@@ -333,7 +341,7 @@
       "url": "https://freeleaguepublishing.com/wp-content/uploads/2023/11/Year-Zero-Engine-License-Agreement.pdf"
     },
     "srd_url": "https://frank-mitchell.com/rpg/year-zero-engine-ogl/",
-    "most_famous_property": "Alien: The Roleplaying Game\nMutant Year Zero (RPG)\nMutany Year Zero: Road to Eden (spinoff video game)\nTales from the Loop (RPG)\nVaesen (RPG)",
+    "most_famous_property": "Alien: The Roleplaying Game\nBlade Runner RPG\nMutant Year Zero (RPG)\nMutant Year Zero: Road to Eden (spinoff video game)\nTales from the Loop (RPG)\nThe Walking Dead Universe RPG\nVaesen (RPG)",
     "crunch": "Low crunch",
     "owner": "Free League Publishing",
     "timeline": "2014 (Mutant Year Zero)\n2017 (Tales from the Loop)\n2019 (Alien)\n2020 (Vaesen)",
