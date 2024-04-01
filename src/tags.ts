@@ -60,6 +60,11 @@ export const colorsByTag: { [tagName: string]: TagDefinition } = {
     text: "light",
     tooltip: "tiny ruleset"
   },
+  "genre-first": {
+    bgColor: "#5E4C19",
+    text: "light",
+    tooltip: "immersive; loyal to genre/setting above all"
+  },
   gritty: {
     bgColor: "#5E4C19",
     text: "light",
