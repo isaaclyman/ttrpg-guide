@@ -513,6 +513,14 @@
       "price": "$17",
       "title": "Fudge 10th Anniversary Edition",
       "url": "https://preview.drivethrurpg.com/en/product/327196/fudge-10th-anniversary-edition"
+    }, {
+      "price": "$25",
+      "title": "Dresden Files RPG: Your Story",
+      "url": "https://evilhat.com/product/dresden-files-rpg-your-story/"
+    }, {
+      "price": "$25",
+      "title": "Dresden Files RPG: Our World",
+      "url": "https://evilhat.com/product/dresden-files-rpg-our-world/"
     }],
     "license": {
       "is_permissive": true,
@@ -520,10 +528,10 @@
       "url": "https://www.fudgerpg.com/about/about-fudge/fudge-ogl-requirements.html"
     },
     "srd_url": "https://simonefelli.github.io/web/srd/",
-    "most_famous_property": "Fate Core",
+    "most_famous_property": "Fate Core\nThe Dresden Files RPG",
     "crunch": "Low crunch",
     "owner": "Grey Ghost Press",
-    "timeline": "1992 (published)\n2003 (FATE, 1st ed)\n2013 (Fate Core)",
+    "timeline": "1992 (published)\n2003 (FATE, 1st ed)\n2010 (The Dresden Files RPG)\n2013 (Fate Core)",
     "tags": ["toolkit"]
   },
   {
