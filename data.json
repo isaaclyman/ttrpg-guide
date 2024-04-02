@@ -1177,5 +1177,32 @@
     "owner": "Pelgrane Press",
     "timeline": "2013 (published)",
     "tags": []
+  },
+  {
+    "name": "TROIKA!",
+    "core_setting": "Science fantasy",
+    "largest_subreddit": "r/Troika",
+    "subreddit_size": 2700,
+    "discord_url": "https://discord.com/invite/deePdtBM2n",
+    "discord_size": 2100,
+    "known_for": "\"Testing your luck\"\nWeird/psychedelic setting and adventures",
+    "core_mechanic": "2d6 ≤ luck score\nThen luck - 1",
+    "price_of_entry": 18,
+    "core_books": [{
+      "price": "$18",
+      "title": "Troika! The Science Fantasy RPG",
+      "url": "https://preview.drivethrurpg.com/en/product/269791/troika-the-science-fantasy-rpg"
+    }],
+    "license": {
+      "is_permissive": true,
+      "display": "Compatibility license",
+      "url": "https://www.troikarpg.com/resources"
+    },
+    "srd_url": "https://www.troikarpg.com/resources",
+    "most_famous_property": "Itself",
+    "crunch": "Low crunch",
+    "owner": "The Melsonian Arts Council",
+    "timeline": "2019 (published)",
+    "tags": ["humor"]
   }
 ]
