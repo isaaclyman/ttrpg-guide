@@ -1150,5 +1150,32 @@
     "owner": "Green Ronin Publishing",
     "timeline": "2002 (1st ed)\n2010 (DC Adventures)\n2011 (3rd ed)",
     "tags": []
+  },
+  {
+    "name": "Archmage Engine",
+    "core_setting": "Medieval fantasy",
+    "largest_subreddit": "r/13thage",
+    "subreddit_size": 3000,
+    "discord_url": "https://discord.com/invite/Bz9DA25",
+    "discord_size": 1300,
+    "known_for": "\"Icons\"\nBackgrounds instead of skills",
+    "core_mechanic": "1d20 + modifiers\n≥ environment/difficulty target",
+    "price_of_entry": 25,
+    "core_books": [{
+      "price": "$25",
+      "title": "13th Age",
+      "url": "https://pelgranepress.com/product/13th-age/"
+    }],
+    "license": {
+      "is_permissive": true,
+      "display": "OGL\n+ Compatibility License\n+ Archmage Engine License\n+ Community Use Policy",
+      "url": "https://pelgranepress.com/2014/02/19/13th-age-archmage-engine-licensing-overview/"
+    },
+    "srd_url": "https://www.13thagesrd.com/",
+    "most_famous_property": "13th Age (medieval fantasy setting)",
+    "crunch": "Medium-low crunch",
+    "owner": "Pelgrane Press",
+    "timeline": "2013 (published)",
+    "tags": []
   }
 ]
