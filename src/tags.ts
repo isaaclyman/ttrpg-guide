@@ -71,6 +71,13 @@ export const colorsByTag: { [tagName: string]: TagDefinition } = {
     tooltip: "not escapist; doesn't gloss over unpleasant/realistic details"
   },
 
+  // SAGE
+  "collaborative": {
+    bgColor: "#acc6aa",
+    text: "dark",
+    tooltip: "players and GM worldbuild together"
+  },
+
   // LIGHT GREEN
   chaotic: {
     bgColor: "#52baac",
