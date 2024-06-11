@@ -77,6 +77,11 @@ export const colorsByTag: { [tagName: string]: TagDefinition } = {
     text: "dark",
     tooltip: "players and GM worldbuild together"
   },
+  solo: {
+    bgColor: "#acc6aa",
+    text: "dark",
+    tooltip: "typically played alone, or can be"
+  },
 
   // LIGHT GREEN
   chaotic: {
