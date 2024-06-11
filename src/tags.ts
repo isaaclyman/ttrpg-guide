@@ -80,7 +80,7 @@ export const colorsByTag: { [tagName: string]: TagDefinition } = {
   solo: {
     bgColor: "#acc6aa",
     text: "dark",
-    tooltip: "typically played alone, or can be"
+    tooltip: "typically played alone, or includes rules for doing so"
   },
 
   // LIGHT GREEN
