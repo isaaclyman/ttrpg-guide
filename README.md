@@ -66,7 +66,6 @@ The following are crowdsourced suggestions. If you've played any of them, please
 - Ordem Paranormal (r/OrdemParanormalRPG - 74,100 members) - *Portuguese speaker needed*
 - Tormenta (r/Tormenta - 36,600 members) - *Portuguese speaker needed*
 - The Dark Eye (r/DSA_RPG - 7,700 members) - *German speaker needed*
-- Forbidden Lands (r/ForbiddenLAnds - 6,700 members)
 - The One Ring (r/oneringrpg - 2,300 members)
 - Twilight 2000 (r/Twilight2000 - 1,900 members)
 - Adventure Game Engine + Dragon Age RPG (r/FantasyAGE - 1,800 members)
