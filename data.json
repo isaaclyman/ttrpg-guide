@@ -9,15 +9,18 @@
     "known_for": "Most popular TTRPG (by far)\nMassive community",
     "core_mechanic": "1d20 + ability bonus\n≥ target set by GM",
     "price_of_entry": 60,
-    "core_books": [{
-      "price": "$30",
-      "title": "Player's Handbook",
-      "url": "https://www.dndbeyond.com/marketplace/sourcebooks/players-handbook"
-    }, {
-      "price": "$30",
-      "title": "Dungeon Master's Guide",
-      "url": "https://www.dndbeyond.com/marketplace/sourcebooks/dungeon-masters-guide"
-    }],
+    "core_books": [
+      {
+        "price": "$30",
+        "title": "Player's Handbook",
+        "url": "https://www.dndbeyond.com/marketplace/sourcebooks/players-handbook"
+      },
+      {
+        "price": "$30",
+        "title": "Dungeon Master's Guide",
+        "url": "https://www.dndbeyond.com/marketplace/sourcebooks/dungeon-masters-guide"
+      }
+    ],
     "license": {
       "is_permissive": true,
       "display": "OGL + CC BY 4.0",
@@ -28,7 +31,10 @@
     "crunch": "Medium crunch",
     "owner": "Wizards of the Coast\nHasbro",
     "timeline": "1974 (1st ed)\n2014 (5th ed)\n2023 (OGL scandal)",
-    "tags": ["action", "tactical"]
+    "tags": [
+      "action",
+      "tactical"
+    ]
   },
   {
     "name": "Pathfinder 2E",
@@ -40,11 +46,13 @@
     "known_for": "Adaptation of D&D 3.5E",
     "core_mechanic": "1d20 + ability bonus\n≥ target set by GM",
     "price_of_entry": 20,
-    "core_books": [{
-      "price": "$20",
-      "title": "Pathfinder Core Rulebook",
-      "url": "https://paizo.com/products/btq01zp3?Pathfinder-Core-Rulebook"
-    }],
+    "core_books": [
+      {
+        "price": "$20",
+        "title": "Pathfinder Core Rulebook",
+        "url": "https://paizo.com/products/btq01zp3?Pathfinder-Core-Rulebook"
+      }
+    ],
     "license": {
       "is_permissive": true,
       "display": "ORC",
@@ -55,7 +63,9 @@
     "crunch": "Medium-high crunch",
     "owner": "Paizo",
     "timeline": "2009 (1st ed)\n2019 (2nd ed)",
-    "tags": ["tactical"]
+    "tags": [
+      "tactical"
+    ]
   },
   {
     "name": "Starfinder",
@@ -67,11 +77,13 @@
     "known_for": "Adaptation of Pathfinder",
     "core_mechanic": "1d20 + ability bonus\n≥ target set by GM",
     "price_of_entry": 20,
-    "core_books": [{
-      "price": "$20",
-      "title": "Starfinder Core Rulebook",
-      "url": "https://paizo.com/products/btpy9ssr?Starfinder-Core-Rulebook"
-    }],
+    "core_books": [
+      {
+        "price": "$20",
+        "title": "Starfinder Core Rulebook",
+        "url": "https://paizo.com/products/btpy9ssr?Starfinder-Core-Rulebook"
+      }
+    ],
     "license": {
       "is_permissive": true,
       "display": "ORC",
@@ -82,7 +94,9 @@
     "crunch": "Medium-high crunch",
     "owner": "Paizo",
     "timeline": "2017 (1st ed)",
-    "tags": ["tactical"]
+    "tags": [
+      "tactical"
+    ]
   },
   {
     "name": "Cypher System",
@@ -94,11 +108,13 @@
     "known_for": "Easy to GM\n\"Cyphers\"",
     "core_mechanic": "Negotiate difficulty target\n1d20 ≥ target",
     "price_of_entry": 23,
-    "core_books": [{
-      "price": "$23",
-      "title": "Cypher System Rulebook",
-      "url": "https://www.montecookgames.com/store/product/cypher-system-rulebook-2/"
-    }],
+    "core_books": [
+      {
+        "price": "$23",
+        "title": "Cypher System Rulebook",
+        "url": "https://www.montecookgames.com/store/product/cypher-system-rulebook-2/"
+      }
+    ],
     "license": {
       "is_permissive": true,
       "display": "CSOL",
@@ -109,7 +125,11 @@
     "crunch": "Low crunch",
     "owner": "Monte Cook Games",
     "timeline": "2013 (Numenera)\n2015 (Core rulebook)",
-    "tags": ["action", "cinematic", "fast-paced"]
+    "tags": [
+      "action",
+      "cinematic",
+      "fast-paced"
+    ]
   },
   {
     "name": "Basic Role-Playing\n(BRP)",
@@ -121,11 +141,13 @@
     "known_for": "Sanity tracker\nMost popular TTRPG in Japan (Cthulhu)",
     "core_mechanic": "1d100 ≤ character skill",
     "price_of_entry": 25,
-    "core_books": [{
-      "price": "$25",
-      "title": "Basic Roleplaying: Universal Game Engine",
-      "url": "https://www.chaosium.com/basic-roleplaying-universal-game-engine-pdf/"
-    }],
+    "core_books": [
+      {
+        "price": "$25",
+        "title": "Basic Roleplaying: Universal Game Engine",
+        "url": "https://www.chaosium.com/basic-roleplaying-universal-game-engine-pdf/"
+      }
+    ],
     "license": {
       "is_permissive": true,
       "display": "BRP-OGL",
@@ -136,7 +158,9 @@
     "crunch": "Low crunch",
     "owner": "Chaosium",
     "timeline": "1978 (Runequest)\n1981 (Cthulhu 1st ed)\n2008 (Big Gold Book)\n2014 (Cthulhu 7th ed)",
-    "tags": ["dark"]
+    "tags": [
+      "dark"
+    ]
   },
   {
     "name": "Shadowrun 6E",
@@ -148,11 +172,13 @@
     "known_for": "Incredibly granular rules",
     "core_mechanic": "d6 dice pool\ncount fives and sixes\n≥ threshold set by GM",
     "price_of_entry": 20,
-    "core_books": [{
-      "price": "$20",
-      "title": "Shadowrun: Sixth World Core Rulebook:\nCity Edition: Seattle",
-      "url": "https://store.catalystgamelabs.com/products/shadowrun-sixth-world-core-rulebook"
-    }],
+    "core_books": [
+      {
+        "price": "$20",
+        "title": "Shadowrun: Sixth World Core Rulebook:\nCity Edition: Seattle",
+        "url": "https://store.catalystgamelabs.com/products/shadowrun-sixth-world-core-rulebook"
+      }
+    ],
     "license": null,
     "srd_url": null,
     "most_famous_property": "Spinoff video game franchise",
@@ -171,11 +197,13 @@
     "known_for": "Side effects on rolls - not just pass/fail\nHigh improv",
     "core_mechanic": "custom non-numeric dice\n(success/fail, luck, critical results,\nand several others)",
     "price_of_entry": 20,
-    "core_books": [{
-      "price": "$20",
-      "title": "Genesys Core Rulebook",
-      "url": "https://preview.drivethrurpg.com/en/product/228813/genesys-core-rulebook"
-    }],
+    "core_books": [
+      {
+        "price": "$20",
+        "title": "Genesys Core Rulebook",
+        "url": "https://preview.drivethrurpg.com/en/product/228813/genesys-core-rulebook"
+      }
+    ],
     "license": {
       "is_permissive": false,
       "display": "Genesys Foundry Creator Program",
@@ -198,15 +226,18 @@
     "known_for": "Fast-paced play\n\"Faction\" system",
     "core_mechanic": "d6 dice pool\ntake highest\n4/5 = partial success, 6 = success",
     "price_of_entry": 20,
-    "core_books": [{
-      "price": "$20",
-      "title": "Blades in the Dark",
-      "url": "https://evilhat.com/product/blades-in-the-dark/"
-    },{
-      "price": "$20",
-      "title": "Scum and Villainy",
-      "url": "https://evilhat.com/product/scum-and-villainy/"
-    }],
+    "core_books": [
+      {
+        "price": "$20",
+        "title": "Blades in the Dark",
+        "url": "https://evilhat.com/product/blades-in-the-dark/"
+      },
+      {
+        "price": "$20",
+        "title": "Scum and Villainy",
+        "url": "https://evilhat.com/product/scum-and-villainy/"
+      }
+    ],
     "license": {
       "is_permissive": true,
       "display": "CC BY 3.0",
@@ -217,7 +248,9 @@
     "crunch": "Low crunch",
     "owner": "Evil Hat Productions",
     "timeline": "2015 (Blades - Kickstarter)\n2017 (Blades - published)\n2017 (Forged - standalone SRD)",
-    "tags": ["heist"]
+    "tags": [
+      "heist"
+    ]
   },
   {
     "name": "Warhammer Fantasy Roleplay\n(WFRP)",
@@ -229,11 +262,13 @@
     "known_for": "High risk of PC death\nGritty setting",
     "core_mechanic": "1d100 ≤ character skill",
     "price_of_entry": 30,
-    "core_books": [{
-      "price": "$30",
-      "title": "WFRP: Core Rulebook",
-      "url": "https://cubicle7games.com/warhammer-fantasy-roleplay-rulebook-pdf"
-    }],
+    "core_books": [
+      {
+        "price": "$30",
+        "title": "WFRP: Core Rulebook",
+        "url": "https://cubicle7games.com/warhammer-fantasy-roleplay-rulebook-pdf"
+      }
+    ],
     "license": null,
     "srd_url": null,
     "most_famous_property": "Warhammer (video game franchise)\nWarhammer (miniature wargame)\nWarhammer 40,000 (miniature wargame)",
@@ -252,11 +287,13 @@
     "known_for": "Complex system for building custom spells",
     "core_mechanic": "1d10 + character bonuses\n≥ target set by GM",
     "price_of_entry": 20,
-    "core_books": [{
-      "price": "$20",
-      "title": "Ars Magica: Fifth Edition",
-      "url": "https://www.atlas-games.com/product_tables/AG0205"
-    }],
+    "core_books": [
+      {
+        "price": "$20",
+        "title": "Ars Magica: Fifth Edition",
+        "url": "https://www.atlas-games.com/product_tables/AG0205"
+      }
+    ],
     "license": null,
     "srd_url": null,
     "most_famous_property": "Itself",
@@ -275,19 +312,23 @@
     "known_for": "\"Lifepath\" system",
     "core_mechanic": "1d10 + character bonuses\n≥ target set by GM",
     "price_of_entry": 30,
-    "core_books": [{
-      "price": "$4",
-      "title": "Fuzion Core",
-      "url": "https://preview.drivethrurpg.com/en/product/2367/fuzion-core-rules"
-    },{
-      "price": "$30",
-      "title": "Cyberpunk Red",
-      "url": "https://preview.drivethrurpg.com/en/product/333585/cyberpunk-red"
-    },{
-      "price": "$25",
-      "title": "The Witcher",
-      "url": "https://preview.drivethrurpg.com/en/product/248538/the-witcher-pen-paper-rpg"
-    }],
+    "core_books": [
+      {
+        "price": "$4",
+        "title": "Fuzion Core",
+        "url": "https://preview.drivethrurpg.com/en/product/2367/fuzion-core-rules"
+      },
+      {
+        "price": "$30",
+        "title": "Cyberpunk Red",
+        "url": "https://preview.drivethrurpg.com/en/product/333585/cyberpunk-red"
+      },
+      {
+        "price": "$25",
+        "title": "The Witcher",
+        "url": "https://preview.drivethrurpg.com/en/product/248538/the-witcher-pen-paper-rpg"
+      }
+    ],
     "license": {
       "is_permissive": false,
       "display": "Homebrew Content Policy",
@@ -310,31 +351,38 @@
     "known_for": "\"Pushed\" rolls\nHigh-profile licensed RPGs",
     "core_mechanic": "d6 dice pool\nsuccess = at least one 6",
     "price_of_entry": 25,
-    "core_books": [{
-      "price": "$25",
-      "title": "MUTANT: Year Zero",
-      "url": "https://preview.drivethrurpg.com/en/product/139453/mutant-year-zero-roleplaying-at-the-end-of-days"
-    },{
-      "price": "$25",
-      "title": "ALIEN RPG Core Rulebook",
-      "url": "https://preview.drivethrurpg.com/en/product/293976/alien-rpg-core-rulebook"
-    },{
-      "price": "$25",
-      "title": "Blade Runner RPG Core Rulebook",
-      "url": "https://preview.drivethrurpg.com/en/product/399929/blade-runner-rpg-core-rulebook"
-    },{
-      "price": "$25",
-      "title": "Tales from the Loop RPG: Rulebook",
-      "url": "https://preview.drivethrurpg.com/en/product/210617/tales-from-the-loop-rpg-rulebook"
-    },{
-      "price": "$25",
-      "title": "The Walking Dead Universe RPG",
-      "url": "https://preview.drivethrurpg.com/en/product/458995/the-walking-dead-universe-rpg"
-    },{
-      "price": "$25",
-      "title": "Vaesen - Nordic Horror Roleplaying",
-      "url": "https://preview.drivethrurpg.com/en/product/319119/vaesen-nordic-horror-roleplaying"
-    }],
+    "core_books": [
+      {
+        "price": "$25",
+        "title": "MUTANT: Year Zero",
+        "url": "https://preview.drivethrurpg.com/en/product/139453/mutant-year-zero-roleplaying-at-the-end-of-days"
+      },
+      {
+        "price": "$25",
+        "title": "ALIEN RPG Core Rulebook",
+        "url": "https://preview.drivethrurpg.com/en/product/293976/alien-rpg-core-rulebook"
+      },
+      {
+        "price": "$25",
+        "title": "Blade Runner RPG Core Rulebook",
+        "url": "https://preview.drivethrurpg.com/en/product/399929/blade-runner-rpg-core-rulebook"
+      },
+      {
+        "price": "$25",
+        "title": "Tales from the Loop RPG: Rulebook",
+        "url": "https://preview.drivethrurpg.com/en/product/210617/tales-from-the-loop-rpg-rulebook"
+      },
+      {
+        "price": "$25",
+        "title": "The Walking Dead Universe RPG",
+        "url": "https://preview.drivethrurpg.com/en/product/458995/the-walking-dead-universe-rpg"
+      },
+      {
+        "price": "$25",
+        "title": "Vaesen - Nordic Horror Roleplaying",
+        "url": "https://preview.drivethrurpg.com/en/product/319119/vaesen-nordic-horror-roleplaying"
+      }
+    ],
     "license": {
       "is_permissive": true,
       "display": "FTL",
@@ -357,15 +405,18 @@
     "known_for": "Dark/mature themes\nPolitical intrigue",
     "core_mechanic": "d10 dice pool\n≥ target set by GM",
     "price_of_entry": 25,
-    "core_books": [{
-      "price": "$25",
-      "title": "Vampire: The Masquerade 5th Edition",
-      "url": "https://preview.drivethrurpg.com/en/product/256795/vampire-the-masquerade-5th-edition"
-    },{
-      "price": "$25",
-      "title": "Exalted 3rd Edition",
-      "url": "https://preview.drivethrurpg.com/en/product/162759/exalted-3rd-edition"
-    }],
+    "core_books": [
+      {
+        "price": "$25",
+        "title": "Vampire: The Masquerade 5th Edition",
+        "url": "https://preview.drivethrurpg.com/en/product/256795/vampire-the-masquerade-5th-edition"
+      },
+      {
+        "price": "$25",
+        "title": "Exalted 3rd Edition",
+        "url": "https://preview.drivethrurpg.com/en/product/162759/exalted-3rd-edition"
+      }
+    ],
     "license": {
       "is_permissive": false,
       "display": "Partner Licensing Network",
@@ -376,7 +427,10 @@
     "crunch": "Medium-low crunch",
     "owner": "White Wolf Publishing\nParadox Interactive",
     "timeline": "1991 (Vampire 1st ed)\n2001 (Exalted 1st ed)\n2015 (Exalted 3rd ed)\n2018 (Vampire 5th ed)",
-    "tags": ["dark", "drama"]
+    "tags": [
+      "dark",
+      "drama"
+    ]
   },
   {
     "name": "Powered by the Apocalypse\n(PbtA)",
@@ -388,47 +442,58 @@
     "known_for": "\"Moves\"\nPermissive license\nDiversity of spinoff games",
     "core_mechanic": "2d6 + modifiers\n≥ fixed target",
     "price_of_entry": 28,
-    "core_books": [{
-      "price": "$28",
-      "title": "Apocalypse World (2nd Ed)",
-      "url": "https://preview.drivethrurpg.com/en/product/194344/apocalypse-world-2nd-ed"
-    }, {
-      "price": "$25",
-      "title": "Avatar Legends: The Roleplaying Game",
-      "url": "https://preview.drivethrurpg.com/en/product/384956/avatar-legends-the-roleplaying-game"
-    }, {
-      "price": "$20",
-      "title": "City of Mist: Player's Guide",
-      "url": "https://preview.drivethrurpg.com/en/product/266983/city-of-mist-player-s-guide"
-    }, {
-      "price": "$20",
-      "title": "City of Mist: MC Toolkit",
-      "url": "https://preview.drivethrurpg.com/en/product/266981/city-of-mist-mc-toolkit"
-    }, {
-      "price": "$10",
-      "title": "Dungeon World",
-      "url": "https://preview.drivethrurpg.com/en/product/108028/Dungeon-World"
-    }, {
-      "price": "Free",
-      "title": "Ironsworn",
-      "url": "https://www.ironswornrpg.com/downloads"
-    }, {
-      "price": "$14",
-      "title": "Masks: A New Generation",
-      "url": "https://preview.drivethrurpg.com/en/product/193258/masks-a-new-generation"
-    }, {
-      "price": "$10",
-      "title": "Monsterhearts",
-      "url": "https://preview.drivethrurpg.com/en/product/100540/monsterhearts"
-    }, {
-      "price": "$20",
-      "title": "Monster of the Week",
-      "url": "https://preview.drivethrurpg.com/en/product/143518/monster-of-the-week"
-    }, {
-      "price": "$15",
-      "title": "Thirsty Sword Lesbians",
-      "url": "https://preview.drivethrurpg.com/en/product/348096/thirsty-sword-lesbians"
-    }],
+    "core_books": [
+      {
+        "price": "$28",
+        "title": "Apocalypse World (2nd Ed)",
+        "url": "https://preview.drivethrurpg.com/en/product/194344/apocalypse-world-2nd-ed"
+      },
+      {
+        "price": "$25",
+        "title": "Avatar Legends: The Roleplaying Game",
+        "url": "https://preview.drivethrurpg.com/en/product/384956/avatar-legends-the-roleplaying-game"
+      },
+      {
+        "price": "$20",
+        "title": "City of Mist: Player's Guide",
+        "url": "https://preview.drivethrurpg.com/en/product/266983/city-of-mist-player-s-guide"
+      },
+      {
+        "price": "$20",
+        "title": "City of Mist: MC Toolkit",
+        "url": "https://preview.drivethrurpg.com/en/product/266981/city-of-mist-mc-toolkit"
+      },
+      {
+        "price": "$10",
+        "title": "Dungeon World",
+        "url": "https://preview.drivethrurpg.com/en/product/108028/Dungeon-World"
+      },
+      {
+        "price": "Free",
+        "title": "Ironsworn",
+        "url": "https://www.ironswornrpg.com/downloads"
+      },
+      {
+        "price": "$14",
+        "title": "Masks: A New Generation",
+        "url": "https://preview.drivethrurpg.com/en/product/193258/masks-a-new-generation"
+      },
+      {
+        "price": "$10",
+        "title": "Monsterhearts",
+        "url": "https://preview.drivethrurpg.com/en/product/100540/monsterhearts"
+      },
+      {
+        "price": "$20",
+        "title": "Monster of the Week",
+        "url": "https://preview.drivethrurpg.com/en/product/143518/monster-of-the-week"
+      },
+      {
+        "price": "$15",
+        "title": "Thirsty Sword Lesbians",
+        "url": "https://preview.drivethrurpg.com/en/product/348096/thirsty-sword-lesbians"
+      }
+    ],
     "license": {
       "is_permissive": true,
       "display": "PbtA policy",
@@ -439,7 +504,10 @@
     "crunch": "Low crunch / varies",
     "owner": "Meguey & Vincent Baker",
     "timeline": "2010 (Apocalypse World)\n2012 (Dungeon World)\n2012 (Monsterhearts)\n2012 (Monster of the Week)\n2016 (Masks)\n2017 (City of Mist)\n2021 (Thirsty Sword Lesbians)\n2022 (Avatar Legends)",
-    "tags": ["fast-paced", "genre-first"]
+    "tags": [
+      "fast-paced",
+      "genre-first"
+    ]
   },
   {
     "name": "Stars Without Number",
@@ -451,18 +519,22 @@
     "known_for": "True sandbox exploration",
     "core_mechanic": "2d6 + modifiers\n≥ target set by GM",
     "price_of_entry": 0,
-    "core_books": [{
-      "price": "Free",
-      "title": "Stars Without Number: Revised Edition",
-      "url": "https://preview.drivethrurpg.com/en/product/230009/Stars-Without-Number-Revised-Edition-Free-Version"
-    }],
+    "core_books": [
+      {
+        "price": "Free",
+        "title": "Stars Without Number: Revised Edition",
+        "url": "https://preview.drivethrurpg.com/en/product/230009/Stars-Without-Number-Revised-Edition-Free-Version"
+      }
+    ],
     "license": null,
     "srd_url": null,
     "most_famous_property": "Itself\nWorlds Without Number",
     "crunch": "Medium crunch",
     "owner": "Sine Nomine Publishing",
     "timeline": "2010 (original)\n2017 (revised ed)",
-    "tags": ["sandbox"]
+    "tags": [
+      "sandbox"
+    ]
   },
   {
     "name": "Generic Universal Role-Playing System\n(GURPS)",
@@ -474,15 +546,18 @@
     "known_for": "First setting-agnostic RPG",
     "core_mechanic": "3d6 + modifiers\n≤ character skill",
     "price_of_entry": 55,
-    "core_books": [{
-      "price": "$30",
-      "title": "GURPS Basic Set: Characters",
-      "url": "https://preview.drivethrurpg.com/en/product/224830/gurps-basic-set-characters"
-    }, {
-      "price": "$25",
-      "title": "GURPS Basic Set: Campaigns",
-      "url": "https://preview.drivethrurpg.com/en/product/224831/gurps-basic-set-campaigns"
-    }],
+    "core_books": [
+      {
+        "price": "$30",
+        "title": "GURPS Basic Set: Characters",
+        "url": "https://preview.drivethrurpg.com/en/product/224830/gurps-basic-set-characters"
+      },
+      {
+        "price": "$25",
+        "title": "GURPS Basic Set: Campaigns",
+        "url": "https://preview.drivethrurpg.com/en/product/224831/gurps-basic-set-campaigns"
+      }
+    ],
     "license": {
       "is_permissive": false,
       "display": "No derivative works allowed",
@@ -493,7 +568,10 @@
     "crunch": "High crunch",
     "owner": "Steve Jackson Games",
     "timeline": "1986 (Basic GURPS)\n1998 (GURPS Lite)\n2004 (4th ed)",
-    "tags": ["gritty", "toolkit"]
+    "tags": [
+      "gritty",
+      "toolkit"
+    ]
   },
   {
     "name": "Fudge",
@@ -505,23 +583,28 @@
     "known_for": "Rules-light",
     "core_mechanic": "4d6 (as +/0/- dice)\ncount fives and sixes (+)\n≥ target set by GM",
     "price_of_entry": 0,
-    "core_books": [{
-      "price": "Free",
-      "title": "Fate Core System",
-      "url": "https://evilhat.com/product/fate-core-system/"
-    }, {
-      "price": "$17",
-      "title": "Fudge 10th Anniversary Edition",
-      "url": "https://preview.drivethrurpg.com/en/product/327196/fudge-10th-anniversary-edition"
-    }, {
-      "price": "$25",
-      "title": "Dresden Files RPG: Your Story",
-      "url": "https://evilhat.com/product/dresden-files-rpg-your-story/"
-    }, {
-      "price": "$25",
-      "title": "Dresden Files RPG: Our World",
-      "url": "https://evilhat.com/product/dresden-files-rpg-our-world/"
-    }],
+    "core_books": [
+      {
+        "price": "Free",
+        "title": "Fate Core System",
+        "url": "https://evilhat.com/product/fate-core-system/"
+      },
+      {
+        "price": "$17",
+        "title": "Fudge 10th Anniversary Edition",
+        "url": "https://preview.drivethrurpg.com/en/product/327196/fudge-10th-anniversary-edition"
+      },
+      {
+        "price": "$25",
+        "title": "Dresden Files RPG: Your Story",
+        "url": "https://evilhat.com/product/dresden-files-rpg-your-story/"
+      },
+      {
+        "price": "$25",
+        "title": "Dresden Files RPG: Our World",
+        "url": "https://evilhat.com/product/dresden-files-rpg-our-world/"
+      }
+    ],
     "license": {
       "is_permissive": true,
       "display": "OGL",
@@ -532,7 +615,10 @@
     "crunch": "Low crunch",
     "owner": "Grey Ghost Press",
     "timeline": "1992 (published)\n2003 (FATE, 1st ed)\n2010 (The Dresden Files RPG)\n2013 (Fate Core)",
-    "tags": ["collaborative", "toolkit"]
+    "tags": [
+      "collaborative",
+      "toolkit"
+    ]
   },
   {
     "name": "Savage Worlds\n(SWADE)",
@@ -544,11 +630,13 @@
     "known_for": "\"Bennies\"\nFlexible character advancement",
     "core_mechanic": "roll die assigned to trait\n(d4 - d12)\n≥ target set by GM (typically 4)",
     "price_of_entry": 20,
-    "core_books": [{
-      "price": "$20",
-      "title": "Savage Worlds Adventure Edition Core Rules",
-      "url": "https://peginc.com/product/savage-worlds-adventure-edition-core-rules-pdf-swade/"
-    }],
+    "core_books": [
+      {
+        "price": "$20",
+        "title": "Savage Worlds Adventure Edition Core Rules",
+        "url": "https://peginc.com/product/savage-worlds-adventure-edition-core-rules-pdf-swade/"
+      }
+    ],
     "license": {
       "is_permissive": false,
       "display": "Fan License\n+ Creator Program\n+ Partner Licensing",
@@ -559,7 +647,10 @@
     "crunch": "Medium crunch",
     "owner": "Pinnacle Entertainment Group",
     "timeline": "2003 (1st ed)\n2018 (Adventure Edition)",
-    "tags": ["action", "pulpy"]
+    "tags": [
+      "action",
+      "pulpy"
+    ]
   },
   {
     "name": "Mörk Borg",
@@ -571,11 +662,13 @@
     "known_for": "Extremely frequent PC death",
     "core_mechanic": "1d20 + stat bonus\n≥ target set by GM",
     "price_of_entry": 20,
-    "core_books": [{
-      "price": "$20",
-      "title": "Mörk Borg English",
-      "url": "https://preview.drivethrurpg.com/en/product/295910/moerk-borg-english"
-    }],
+    "core_books": [
+      {
+        "price": "$20",
+        "title": "Mörk Borg English",
+        "url": "https://preview.drivethrurpg.com/en/product/295910/moerk-borg-english"
+      }
+    ],
     "license": {
       "is_permissive": true,
       "display": "MÖRK BORG THIRD PARTY LICENSE",
@@ -586,7 +679,10 @@
     "crunch": "Low crunch",
     "owner": "Free League Publishing",
     "timeline": "2020 (published)",
-    "tags": ["dark", "deadly"]
+    "tags": [
+      "dark",
+      "deadly"
+    ]
   },
   {
     "name": "Kids on Bikes",
@@ -598,11 +694,13 @@
     "known_for": "Collaborative worldbuilding",
     "core_mechanic": "roll die assigned to trait\n(d4 - d12)\n≥ target set by GM",
     "price_of_entry": 10,
-    "core_books": [{
-      "price": "$10",
-      "title": "Kids on Bikes: Core Rulebook",
-      "url": "https://preview.drivethrurpg.com/en/product/231938/Kids-on-Bikes-Core-Rulebook"
-    }],
+    "core_books": [
+      {
+        "price": "$10",
+        "title": "Kids on Bikes: Core Rulebook",
+        "url": "https://preview.drivethrurpg.com/en/product/231938/Kids-on-Bikes-Core-Rulebook"
+      }
+    ],
     "license": null,
     "srd_url": null,
     "most_famous_property": "Itself",
@@ -621,11 +719,13 @@
     "known_for": "Zero-prep one-shots",
     "core_mechanic": "party rolls together\ndice pool based on traits\ntake 2 highest + d4 result\n≥ GM dice pool roll",
     "price_of_entry": 15,
-    "core_books": [{
-      "price": "$15",
-      "title": "AGON",
-      "url": "https://johnharper.itch.io/agon"
-    }],
+    "core_books": [
+      {
+        "price": "$15",
+        "title": "AGON",
+        "url": "https://johnharper.itch.io/agon"
+      }
+    ],
     "license": {
       "is_permissive": true,
       "display": "CC BY 4.0",
@@ -636,7 +736,9 @@
     "crunch": "Low crunch",
     "owner": "Evil Hat Productions",
     "timeline": "2019 (2nd ed)",
-    "tags": ["zero-prep"]
+    "tags": [
+      "zero-prep"
+    ]
   },
   {
     "name": "Risus",
@@ -648,18 +750,23 @@
     "known_for": "4-page rulebook\n\"Clichés\"",
     "core_mechanic": "d6 dice pool\n≥ target set by GM",
     "price_of_entry": 0,
-    "core_books": [{
-      "price": "Free",
-      "title": "Risus: The Anything RPG",
-      "url": "https://preview.drivethrurpg.com/en/product/170294/Risus-The-Anything-RPG"
-    }],
+    "core_books": [
+      {
+        "price": "Free",
+        "title": "Risus: The Anything RPG",
+        "url": "https://preview.drivethrurpg.com/en/product/170294/Risus-The-Anything-RPG"
+      }
+    ],
     "license": null,
     "srd_url": "https://www.risusiverse.com/home/rule-elucidation",
     "most_famous_property": "Itself",
     "crunch": "Low crunch",
     "owner": "Dave LeCompte",
     "timeline": "1993 (1st ed)\n2021 (2nd ed)",
-    "tags": ["bite-sized", "humor"]
+    "tags": [
+      "bite-sized",
+      "humor"
+    ]
   },
   {
     "name": "The Burning Wheel",
@@ -671,18 +778,22 @@
     "known_for": "\"Beliefs\"\nLiterary style",
     "core_mechanic": "d6 dice pool\ntarget depends on die\n≥ target set by GM + modifiers",
     "price_of_entry": 20,
-    "core_books": [{
-      "price": "$20",
-      "title": "Burning Wheel Gold Revised",
-      "url": "https://www.burningwheel.com/burning-wheel-gold-revised-pdf/"
-    }],
+    "core_books": [
+      {
+        "price": "$20",
+        "title": "Burning Wheel Gold Revised",
+        "url": "https://www.burningwheel.com/burning-wheel-gold-revised-pdf/"
+      }
+    ],
     "license": null,
     "srd_url": null,
     "most_famous_property": "Itself",
     "crunch": "High crunch",
     "owner": "Luke Crane",
     "timeline": "2002 (The Burning Wheel)\n2011 (Burning Wheel Gold)",
-    "tags": ["literary"]
+    "tags": [
+      "literary"
+    ]
   },
   {
     "name": "Champions / HERO System",
@@ -694,18 +805,22 @@
     "known_for": "Very open-ended character creation",
     "core_mechanic": "3d6 ≤ character skill",
     "price_of_entry": 50,
-    "core_books": [{
-      "price": "$50",
-      "title": "HERO System 6th Edition Bundle",
-      "url": "https://preview.drivethrurpg.com/en/product/64074/hero-system-6th-edition-bundle-character-creation-combat-and-adventuring"
-    }],
+    "core_books": [
+      {
+        "price": "$50",
+        "title": "HERO System 6th Edition Bundle",
+        "url": "https://preview.drivethrurpg.com/en/product/64074/hero-system-6th-edition-bundle-character-creation-combat-and-adventuring"
+      }
+    ],
     "license": null,
     "srd_url": null,
     "most_famous_property": "Champions Online (spinoff video game)",
     "crunch": "High crunch",
     "owner": "Hero Games\nDOJ, Inc.",
     "timeline": "1990 (Hero System Rulesbook)\n2009 (6th ed)",
-    "tags": ["toolkit"]
+    "tags": [
+      "toolkit"
+    ]
   },
   {
     "name": "Cortex System",
@@ -717,11 +832,13 @@
     "known_for": "Several licensed RPGs",
     "core_mechanic": "roll dice assigned to traits\n(d4 - d12)\nadd two highest\n≥ GM d6 pool roll",
     "price_of_entry": 25,
-    "core_books": [{
-      "price": "$25",
-      "title": "Cortex Prime",
-      "url": "https://shop.direwolfdigital.com/products/cortex-prime?variant=42682288275609"
-    }],
+    "core_books": [
+      {
+        "price": "$25",
+        "title": "Cortex Prime",
+        "url": "https://shop.direwolfdigital.com/products/cortex-prime?variant=42682288275609"
+      }
+    ],
     "license": null,
     "srd_url": null,
     "most_famous_property": "Battlestar Galactica RPG\nMarvel Heroic RPG\nSerenity RPG (AKA Firefly)\nSupernatural RPG",
@@ -740,18 +857,24 @@
     "known_for": "Rising tension and suspense",
     "core_mechanic": "Pull 1+ blocks from Jenga tower",
     "price_of_entry": 12,
-    "core_books": [{
-      "price": "$12",
-      "title": "Dread",
-      "url": "https://preview.drivethrurpg.com/en/product/83854/Dread"
-    }],
+    "core_books": [
+      {
+        "price": "$12",
+        "title": "Dread",
+        "url": "https://preview.drivethrurpg.com/en/product/83854/Dread"
+      }
+    ],
     "license": null,
     "srd_url": null,
     "most_famous_property": "Itself",
     "crunch": "Low crunch",
     "owner": "The Impossible Dream",
     "timeline": "2005 (published)",
-    "tags": ["bite-sized", "dark", "deadly"]
+    "tags": [
+      "bite-sized",
+      "dark",
+      "deadly"
+    ]
   },
   {
     "name": "Traveller",
@@ -763,15 +886,18 @@
     "known_for": "One of the oldest sci-fi RPGs\nPossible inspiration for Firefly (TV series)",
     "core_mechanic": "2d6 + modifiers\n≥ 8 + modifiers",
     "price_of_entry": 99,
-    "core_books": [{
-      "price": "$99",
-      "title": "Traveller5 Core Rules 3-Book Set",
-      "url": "https://preview.drivethrurpg.com/en/product/150646/t5-traveller5-core-rules-3-book-set"
-    }, {
-      "price": "$30",
-      "title": "Traveller Core Rulebook Update 2022",
-      "url": "https://www.mongoosepublishing.com/products/traveller-core-rulebook-update-2022?variant=42088931754231"
-    }],
+    "core_books": [
+      {
+        "price": "$99",
+        "title": "Traveller5 Core Rules 3-Book Set",
+        "url": "https://preview.drivethrurpg.com/en/product/150646/t5-traveller5-core-rules-3-book-set"
+      },
+      {
+        "price": "$30",
+        "title": "Traveller Core Rulebook Update 2022",
+        "url": "https://www.mongoosepublishing.com/products/traveller-core-rulebook-update-2022?variant=42088931754231"
+      }
+    ],
     "license": {
       "is_permissive": false,
       "display": "Fair Use Policy\n+ Creator Program\n+ Partner Licensing",
@@ -782,7 +908,9 @@
     "crunch": "Medium-high crunch",
     "owner": "Far Future Enterprises",
     "timeline": "1977 (1st ed)\n2013 (Traveller5)\n2016 (Mongoose Traveller 2nd ed)",
-    "tags": ["fast-paced"]
+    "tags": [
+      "fast-paced"
+    ]
   },
   {
     "name": "2d20",
@@ -794,19 +922,23 @@
     "known_for": "\"Momentum\"\nMetacurrencies",
     "core_mechanic": "2d20\ncount ≤ character skill\n≥ target set by GM",
     "price_of_entry": 20,
-    "core_books": [{
-      "price": "$20",
-      "title": "Star Trek Adventures: Core Rulebook",
-      "url": "https://preview.drivethrurpg.com/en/product/214552/star-trek-adventures-core-rulebook"
-    }, {
-      "price": "$20",
-      "title": "Fallout: The Roleplaying Game Core Rulebook",
-      "url": "https://preview.drivethrurpg.com/en/product/366742/fallout-the-roleplaying-game-core-rulebook-pdf"
-    }, {
-      "price": "$25",
-      "title": "Dune - Adventures in the Imperium",
-      "url": "https://preview.drivethrurpg.com/en/product/338242/dune-adventures-in-the-imperium-core-rulebook-standard-edition"
-    }],
+    "core_books": [
+      {
+        "price": "$20",
+        "title": "Star Trek Adventures: Core Rulebook",
+        "url": "https://preview.drivethrurpg.com/en/product/214552/star-trek-adventures-core-rulebook"
+      },
+      {
+        "price": "$20",
+        "title": "Fallout: The Roleplaying Game Core Rulebook",
+        "url": "https://preview.drivethrurpg.com/en/product/366742/fallout-the-roleplaying-game-core-rulebook-pdf"
+      },
+      {
+        "price": "$25",
+        "title": "Dune - Adventures in the Imperium",
+        "url": "https://preview.drivethrurpg.com/en/product/338242/dune-adventures-in-the-imperium-core-rulebook-standard-edition"
+      }
+    ],
     "license": {
       "is_permissive": false,
       "display": "Worldbuilders Creator Program",
@@ -817,7 +949,9 @@
     "crunch": "Medium crunch / varies",
     "owner": "Modiphius Entertainment",
     "timeline": "1993 (Mutant Chronicles)\n2017 (Star Trek Adventures)\n2021 (Fallout: The Roleplaying Game)\n2021 (Dune: Adventures in the Imperium)",
-    "tags": ["cinematic"]
+    "tags": [
+      "cinematic"
+    ]
   },
   {
     "name": "Lancer",
@@ -829,11 +963,13 @@
     "known_for": "Customizable mechs\nCOMP/CON online companion",
     "core_mechanic": "1d20 + modifiers\n≥ 10, 20, or enemy value",
     "price_of_entry": 25,
-    "core_books": [{
-      "price": "$25",
-      "title": "Lancer Core Book: First Edition",
-      "url": "https://massif-press.itch.io/corebook-pdf"
-    }],
+    "core_books": [
+      {
+        "price": "$25",
+        "title": "Lancer Core Book: First Edition",
+        "url": "https://massif-press.itch.io/corebook-pdf"
+      }
+    ],
     "license": {
       "is_permissive": true,
       "display": "Third Party License",
@@ -844,7 +980,10 @@
     "crunch": "Medium-high crunch",
     "owner": "Massif Press",
     "timeline": "2019 (published)",
-    "tags": ["action", "tactical"]
+    "tags": [
+      "action",
+      "tactical"
+    ]
   },
   {
     "name": "Fabula Ultima",
@@ -856,11 +995,13 @@
     "known_for": "Emulating Japanese-style console RPGs",
     "core_mechanic": "roll dice assigned to attributes\n(d6 - d12)\n≥ target set by GM",
     "price_of_entry": 18,
-    "core_books": [{
-      "price": "$18",
-      "title": "Fabula Ultima TTJRPG",
-      "url": "https://preview.drivethrurpg.com/en/product/410108/fabula-ultima-ttjrpg"
-    }],
+    "core_books": [
+      {
+        "price": "$18",
+        "title": "Fabula Ultima TTJRPG",
+        "url": "https://preview.drivethrurpg.com/en/product/410108/fabula-ultima-ttjrpg"
+      }
+    ],
     "license": null,
     "srd_url": null,
     "most_famous_property": "Itself",
@@ -879,11 +1020,13 @@
     "known_for": "Adaptation of D&D 3.5E\nThe \"dice chain\"\nLots of random effect tables",
     "core_mechanic": "1d20 + stat bonus\n≥ target set by GM",
     "price_of_entry": 25,
-    "core_books": [{
-      "price": "$25",
-      "title": "Dungeon Crawl Classics RPG",
-      "url": "https://preview.drivethrurpg.com/en/product/101050/dungeon-crawl-classics-rpg-dcc-rpg"
-    }],
+    "core_books": [
+      {
+        "price": "$25",
+        "title": "Dungeon Crawl Classics RPG",
+        "url": "https://preview.drivethrurpg.com/en/product/101050/dungeon-crawl-classics-rpg-dcc-rpg"
+      }
+    ],
     "license": {
       "is_permissive": false,
       "display": "Free licensing with approval",
@@ -894,7 +1037,10 @@
     "crunch": "Medium crunch",
     "owner": "Goodman Games",
     "timeline": "2012 (published)",
-    "tags": ["chaotic", "pulpy"]
+    "tags": [
+      "chaotic",
+      "pulpy"
+    ]
   },
   {
     "name": "Shadow of the Demon Lord",
@@ -906,11 +1052,13 @@
     "known_for": "Gory setting\nInsanity/Corruption tracker",
     "core_mechanic": "1d20 + modifiers\n≥ 10",
     "price_of_entry": 19,
-    "core_books": [{
-      "price": "$19",
-      "title": "Shadow of the Demon Lord",
-      "url": "https://preview.drivethrurpg.com/en/product/155572/shadow-of-the-demon-lord"
-    }],
+    "core_books": [
+      {
+        "price": "$19",
+        "title": "Shadow of the Demon Lord",
+        "url": "https://preview.drivethrurpg.com/en/product/155572/shadow-of-the-demon-lord"
+      }
+    ],
     "license": {
       "is_permissive": false,
       "display": "DotDL Creator Program",
@@ -921,7 +1069,10 @@
     "crunch": "Medium-low crunch",
     "owner": "Schwalb Entertainment",
     "timeline": "2015 (published)",
-    "tags": ["deadly", "fast-paced"]
+    "tags": [
+      "deadly",
+      "fast-paced"
+    ]
   },
   {
     "name": "Old School Essentials\n(OSE)",
@@ -933,11 +1084,13 @@
     "known_for": "Revival of Basic/Expert (B/X) D&D",
     "core_mechanic": "1d20 + modifiers\n≤ ability score",
     "price_of_entry": 20,
-    "core_books": [{
-      "price": "$20",
-      "title": "OSE Classic Fantasy: Rules Tome",
-      "url": "https://preview.drivethrurpg.com/en/product/279183/old-school-essentials-classic-fantasy-rules-tome"
-    }],
+    "core_books": [
+      {
+        "price": "$20",
+        "title": "OSE Classic Fantasy: Rules Tome",
+        "url": "https://preview.drivethrurpg.com/en/product/279183/old-school-essentials-classic-fantasy-rules-tome"
+      }
+    ],
     "license": {
       "is_permissive": true,
       "display": "Third Party License + OGL",
@@ -960,19 +1113,23 @@
     "known_for": "\"Clues\"\nAutomatic success on investigation checks",
     "core_mechanic": "1d6 + point spend\n≥ target set by GM",
     "price_of_entry": 25,
-    "core_books": [{
-      "price": "$15",
-      "title": "The Book of Unremitting Horror",
-      "url": "https://preview.drivethrurpg.com/en/product/51077/the-book-of-unremitting-horror-gumshoe-version"
-    },{
-      "price": "$30",
-      "title": "Swords of the Serpentine",
-      "url": "https://preview.drivethrurpg.com/en/product/408716/swords-of-the-serpentine"
-    },{
-      "price": "$25",
-      "title": "Night's Black Agents",
-      "url": "https://preview.drivethrurpg.com/en/product/106783/night-s-black-agents"
-    }],
+    "core_books": [
+      {
+        "price": "$15",
+        "title": "The Book of Unremitting Horror",
+        "url": "https://preview.drivethrurpg.com/en/product/51077/the-book-of-unremitting-horror-gumshoe-version"
+      },
+      {
+        "price": "$30",
+        "title": "Swords of the Serpentine",
+        "url": "https://preview.drivethrurpg.com/en/product/408716/swords-of-the-serpentine"
+      },
+      {
+        "price": "$25",
+        "title": "Night's Black Agents",
+        "url": "https://preview.drivethrurpg.com/en/product/106783/night-s-black-agents"
+      }
+    ],
     "license": {
       "is_permissive": true,
       "display": "CC BY 3.0",
@@ -983,7 +1140,9 @@
     "crunch": "Low crunch",
     "owner": "Pelgrane Press",
     "timeline": "2007 (The Book of Unremitting Horror)\n2012 (Night's Black Agents)\n2022 (Swords of the Serpentine)",
-    "tags": ["mystery"]
+    "tags": [
+      "mystery"
+    ]
   },
   {
     "name": "Illuminated Worlds",
@@ -995,11 +1154,13 @@
     "known_for": "\"Gilded\" dice",
     "core_mechanic": "d6 dice pool\ntake highest\n4/5 = partial success, 6 = success",
     "price_of_entry": 20,
-    "core_books": [{
-      "price": "$20",
-      "title": "Candela Obscura Core Rulebook",
-      "url": "https://shop.critrole.com/collections/books/products/candela-obscura-core-rulebook-pdf"
-    }],
+    "core_books": [
+      {
+        "price": "$20",
+        "title": "Candela Obscura Core Rulebook",
+        "url": "https://shop.critrole.com/collections/books/products/candela-obscura-core-rulebook-pdf"
+      }
+    ],
     "license": {
       "is_permissive": true,
       "display": "CGL",
@@ -1010,7 +1171,10 @@
     "crunch": "Low crunch",
     "owner": "Critical Role Productions",
     "timeline": "2023 (web series)\n2023 (core rulebook)",
-    "tags": ["cinematic", "mystery"]
+    "tags": [
+      "cinematic",
+      "mystery"
+    ]
   },
   {
     "name": "d100 Panic Engine",
@@ -1022,18 +1186,22 @@
     "known_for": "\"Zine\" campaigns",
     "core_mechanic": "1d100 ≤ character skill",
     "price_of_entry": 0,
-    "core_books": [{
-      "price": "Free",
-      "title": "Mothership: Player's Survival Guide",
-      "url": "https://preview.drivethrurpg.com/en/product/245017/mothership-player-s-survival-guide"
-    }],
+    "core_books": [
+      {
+        "price": "Free",
+        "title": "Mothership: Player's Survival Guide",
+        "url": "https://preview.drivethrurpg.com/en/product/245017/mothership-player-s-survival-guide"
+      }
+    ],
     "license": null,
     "srd_url": null,
     "most_famous_property": "Mothership (RPG)",
     "crunch": "Low crunch",
     "owner": "Tuesday Knight Games",
     "timeline": "2021 (Kickstarter)",
-    "tags": ["deadly"]
+    "tags": [
+      "deadly"
+    ]
   },
   {
     "name": "Into the Odd",
@@ -1045,19 +1213,23 @@
     "known_for": "Quickness over realism",
     "core_mechanic": "1d20 ≤ attribute score",
     "price_of_entry": 15,
-    "core_books": [{
-      "price": "$15",
-      "title": "Into the Odd - Remastered",
-      "url": "https://preview.drivethrurpg.com/en/product/399483/into-the-odd-remastered"
-    },{
-      "price": "$19",
-      "title": "Electric Bastionland",
-      "url": "https://chrismcdee.itch.io/electric-bastionland"
-    },{
-      "price": "Free",
-      "title": "Mausritter",
-      "url": "https://losing-games.itch.io/mausritter"
-    }],
+    "core_books": [
+      {
+        "price": "$15",
+        "title": "Into the Odd - Remastered",
+        "url": "https://preview.drivethrurpg.com/en/product/399483/into-the-odd-remastered"
+      },
+      {
+        "price": "$19",
+        "title": "Electric Bastionland",
+        "url": "https://chrismcdee.itch.io/electric-bastionland"
+      },
+      {
+        "price": "Free",
+        "title": "Mausritter",
+        "url": "https://losing-games.itch.io/mausritter"
+      }
+    ],
     "license": {
       "is_permissive": true,
       "display": "Mark of the Odd",
@@ -1068,7 +1240,9 @@
     "crunch": "Low crunch",
     "owner": "Free League Publishing",
     "timeline": "2014 (Into the Odd)\n2019 (Mausritter)\n2020 (Electric Bastionland)\n2022 (Into the Odd - Remastered)",
-    "tags": ["sandbox"]
+    "tags": [
+      "sandbox"
+    ]
   },
   {
     "name": "Palladium System\n(Megaversal System)",
@@ -1080,11 +1254,13 @@
     "known_for": "Destructive battles\nHuge range of power levels at character creation",
     "core_mechanic": "1d100 ≤ character skill",
     "price_of_entry": 20,
-    "core_books": [{
-      "price": "$20",
-      "title": "Rifts Ultimate Edition",
-      "url": "https://preview.drivethrurpg.com/en/product/181928/rifts-ultimate-edition-rpg"
-    }],
+    "core_books": [
+      {
+        "price": "$20",
+        "title": "Rifts Ultimate Edition",
+        "url": "https://preview.drivethrurpg.com/en/product/181928/rifts-ultimate-edition-rpg"
+      }
+    ],
     "license": {
       "is_permissive": false,
       "display": "No derivative works allowed",
@@ -1107,11 +1283,13 @@
     "known_for": "Transhumanist setting",
     "core_mechanic": "1d100 ≤ character skill + modifiers",
     "price_of_entry": 25,
-    "core_books": [{
-      "price": "$25",
-      "title": "Eclipse Phase Second Edition",
-      "url": "https://posthuman.shop/products/eclipse-phase-second-edition-pdf"
-    }],
+    "core_books": [
+      {
+        "price": "$25",
+        "title": "Eclipse Phase Second Edition",
+        "url": "https://posthuman.shop/products/eclipse-phase-second-edition-pdf"
+      }
+    ],
     "license": {
       "is_permissive": false,
       "display": "CC BY-NC-SA 4.0",
@@ -1134,11 +1312,13 @@
     "known_for": "\"Power Levels\"\nOpen-ended superpowers",
     "core_mechanic": "1d20 + stat bonus\n≥ target set by GM",
     "price_of_entry": 27,
-    "core_books": [{
-      "price": "$27",
-      "title": "Deluxe Hero's Handbook",
-      "url": "https://greenroninstore.com/collections/mutants-masterminds-third-edition/products/mutants-masterminds-deluxe-heros-handbook-pdf"
-    }],
+    "core_books": [
+      {
+        "price": "$27",
+        "title": "Deluxe Hero's Handbook",
+        "url": "https://greenroninstore.com/collections/mutants-masterminds-third-edition/products/mutants-masterminds-deluxe-heros-handbook-pdf"
+      }
+    ],
     "license": {
       "is_permissive": true,
       "display": "Super-Powered by M&M",
@@ -1161,11 +1341,13 @@
     "known_for": "\"Icons\"\nBackgrounds instead of skills",
     "core_mechanic": "1d20 + modifiers\n≥ environment/difficulty target",
     "price_of_entry": 25,
-    "core_books": [{
-      "price": "$25",
-      "title": "13th Age",
-      "url": "https://pelgranepress.com/product/13th-age/"
-    }],
+    "core_books": [
+      {
+        "price": "$25",
+        "title": "13th Age",
+        "url": "https://pelgranepress.com/product/13th-age/"
+      }
+    ],
     "license": {
       "is_permissive": true,
       "display": "OGL\n+ Compatibility License\n+ Archmage Engine License\n+ Community Use Policy",
@@ -1188,11 +1370,13 @@
     "known_for": "\"Testing your luck\"\nZany/psychedelic setting and adventures",
     "core_mechanic": "2d6 ≤ luck score\nThen luck - 1",
     "price_of_entry": 18,
-    "core_books": [{
-      "price": "$18",
-      "title": "Troika! The Science Fantasy RPG",
-      "url": "https://preview.drivethrurpg.com/en/product/269791/troika-the-science-fantasy-rpg"
-    }],
+    "core_books": [
+      {
+        "price": "$18",
+        "title": "Troika! The Science Fantasy RPG",
+        "url": "https://preview.drivethrurpg.com/en/product/269791/troika-the-science-fantasy-rpg"
+      }
+    ],
     "license": {
       "is_permissive": true,
       "display": "Compatibility license",
@@ -1203,6 +1387,39 @@
     "crunch": "Low crunch",
     "owner": "The Melsonian Arts Council",
     "timeline": "2019 (published)",
-    "tags": ["humor"]
+    "tags": [
+      "humor"
+    ]
+  },
+  {
+    "name": "Ker Nethalas: Into the Midnight Throne",
+    "core_setting": "Dark fantasy",
+    "largest_subreddit": "",
+    "subreddit_size": "",
+    "discord_url": "https://discord.gg/xjQTcUr",
+    "discord_size": 1089,
+    "known_for": "Great for solo RPG",
+    "core_mechanic": "1d100 ≤ character skill",
+    "price_of_entry": 15,
+    "core_books": [
+      {
+        "price": "$15",
+        "title": "Ker Nethalas: Into the Midnight Throne",
+        "url": "https://www.drivethrurpg.com/en/product/465235/ker-nethalas-into-the-midnight-throne"
+      }
+    ],
+    "license": {
+      "is_permissive": true,
+      "display": "Creative Commons Attribution 4.0 International License",
+      "url": "Creative Commons Attribution 4.0 International License"
+    },
+    "srd_url": "https://blackoathgames.com/ker-nethalas-into-the-midnight-throne",
+    "most_famous_property": "Itself",
+    "crunch": "Low crunch",
+    "owner": "Blackoath Entertainment",
+    "timeline": "2024 (published)",
+    "tags": [
+      "dark"
+    ]
   }
 ]
