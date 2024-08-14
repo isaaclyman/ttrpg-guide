@@ -1208,5 +1208,28 @@
     "owner": "The Melsonian Arts Council",
     "timeline": "2019 (published)",
     "tags": ["humor"]
+  },
+  {
+    "name": "Symbaroum",
+    "core_setting": "Dark fantasy",
+    "largest_subreddit": "r/Symbaroum",
+    "subreddit_size": 5600,
+    "discord_url": "https://discord.com/invite/E46WApE",
+    "discord_size": 1900,
+    "known_for": "Swedish folklore\nGM doesn't roll dice",
+    "core_mechanic": "1d20 ≤ attribute score",
+    "price_of_entry": 25,
+    "core_books": [{
+      "price": "$25",
+      "title": "Symbaroum - Core Rulebook",
+      "url": "https://www.drivethrurpg.com/en/product/163293/symbaroum-core-rulebook"
+    }],
+    "license": null,
+    "srd_url": null,
+    "most_famous_property": "Itself",
+    "crunch": "Medium-low crunch",
+    "owner": "Free League Publishing",
+    "timeline": "2014 (original Swedish release)\n2016 (English translation)",
+    "tags": ["dark", "deadly"]
   }
 ]
