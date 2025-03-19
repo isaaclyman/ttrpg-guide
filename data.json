@@ -8,6 +8,8 @@
     "discord_size": 220000,
     "known_for": "Most popular TTRPG (by far)\nMassive community",
     "core_mechanic": "1d20 + ability bonus\n≥ target set by GM",
+    "character_comp": "Class + Subclass + Stat Scores",
+    "character_progression": "XP for battle\nAutomatic level up",
     "price_of_entry": 60,
     "core_books": [{
       "price": "$30",
@@ -39,6 +41,8 @@
     "discord_size": 28000,
     "known_for": "Adaptation of D&D 3.5E",
     "core_mechanic": "1d20 + ability bonus\n≥ target set by GM",
+    "character_comp": null,
+    "character_progression": null,
     "price_of_entry": 20,
     "core_books": [{
       "price": "$20",
@@ -66,6 +70,8 @@
     "discord_size": 6500,
     "known_for": "Adaptation of Pathfinder",
     "core_mechanic": "1d20 + ability bonus\n≥ target set by GM",
+    "character_comp": null,
+    "character_progression": null,
     "price_of_entry": 20,
     "core_books": [{
       "price": "$20",
@@ -93,6 +99,8 @@
     "discord_size": 6100,
     "known_for": "Easy to GM\n\"Cyphers\"",
     "core_mechanic": "Negotiate difficulty target\n1d20 ≥ target",
+    "character_comp": "Class + Skill Set + Stat Pools",
+    "character_progression": "XP for bad luck / character storytelling\nSpend to level up",
     "price_of_entry": 23,
     "core_books": [{
       "price": "$23",
@@ -120,6 +128,8 @@
     "discord_size": 1800,
     "known_for": "Sanity tracker\nMost popular TTRPG in Japan (Cthulhu)",
     "core_mechanic": "1d100 ≤ character skill",
+    "character_comp": null,
+    "character_progression": null,
     "price_of_entry": 25,
     "core_books": [{
       "price": "$25",
@@ -147,6 +157,8 @@
     "discord_size": 2800,
     "known_for": "Incredibly granular rules",
     "core_mechanic": "d6 dice pool\ncount fives and sixes\n≥ threshold set by GM",
+    "character_comp": null,
+    "character_progression": null,
     "price_of_entry": 20,
     "core_books": [{
       "price": "$20",
@@ -170,6 +182,8 @@
     "discord_size": 12500,
     "known_for": "Side effects on rolls - not just pass/fail\nHigh improv",
     "core_mechanic": "custom non-numeric dice\n(success/fail, luck, critical results,\nand several others)",
+    "character_comp": null,
+    "character_progression": null,
     "price_of_entry": 20,
     "core_books": [{
       "price": "$20",
@@ -197,6 +211,8 @@
     "discord_size": 8600,
     "known_for": "Fast-paced play\n\"Faction\" system",
     "core_mechanic": "d6 dice pool\ntake highest\n4/5 = partial success, 6 = success",
+    "character_comp": null,
+    "character_progression": null,
     "price_of_entry": 20,
     "core_books": [{
       "price": "$20",
@@ -228,6 +244,8 @@
     "discord_size": 8600,
     "known_for": "High risk of PC death\nGritty setting",
     "core_mechanic": "1d100 ≤ character skill",
+    "character_comp": null,
+    "character_progression": null,
     "price_of_entry": 30,
     "core_books": [{
       "price": "$30",
@@ -251,6 +269,8 @@
     "discord_size": 1600,
     "known_for": "Complex system for building custom spells",
     "core_mechanic": "1d10 + character bonuses\n≥ target set by GM",
+    "character_comp": null,
+    "character_progression": null,
     "price_of_entry": 20,
     "core_books": [{
       "price": "$20",
@@ -274,6 +294,8 @@
     "discord_size": 10200,
     "known_for": "\"Lifepath\" system",
     "core_mechanic": "1d10 + character bonuses\n≥ target set by GM",
+    "character_comp": null,
+    "character_progression": null,
     "price_of_entry": 30,
     "core_books": [{
       "price": "$4",
@@ -309,6 +331,8 @@
     "discord_size": 5900,
     "known_for": "\"Pushed\" rolls\nHigh-profile licensed RPGs",
     "core_mechanic": "d6 dice pool\nsuccess = at least one 6",
+    "character_comp": null,
+    "character_progression": null,
     "price_of_entry": 25,
     "core_books": [{
       "price": "$25",
@@ -360,6 +384,8 @@
     "discord_size": 24000,
     "known_for": "Dark/mature themes\nPolitical intrigue",
     "core_mechanic": "d10 dice pool\n≥ target set by GM",
+    "character_comp": null,
+    "character_progression": null,
     "price_of_entry": 25,
     "core_books": [{
       "price": "$25",
@@ -391,6 +417,8 @@
     "discord_size": 1000,
     "known_for": "\"Moves\"\nPermissive license\nDiversity of spinoff games",
     "core_mechanic": "2d6 + modifiers\n≥ fixed target",
+    "character_comp": "Class",
+    "character_progression": "XP for rolls / moves / storytelling\nAutomatic level up",
     "price_of_entry": 28,
     "core_books": [{
       "price": "$28",
@@ -454,6 +482,8 @@
     "discord_size": 2400,
     "known_for": "True sandbox exploration",
     "core_mechanic": "2d6 + modifiers\n≥ target set by GM",
+    "character_comp": null,
+    "character_progression": null,
     "price_of_entry": 0,
     "core_books": [{
       "price": "Free",
@@ -477,6 +507,8 @@
     "discord_size": 6000,
     "known_for": "First setting-agnostic RPG",
     "core_mechanic": "3d6 + modifiers\n≤ character skill",
+    "character_comp": null,
+    "character_progression": null,
     "price_of_entry": 55,
     "core_books": [{
       "price": "$30",
@@ -508,6 +540,8 @@
     "discord_size": 2900,
     "known_for": "Rules-light",
     "core_mechanic": "4d6 (as +/0/- dice)\ncount fives and sixes (+)\n≥ target set by GM",
+    "character_comp": null,
+    "character_progression": null,
     "price_of_entry": 0,
     "core_books": [{
       "price": "Free",
@@ -547,6 +581,8 @@
     "discord_size": 4300,
     "known_for": "\"Bennies\"\nFlexible character advancement",
     "core_mechanic": "roll die assigned to trait\n(d4 - d12)\n≥ target set by GM (typically 4)",
+    "character_comp": null,
+    "character_progression": null,
     "price_of_entry": 20,
     "core_books": [{
       "price": "$20",
@@ -574,6 +610,8 @@
     "discord_size": 7300,
     "known_for": "Extremely frequent PC death",
     "core_mechanic": "1d20 + stat bonus\n≥ target set by GM",
+    "character_comp": null,
+    "character_progression": null,
     "price_of_entry": 20,
     "core_books": [{
       "price": "$20",
@@ -601,6 +639,8 @@
     "discord_size": 4600,
     "known_for": "Collaborative worldbuilding",
     "core_mechanic": "roll die assigned to trait\n(d4 - d12)\n≥ target set by GM",
+    "character_comp": null,
+    "character_progression": null,
     "price_of_entry": 10,
     "core_books": [{
       "price": "$10",
@@ -624,6 +664,8 @@
     "discord_size": 400,
     "known_for": "Zero-prep one-shots",
     "core_mechanic": "party rolls together\ndice pool based on traits\ntake 2 highest + d4 result\n≥ GM dice pool roll",
+    "character_comp": null,
+    "character_progression": null,
     "price_of_entry": 15,
     "core_books": [{
       "price": "$15",
@@ -651,6 +693,8 @@
     "discord_size": 100,
     "known_for": "4-page rulebook\n\"Clichés\"",
     "core_mechanic": "d6 dice pool\n≥ target set by GM",
+    "character_comp": "Tags",
+    "character_progression": "Dice roll (optional rule)",
     "price_of_entry": 0,
     "core_books": [{
       "price": "Free",
@@ -674,6 +718,8 @@
     "discord_size": 1300,
     "known_for": "\"Beliefs\"\nLiterary style",
     "core_mechanic": "d6 dice pool\ntarget depends on die\n≥ target set by GM + modifiers",
+    "character_comp": null,
+    "character_progression": null,
     "price_of_entry": 20,
     "core_books": [{
       "price": "$20",
@@ -697,6 +743,8 @@
     "discord_size": 1000,
     "known_for": "Very open-ended character creation",
     "core_mechanic": "3d6 ≤ character skill",
+    "character_comp": "Skills + Stat Scores",
+    "character_progression": null,
     "price_of_entry": 50,
     "core_books": [{
       "price": "$50",
@@ -720,6 +768,8 @@
     "discord_size": 3900,
     "known_for": "Several licensed RPGs",
     "core_mechanic": "roll dice assigned to traits\n(d4 - d12)\nadd two highest\n≥ GM d6 pool roll",
+    "character_comp": null,
+    "character_progression": null,
     "price_of_entry": 25,
     "core_books": [{
       "price": "$25",
@@ -743,6 +793,8 @@
     "discord_size": null,
     "known_for": "Rising tension and suspense",
     "core_mechanic": "Pull 1+ blocks from Jenga tower",
+    "character_comp": "Questionnaire (for flavor)",
+    "character_progression": "None",
     "price_of_entry": 12,
     "core_books": [{
       "price": "$12",
@@ -766,6 +818,8 @@
     "discord_size": 4800,
     "known_for": "One of the oldest sci-fi RPGs\nPossible inspiration for Firefly (TV series)",
     "core_mechanic": "2d6 + modifiers\n≥ 8 + modifiers",
+    "character_comp": null,
+    "character_progression": null,
     "price_of_entry": 99,
     "core_books": [{
       "price": "$99",
@@ -797,6 +851,8 @@
     "discord_size": 800,
     "known_for": "\"Momentum\"\nMetacurrencies",
     "core_mechanic": "2d20\ncount ≤ character skill\n≥ target set by GM",
+    "character_comp": null,
+    "character_progression": null,
     "price_of_entry": 20,
     "core_books": [{
       "price": "$20",
@@ -832,6 +888,8 @@
     "discord_size": 48600,
     "known_for": "Customizable mechs\nCOMP/CON online companion",
     "core_mechanic": "1d20 + modifiers\n≥ 10, 20, or enemy value",
+    "character_comp": null,
+    "character_progression": null,
     "price_of_entry": 25,
     "core_books": [{
       "price": "$25",
@@ -859,6 +917,8 @@
     "discord_size": 5700,
     "known_for": "Emulating Japanese-style console RPGs",
     "core_mechanic": "roll dice assigned to attributes\n(d6 - d12)\n≥ target set by GM",
+    "character_comp": null,
+    "character_progression": null,
     "price_of_entry": 18,
     "core_books": [{
       "price": "$18",
@@ -882,6 +942,8 @@
     "discord_size": 3300,
     "known_for": "Adaptation of D&D 3.5E\nThe \"dice chain\"\nLots of random effect tables",
     "core_mechanic": "1d20 + stat bonus\n≥ target set by GM",
+    "character_comp": null,
+    "character_progression": null,
     "price_of_entry": 25,
     "core_books": [{
       "price": "$25",
@@ -909,6 +971,8 @@
     "discord_size": 3500,
     "known_for": "Gory setting\nInsanity/Corruption tracker",
     "core_mechanic": "1d20 + modifiers\n≥ 10",
+    "character_comp": null,
+    "character_progression": null,
     "price_of_entry": 19,
     "core_books": [{
       "price": "$19",
@@ -936,6 +1000,8 @@
     "discord_size": 6800,
     "known_for": "Revival of Basic/Expert (B/X) D&D",
     "core_mechanic": "1d20 + modifiers\n≤ ability score",
+    "character_comp": null,
+    "character_progression": null,
     "price_of_entry": 20,
     "core_books": [{
       "price": "$20",
@@ -963,6 +1029,8 @@
     "discord_size": 1800,
     "known_for": "\"Clues\"\nAutomatic success on investigation checks",
     "core_mechanic": "1d6 + point spend\n≥ target set by GM",
+    "character_comp": null,
+    "character_progression": null,
     "price_of_entry": 25,
     "core_books": [{
       "price": "$15",
@@ -998,6 +1066,8 @@
     "discord_size": 400,
     "known_for": "\"Gilded\" dice",
     "core_mechanic": "d6 dice pool\ntake highest\n4/5 = partial success, 6 = success",
+    "character_comp": null,
+    "character_progression": null,
     "price_of_entry": 20,
     "core_books": [{
       "price": "$20",
@@ -1025,6 +1095,8 @@
     "discord_size": 11400,
     "known_for": "\"Zine\" campaigns",
     "core_mechanic": "1d100 ≤ character skill",
+    "character_comp": null,
+    "character_progression": null,
     "price_of_entry": 0,
     "core_books": [{
       "price": "Free",
@@ -1048,6 +1120,8 @@
     "discord_size": 2800,
     "known_for": "Quickness over realism",
     "core_mechanic": "1d20 ≤ attribute score",
+    "character_comp": null,
+    "character_progression": null,
     "price_of_entry": 15,
     "core_books": [{
       "price": "$15",
@@ -1083,6 +1157,8 @@
     "discord_size": 1600,
     "known_for": "Destructive battles\nHuge range of power levels at character creation",
     "core_mechanic": "1d100 ≤ character skill",
+    "character_comp": null,
+    "character_progression": null,
     "price_of_entry": 20,
     "core_books": [{
       "price": "$20",
@@ -1110,6 +1186,8 @@
     "discord_size": 2000,
     "known_for": "Transhumanist setting",
     "core_mechanic": "1d100 ≤ character skill + modifiers",
+    "character_comp": null,
+    "character_progression": null,
     "price_of_entry": 25,
     "core_books": [{
       "price": "$25",
@@ -1137,6 +1215,8 @@
     "discord_size": 2300,
     "known_for": "\"Power Levels\"\nOpen-ended superpowers",
     "core_mechanic": "1d20 + stat bonus\n≥ target set by GM",
+    "character_comp": null,
+    "character_progression": null,
     "price_of_entry": 27,
     "core_books": [{
       "price": "$27",
@@ -1164,6 +1244,8 @@
     "discord_size": 1600,
     "known_for": "\"Icons\"\nBackgrounds instead of skills",
     "core_mechanic": "1d20 + modifiers\n≥ environment/difficulty target",
+    "character_comp": null,
+    "character_progression": null,
     "price_of_entry": 25,
     "core_books": [{
       "price": "$25",
@@ -1191,6 +1273,8 @@
     "discord_size": 2600,
     "known_for": "\"Testing your luck\"\nZany/psychedelic setting and adventures",
     "core_mechanic": "2d6 ≤ luck score\nThen luck - 1",
+    "character_comp": null,
+    "character_progression": null,
     "price_of_entry": 18,
     "core_books": [{
       "price": "$18",
@@ -1218,6 +1302,8 @@
     "discord_size": 1900,
     "known_for": "Swedish folklore\nGM doesn't roll dice",
     "core_mechanic": "1d20 ≤ attribute score",
+    "character_comp": null,
+    "character_progression": null,
     "price_of_entry": 25,
     "core_books": [{
       "price": "$25",

@@ -1,4 +1,4 @@
-import { ColumnDefinition, RowComponent } from "tabulator-tables";
+import { ColumnDefinition, Formatter, RowComponent } from "tabulator-tables";
 import { colorsByTag } from "./tags";
 
 const crunchAmounts = [
@@ -12,6 +12,20 @@ const crunchAmounts = [
 const yearMatcher = /^[0-9]+/i;
 
 const numberFormatter = new Intl.NumberFormat();
+
+const formatMissingCharacterInfo: Formatter = (cell) => {
+  const contents = cell.getValue() as string;
+  if (!contents) {
+    const anchor = document.createElement("a");
+    anchor.classList.add("tag-link");
+    anchor.innerText = "Help us describe this game!";
+    anchor.href = "https://github.com/isaaclyman/ttrpg-guide/issues/19";
+    anchor.target = "_blank";
+    return anchor;
+  }
+
+  return contents;
+};
 
 export const columns: ColumnDefinition[] = [
   {
@@ -166,6 +180,18 @@ export const columns: ColumnDefinition[] = [
     field: "core_mechanic",
     title: "Core Mechanic",
     headerSort: false,
+  },
+  {
+    field: "character_comp",
+    title: "Character Composition",
+    formatter: formatMissingCharacterInfo,
+    headerSort: false,
+  },
+  {
+    field: "character_progression",
+    title: "Character Progression",
+    formatter: formatMissingCharacterInfo,
+    headerSort: false
   },
   {
     field: "price_of_entry",

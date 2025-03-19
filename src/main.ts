@@ -32,6 +32,8 @@ rpgs.forEach(rpg => {
     ...rpg.tags,
     rpg.known_for,
     rpg.core_mechanic,
+    rpg.character_comp,
+    rpg.character_progression,
     ...rpg.core_books?.map((bk: any) => bk.title),
     rpg.license && rpg.license.is_permissive
       ? "Permissive license"
