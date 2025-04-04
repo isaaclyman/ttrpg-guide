@@ -48,6 +48,12 @@ If there is no dominant setting for this system, put "Setting-agnostic".
 <!-- "Core Mechanic" is the means of task resolution, like ability checks. -->
 **Core Mechanic:**
 
+<!-- "Character Composition" is the main components of a character, like Class, Skillset, or Tags. -->
+**Character Composition:**
+
+<!-- "Character Progression" is how your character grows during the game, e.g. XP for combat. -->
+**Character Progression:**
+
 <!--
 Which book(s) would a Game Master need to run the latest version of the game effectively?
 Purely supplemental books (like splat books, adventures, and bestiaries) don't need to be included.
@@ -61,7 +67,7 @@ Link to the PDF versions of those books here.
 <!-- If the core rules are *legally* available on the Internet, link them here. -->
 **System Reference Document:**
 
-<!-- List the most famous video games, TV shows, movies, or settings based on this system. -->
+<!-- List the most famous RPGs, video games, TV shows, movies, or settings based on this system. -->
 **Most Famous Property:**
 
 <!-- AT MOST, how crunchy is the system? That is, how detailed and complex are the rules if you play with all of them? -->

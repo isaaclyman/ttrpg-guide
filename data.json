@@ -1317,5 +1317,30 @@
     "owner": "Free League Publishing",
     "timeline": "2014 (original Swedish release)\n2016 (English translation)",
     "tags": ["dark", "deadly"]
+  },
+  {
+    "name": "Ten Candles",
+    "core_setting": "Tragic horror",
+    "largest_subreddit": "r/tencandles",
+    "subreddit_size": 1200,
+    "discord_url": null,
+    "discord_size": null,
+    "known_for": "Snuffing candles as game progresses",
+    "core_mechanic": "d6 dice pool\ncount sixes\n> sixes rolled by GM",
+    "character_comp": "Personality traits (descriptive)",
+    "character_progression": "Burn trait cards",
+    "price_of_entry": 10,
+    "core_books": [{
+      "price": "$10",
+      "title": "Ten Candles",
+      "url": "https://cavalrygames.com/shop/ten-candles-pdf"
+    }],
+    "license": null,
+    "srd_url": null,
+    "most_famous_property": "Itself",
+    "crunch": "Low crunch",
+    "owner": "Cavalry Games",
+    "timeline": "2015 (published)",
+    "tags": ["zero-prep", "collaborative", "dark"]
   }
 ]

@@ -78,7 +78,6 @@ The following are crowdsourced suggestions. If you've played any of them, please
 - Spire (r/SpireRPG - 1,200 members)
 - Four Against Darkness (r/FourAgainstDarkness - 1,200 members)
 - Earthdawn (r/earthdawn - 1,100 members)
-- Ten Candles (r/TenCandles - 1,000 members)
 
 ## Intentionally not included
 
