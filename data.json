@@ -971,8 +971,8 @@
     "discord_size": 3500,
     "known_for": "Gory setting\nInsanity/Corruption tracker",
     "core_mechanic": "1d20 + modifiers\n≥ 10",
-    "character_comp": null,
-    "character_progression": null,
+    "character_comp": "Ancestry + Stats + Traits",
+    "character_progression": "Automatic level up during downtime",
     "price_of_entry": 19,
     "core_books": [{
       "price": "$19",
