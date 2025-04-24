@@ -42,7 +42,7 @@ If there is no dominant setting for this system, put "Setting-agnostic".
 -->
 **Core Setting:**
 
-<!-- "Claim to Fame" is 1 or 2 things the RPG is known for. What makes it unique? -->
+<!-- "Claim to Fame" is 1 or 2 characteristics the RPG is known for. What makes it unique? -->
 **Claim to Fame:**
 
 <!-- "Core Mechanic" is the means of task resolution, like ability checks. -->
