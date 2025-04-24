@@ -540,8 +540,8 @@
     "discord_size": 2900,
     "known_for": "Rules-light",
     "core_mechanic": "4d6 (as +/0/- dice)\ncount fives and sixes (+)\n≥ target set by GM",
-    "character_comp": null,
-    "character_progression": null,
+    "character_comp": "Aspects (descriptive) + Skill points + Stunts",
+    "character_progression": "Skill point per story milestone",
     "price_of_entry": 0,
     "core_books": [{
       "price": "Free",
