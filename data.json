@@ -1,6 +1,6 @@
 [
   {
-    "name": "Dungeons & Dragons 5E",
+    "name": "Dungeons & Dragons",
     "core_setting": "Medieval fantasy",
     "largest_subreddit": "r/DnD",
     "subreddit_size": 3900000,
@@ -33,7 +33,7 @@
     "tags": ["action", "tactical"]
   },
   {
-    "name": "Pathfinder 2E",
+    "name": "Pathfinder",
     "core_setting": "Medieval fantasy",
     "largest_subreddit": "r/Pathfinder_RPG",
     "subreddit_size": 152000,
@@ -1342,5 +1342,38 @@
     "owner": "Cavalry Games",
     "timeline": "2015 (published)",
     "tags": ["zero-prep", "collaborative", "dark"]
+  },
+  {
+    "name": "Das Schwarze Auge (The Dark Eye)",
+    "core_setting": "Medieval fantasy",
+    "largest_subreddit": "r/DSA_RPG",
+    "subreddit_size": 9100,
+    "discord_url": null,
+    "discord_size": null,
+    "known_for": "Most popular RPG in Germany",
+    "core_mechanic": "1d20\n<= character skill ± modifier set by GM",
+    "character_comp": "Species + Culture + Profession\nPoints buy for skills & attributes",
+    "character_progression": "XP awarded by GM\nSpend on attribute improvements or skills",
+    "price_of_entry": 20,
+    "core_books": [{
+      "price": "$20",
+      "title": "The Dark Eye - Core Rules",
+      "url": "https://www.drivethrurpg.com/en/product/185074/the-dark-eye-core-rules"
+    }, {
+      "price": "€9,99",
+      "title": "DSA5 - Regelwerk",
+      "url": "https://www.ulisses-ebooks.de/product/151474"
+    }],
+    "license": {
+      "is_permissive": true,
+      "display": "ORC",
+      "url": "https://ulisses-spiele.de/die-deutsche-orc-ist-da/"
+    },
+    "srd_url": "https://dsa.ulisses-regelwiki.de/",
+    "most_famous_property": "Itself",
+    "crunch": "Medium-high crunch",
+    "owner": "Ulisses Spiele",
+    "timeline": "1984 (1. Edition)\n1988 (2. Edition)\n1992 (3. Edition)\n2001 (4. Edition)\n2006 (revised 4. Edition)\n2015 (5. Edition)",
+    "tags": ["tactical", "action"]
   }
 ]
