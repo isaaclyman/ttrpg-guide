@@ -3,11 +3,11 @@
     "name": "Dungeons & Dragons",
     "core_setting": "Medieval fantasy",
     "communities": [
-      { "label": "Reddit", "url": "https://reddit.com/r/DnD", "size": 3900000 },
+      { "label": "r/DnD", "url": "https://reddit.com/r/DnD", "size": 4100000 },
       {
         "label": "Discord",
         "url": "https://discord.com/invite/dnd",
-        "size": 220000
+        "size": 232000
       }
     ],
     "known_for": "Most popular TTRPG (by far)\nMassive community",
@@ -44,14 +44,14 @@
     "core_setting": "Medieval fantasy",
     "communities": [
       {
-        "label": "Reddit",
+        "label": "r/Pathfinder_RPG",
         "url": "https://reddit.com/r/Pathfinder_RPG",
-        "size": 152000
+        "size": 154000
       },
       {
         "label": "Discord",
         "url": "https://discord.com/invite/pathfinder",
-        "size": 28000
+        "size": 30000
       }
     ],
     "known_for": "Adaptation of D&D 3.5E",
@@ -83,14 +83,14 @@
     "core_setting": "Science fiction / Space opera",
     "communities": [
       {
-        "label": "Reddit",
+        "label": "r/starfinder_rpg",
         "url": "https://reddit.com/r/starfinder_rpg",
-        "size": 45000
+        "size": 46000
       },
       {
         "label": "Discord",
         "url": "https://discord.com/invite/starfinder",
-        "size": 6500
+        "size": 6800
       }
     ],
     "known_for": "Adaptation of Pathfinder",
@@ -122,14 +122,14 @@
     "core_setting": "Setting-agnostic",
     "communities": [
       {
-        "label": "Reddit",
+        "label": "r/numenera",
         "url": "https://reddit.com/r/numenera",
-        "size": 9400
+        "size": 9500
       },
       {
         "label": "Discord",
         "url": "https://discord.com/invite/WQYRWhn",
-        "size": 6100
+        "size": 6200
       }
     ],
     "known_for": "Easy to GM\n\"Cyphers\"",
@@ -150,7 +150,7 @@
       "url": "https://csol.montecookgames.com/"
     },
     "srd_url": "https://callmepartario.github.io/og-csrd/",
-    "most_famous_property": "Numenera (distant future sci-fi fantasy setting)\nThe Strange (sci-fi multiverse setting)",
+    "most_famous_property": "Numenera (distant future sci-fi fantasy setting)\nThe Strange (sci-fi multiverse setting)\nThe Magnus Archives (cosmic horror setting)",
     "crunch": "Low crunch",
     "owner": "Monte Cook Games",
     "timeline": "2013 (Numenera)\n2015 (Core rulebook)",
@@ -161,9 +161,9 @@
     "core_setting": "Setting-agnostic\n(Leans horror)",
     "communities": [
       {
-        "label": "Reddit",
+        "label": "r/callofcthulhu",
         "url": "https://reddit.com/r/callofcthulhu",
-        "size": 70000
+        "size": 74000
       },
       {
         "label": "Discord",
@@ -200,14 +200,14 @@
     "core_setting": "Cyber fantasy",
     "communities": [
       {
-        "label": "Reddit",
+        "label": "r/Shadowrun",
         "url": "https://reddit.com/r/Shadowrun",
-        "size": 58000
+        "size": 59000
       },
       {
         "label": "Discord",
         "url": "https://discord.com/invite/K5r2KFg6PR",
-        "size": 2800
+        "size": 2900
       }
     ],
     "known_for": "Incredibly granular rules",
@@ -234,11 +234,11 @@
     "name": "Narrative Dice System\n(Genesys)",
     "core_setting": "Science fiction / Space opera",
     "communities": [
-      { "label": "Reddit", "url": "https://reddit.com/r/swrpg", "size": 44000 },
+      { "label": "r/swrpg", "url": "https://reddit.com/r/swrpg", "size": 45000 },
       {
         "label": "Discord",
         "url": "https://discord.com/invite/starwarsrpg",
-        "size": 12500
+        "size": 12000
       }
     ],
     "known_for": "Side effects on rolls - not just pass/fail\nHigh improv",
@@ -270,14 +270,14 @@
     "core_setting": "Victorian-era fantasy",
     "communities": [
       {
-        "label": "Reddit",
+        "label": "r/bladesinthedark",
         "url": "https://reddit.com/r/bladesinthedark",
-        "size": 39000
+        "size": 41000
       },
       {
         "label": "Discord",
         "url": "https://discord.com/invite/uXwCKq3",
-        "size": 8600
+        "size": 8800
       }
     ],
     "known_for": "Fast-paced play\n\"Faction\" system",
@@ -314,14 +314,14 @@
     "core_setting": "Renaissance-era fantasy",
     "communities": [
       {
-        "label": "Reddit",
+        "label": "r/WarhammerFantasy",
         "url": "https://reddit.com/r/WarhammerFantasy",
-        "size": 104000
+        "size": 112000
       },
       {
         "label": "Discord",
         "url": "https://discord.com/invite/fzYuYwT",
-        "size": 8600
+        "size": 9000
       }
     ],
     "known_for": "High risk of PC death\nGritty setting",
@@ -349,14 +349,14 @@
     "core_setting": "Medieval-era fantasy Europe",
     "communities": [
       {
-        "label": "Reddit",
+        "label": "r/arsmagica",
         "url": "https://reddit.com/r/arsmagica",
-        "size": 2100
+        "size": 2300
       },
       {
         "label": "Discord",
         "url": "https://discord.com/invite/8CHys5M",
-        "size": 1600
+        "size": 1800
       }
     ],
     "known_for": "Complex system for building custom spells",
@@ -384,14 +384,14 @@
     "core_setting": "Modern post-collapse USA",
     "communities": [
       {
-        "label": "Reddit",
+        "label": "r/cyberpunkred",
         "url": "https://reddit.com/r/cyberpunkred",
-        "size": 48000
+        "size": 55000
       },
       {
         "label": "Discord",
         "url": "https://discord.com/invite/Bk3gXfr",
-        "size": 10200
+        "size": 10000
       }
     ],
     "known_for": "\"Lifepath\" system",
@@ -433,14 +433,14 @@
     "core_setting": "Sci-fi horror",
     "communities": [
       {
-        "label": "Reddit",
+        "label": "r/alienrpg",
         "url": "https://reddit.com/r/alienrpg",
-        "size": 12000
+        "size": 13000
       },
       {
         "label": "Discord",
         "url": "https://discord.com/invite/VJ7Xpcq",
-        "size": 5900
+        "size": 6300
       }
     ],
     "known_for": "\"Pushed\" rolls\nHigh-profile licensed RPGs",
@@ -502,14 +502,14 @@
     "core_setting": "Modern vampire gothic",
     "communities": [
       {
-        "label": "Reddit",
+        "label": "r/WhiteWolfRPG",
         "url": "https://reddit.com/r/WhiteWolfRPG",
-        "size": 54000
+        "size": 57000
       },
       {
         "label": "Discord",
         "url": "https://discord.com/invite/worldofdarkness",
-        "size": 24000
+        "size": 25000
       }
     ],
     "known_for": "Dark/mature themes\nPolitical intrigue",
@@ -545,7 +545,7 @@
     "name": "Powered by the Apocalypse\n(PbtA)",
     "core_setting": "Setting-agnostic",
     "communities": [
-      { "label": "Reddit", "url": "https://reddit.com/r/PBtA", "size": 49000 },
+      { "label": "r/PBtA", "url": "https://reddit.com/r/PBtA", "size": 49000 },
       {
         "label": "Discord",
         "url": "https://discord.com/invite/Qxg28ts",
@@ -625,7 +625,7 @@
     "name": "Stars Without Number",
     "core_setting": "Science fiction",
     "communities": [
-      { "label": "Reddit", "url": "https://reddit.com/r/SWN", "size": 15000 },
+      { "label": "r/SWN", "url": "https://reddit.com/r/SWN", "size": 15000 },
       {
         "label": "Discord",
         "url": "https://discord.com/invite/yzQ7PPX",
@@ -656,11 +656,11 @@
     "name": "Generic Universal Role-Playing System\n(GURPS)",
     "core_setting": "Setting-agnostic",
     "communities": [
-      { "label": "Reddit", "url": "https://reddit.com/r/gurps", "size": 15000 },
+      { "label": "r/gurps", "url": "https://reddit.com/r/gurps", "size": 16000 },
       {
         "label": "Discord",
-        "url": "https://discord.com/invite/vk5GtQy",
-        "size": 6000
+        "url": "https://discord.com/invite/JFefHh9CXB",
+        "size": 6200
       }
     ],
     "known_for": "First setting-agnostic RPG",
@@ -697,14 +697,14 @@
     "core_setting": "Setting-agnostic",
     "communities": [
       {
-        "label": "Reddit",
+        "label": "r/FATErpg",
         "url": "https://reddit.com/r/FATErpg",
         "size": 17000
       },
       {
         "label": "Discord",
-        "url": "https://discord.com/invite/Trbmkyd",
-        "size": 2900
+        "url": "https://discord.com/invite/CeXKx8NGYU",
+        "size": 3000
       }
     ],
     "known_for": "Rules-light",
@@ -751,14 +751,14 @@
     "core_setting": "Setting-agnostic",
     "communities": [
       {
-        "label": "Reddit",
+        "label": "r/savageworlds",
         "url": "https://reddit.com/r/savageworlds",
-        "size": 23000
+        "size": 24000
       },
       {
         "label": "Discord",
         "url": "https://discord.com/invite/VqT7CJj",
-        "size": 4300
+        "size": 4600
       }
     ],
     "known_for": "\"Bennies\"\nFlexible character advancement",
@@ -790,14 +790,14 @@
     "core_setting": "Horror / doom metal",
     "communities": [
       {
-        "label": "Reddit",
+        "label": "r/MorkBorg",
         "url": "https://reddit.com/r/MorkBorg",
-        "size": 16000
+        "size": 19000
       },
       {
         "label": "Discord",
         "url": "https://discord.com/invite/bMZw8G3",
-        "size": 7300
+        "size": 7600
       }
     ],
     "known_for": "Extremely frequent PC death",
@@ -829,9 +829,9 @@
     "core_setting": "1980s small-town USA",
     "communities": [
       {
-        "label": "Reddit",
+        "label": "r/Kidsonbikesrpg",
         "url": "https://reddit.com/r/Kidsonbikesrpg",
-        "size": 3000
+        "size": 3200
       },
       {
         "label": "Discord",
@@ -864,9 +864,9 @@
     "core_setting": "Greek myth",
     "communities": [
       {
-        "label": "Reddit",
+        "label": "r/AgonGame",
         "url": "https://reddit.com/r/AgonGame",
-        "size": 280
+        "size": 200
       },
       {
         "label": "Discord",
@@ -902,7 +902,7 @@
     "name": "Risus",
     "core_setting": "Setting-agnostic",
     "communities": [
-      { "label": "Reddit", "url": "https://reddit.com/r/risus", "size": 1000 },
+      { "label": "r/risus", "url": "https://reddit.com/r/risus", "size": 1100 },
       {
         "label": "Discord",
         "url": "https://discord.com/invite/pxVJFhG2e5",
@@ -934,9 +934,9 @@
     "core_setting": "Medieval fantasy",
     "communities": [
       {
-        "label": "Reddit",
+        "label": "r/BurningWheel",
         "url": "https://reddit.com/r/BurningWheel",
-        "size": 4000
+        "size": 4100
       },
       {
         "label": "Discord",
@@ -969,7 +969,7 @@
     "core_setting": "Setting-agnostic",
     "communities": [
       {
-        "label": "Reddit",
+        "label": "r/herosystem",
         "url": "https://reddit.com/r/herosystem",
         "size": 1300
       },
@@ -1004,9 +1004,9 @@
     "core_setting": "Setting-agnostic",
     "communities": [
       {
-        "label": "Reddit",
+        "label": "r/CortexRPG",
         "url": "https://reddit.com/r/CortexRPG",
-        "size": 2400
+        "size": 2500
       },
       {
         "label": "Discord",
@@ -1038,7 +1038,7 @@
     "name": "Dread",
     "core_setting": "Horror",
     "communities": [
-      { "label": "Reddit", "url": "https://reddit.com/r/dread", "size": 2700 }
+      { "label": "r/dread", "url": "https://reddit.com/r/dread", "size": 2900 }
     ],
     "known_for": "Rising tension and suspense",
     "core_mechanic": "Pull 1+ blocks from Jenga tower",
@@ -1065,14 +1065,14 @@
     "core_setting": "Science fiction / Space opera",
     "communities": [
       {
-        "label": "Reddit",
+        "label": "r/traveller",
         "url": "https://reddit.com/r/traveller",
-        "size": 14000
+        "size": 15000
       },
       {
         "label": "Discord",
         "url": "https://discord.com/invite/exqW759",
-        "size": 4800
+        "size": 5000
       }
     ],
     "known_for": "One of the oldest sci-fi RPGs\nPossible inspiration for Firefly (TV series)",
@@ -1109,9 +1109,9 @@
     "core_setting": "Post-apocalyptic\nScience fiction",
     "communities": [
       {
-        "label": "Reddit",
+        "label": "r/startrekadventures",
         "url": "https://reddit.com/r/startrekadventures",
-        "size": 7900
+        "size": 8500
       },
       {
         "label": "Discord",
@@ -1158,14 +1158,14 @@
     "core_setting": "Science fiction",
     "communities": [
       {
-        "label": "Reddit",
+        "label": "r/LancerRPG",
         "url": "https://reddit.com/r/LancerRPG",
-        "size": 42000
+        "size": 47000
       },
       {
         "label": "Discord",
         "url": "https://discord.com/invite/lancer",
-        "size": 48600
+        "size": 52000
       }
     ],
     "known_for": "Customizable mechs\nCOMP/CON online companion",
@@ -1197,14 +1197,14 @@
     "core_setting": "Medieval fantasy",
     "communities": [
       {
-        "label": "Reddit",
+        "label": "r/fabulaultima",
         "url": "https://reddit.com/r/fabulaultima",
-        "size": 4100
+        "size": 5600
       },
       {
         "label": "Discord",
         "url": "https://discord.com/invite/fMfV8Ty",
-        "size": 5700
+        "size": 6500
       }
     ],
     "known_for": "Emulating Japanese-style console RPGs",
@@ -1232,14 +1232,14 @@
     "core_setting": "Medieval fantasy",
     "communities": [
       {
-        "label": "Reddit",
+        "label": "r/dccrpg",
         "url": "https://reddit.com/r/dccrpg",
-        "size": 11000
+        "size": 12000
       },
       {
         "label": "Discord",
         "url": "https://discord.com/invite/GS5BBvdfYa",
-        "size": 3300
+        "size": 3500
       }
     ],
     "known_for": "Adaptation of D&D 3.5E\nThe \"dice chain\"\nLots of random effect tables",
@@ -1271,14 +1271,14 @@
     "core_setting": "Dark fantasy",
     "communities": [
       {
-        "label": "Reddit",
+        "label": "r/shadowofthedemonlord",
         "url": "https://reddit.com/r/shadowofthedemonlord",
-        "size": 5200
+        "size": 5500
       },
       {
         "label": "Discord",
         "url": "https://discord.com/invite/taDMeUPZCu",
-        "size": 3500
+        "size": 3600
       }
     ],
     "known_for": "Gory setting\nInsanity/Corruption tracker",
@@ -1309,11 +1309,11 @@
     "name": "Old School Essentials\n(OSE)",
     "core_setting": "Medieval fantasy",
     "communities": [
-      { "label": "Reddit", "url": "https://reddit.com/r/OSE", "size": 2000 },
+      { "label": "r/OSE", "url": "https://reddit.com/r/OSE", "size": 2600 },
       {
         "label": "Discord",
         "url": "https://discord.com/invite/7djvGNPnr6",
-        "size": 6800
+        "size": 7200
       }
     ],
     "known_for": "Revival of Basic/Expert (B/X) D&D",
@@ -1345,14 +1345,14 @@
     "core_setting": "Mystery",
     "communities": [
       {
-        "label": "Reddit",
+        "label": "r/GumshoeRPG",
         "url": "https://reddit.com/r/GumshoeRPG",
-        "size": 2200
+        "size": 2300
       },
       {
         "label": "Discord",
         "url": "https://discord.com/invite/xKfgxVm",
-        "size": 1800
+        "size": 1900
       }
     ],
     "known_for": "\"Clues\"\nAutomatic success on investigation checks",
@@ -1394,9 +1394,9 @@
     "core_setting": "Industrial age mystery / Horror",
     "communities": [
       {
-        "label": "Reddit",
+        "label": "r/CandelaObscura",
         "url": "https://reddit.com/r/CandelaObscura",
-        "size": 2800
+        "size": 3100
       },
       {
         "label": "Discord",
@@ -1433,14 +1433,14 @@
     "core_setting": "Sci-fi horror",
     "communities": [
       {
-        "label": "Reddit",
+        "label": "r/mothershiprpg",
         "url": "https://reddit.com/r/mothershiprpg",
-        "size": 12000
+        "size": 15000
       },
       {
         "label": "Discord",
         "url": "https://discord.com/invite/mothership-461670627468771329",
-        "size": 11400
+        "size": 13000
       }
     ],
     "known_for": "\"Zine\" campaigns",
@@ -1468,14 +1468,14 @@
     "core_setting": "Industrial age horror",
     "communities": [
       {
-        "label": "Reddit",
+        "label": "r/Mausritter",
         "url": "https://reddit.com/r/Mausritter",
-        "size": 2100
+        "size": 2600
       },
       {
         "label": "Discord",
         "url": "https://discord.com/invite/u9Gyc3Y42Y",
-        "size": 2800
+        "size": 3000
       }
     ],
     "known_for": "Quickness over realism",
@@ -1516,11 +1516,11 @@
     "name": "Palladium System\n(Megaversal System)",
     "core_setting": "Setting-agnostic",
     "communities": [
-      { "label": "Reddit", "url": "https://reddit.com/r/Rifts", "size": 4900 },
+      { "label": "r/Rifts", "url": "https://reddit.com/r/Rifts", "size": 5200 },
       {
         "label": "Discord",
         "url": "https://discord.com/invite/xGkk75Z",
-        "size": 1600
+        "size": 1700
       }
     ],
     "known_for": "Destructive battles\nHuge range of power levels at character creation",
@@ -1552,9 +1552,9 @@
     "core_setting": "Sci-fi horror",
     "communities": [
       {
-        "label": "Reddit",
+        "label": "r/eclipsephase",
         "url": "https://reddit.com/r/eclipsephase",
-        "size": 4000
+        "size": 4100
       },
       {
         "label": "Discord",
@@ -1591,7 +1591,7 @@
     "core_setting": "Superhero fiction",
     "communities": [
       {
-        "label": "Reddit",
+        "label": "r/mutantsandmasterminds",
         "url": "https://reddit.com/r/mutantsandmasterminds",
         "size": 16000
       },
@@ -1630,7 +1630,7 @@
     "core_setting": "Medieval fantasy",
     "communities": [
       {
-        "label": "Reddit",
+        "label": "r/13thage",
         "url": "https://reddit.com/r/13thage",
         "size": 3400
       },
@@ -1668,11 +1668,11 @@
     "name": "TROIKA!",
     "core_setting": "Science fantasy",
     "communities": [
-      { "label": "Reddit", "url": "https://reddit.com/r/Troika", "size": 2900 },
+      { "label": "r/Troika", "url": "https://reddit.com/r/Troika", "size": 3000 },
       {
         "label": "Discord",
         "url": "https://discord.com/invite/deePdtBM2n",
-        "size": 2600
+        "size": 2700
       }
     ],
     "known_for": "\"Testing your luck\"\nZany/psychedelic setting and adventures",
@@ -1704,14 +1704,14 @@
     "core_setting": "Dark fantasy",
     "communities": [
       {
-        "label": "Reddit",
+        "label": "r/Symbaroum",
         "url": "https://reddit.com/r/Symbaroum",
-        "size": 5800
+        "size": 6100
       },
       {
         "label": "Discord",
         "url": "https://discord.com/invite/E46WApE",
-        "size": 1900
+        "size": 2000
       }
     ],
     "known_for": "Swedish folklore\nGM doesn't roll dice",
@@ -1739,7 +1739,7 @@
     "core_setting": "Tragic horror",
     "communities": [
       {
-        "label": "Reddit",
+        "label": "r/tencandles",
         "url": "https://reddit.com/r/tencandles",
         "size": 1200
       }
@@ -1769,7 +1769,7 @@
     "core_setting": "Medieval fantasy",
     "communities": [
       {
-        "label": "Reddit",
+        "label": "r/DSA_RPG",
         "url": "https://reddit.com/r/DSA_RPG",
         "size": 9100
       }

@@ -63,12 +63,12 @@ export const columns: ColumnDefinition[] = [
 
         const sizeSpan = document.createElement("span");
         const size = numberFormatter.format(community.size);
-        sizeSpan.innerText = `${size} `;
+        sizeSpan.innerText = `${size} - `;
         commLine.appendChild(sizeSpan);
         
         const link = document.createElement("a");
         link.href = community.url;
-        link.innerText = `(${community.label})`;
+        link.innerText = community.label;
         commLine.appendChild(link);
 
         container.appendChild(commLine);
