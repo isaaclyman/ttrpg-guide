@@ -2,24 +2,31 @@
   {
     "name": "Dungeons & Dragons",
     "core_setting": "Medieval fantasy",
-    "largest_subreddit": "r/DnD",
-    "subreddit_size": 3900000,
-    "discord_url": "https://discord.com/invite/dnd",
-    "discord_size": 220000,
+    "communities": [
+      { "label": "Reddit", "url": "https://reddit.com/r/DnD", "size": 3900000 },
+      {
+        "label": "Discord",
+        "url": "https://discord.com/invite/dnd",
+        "size": 220000
+      }
+    ],
     "known_for": "Most popular TTRPG (by far)\nMassive community",
     "core_mechanic": "1d20 + ability bonus\n≥ target set by GM",
     "character_comp": "Class + Subclass + Stat Scores",
     "character_progression": "XP for battle\nAutomatic level up",
     "price_of_entry": 60,
-    "core_books": [{
-      "price": "$30",
-      "title": "Player's Handbook",
-      "url": "https://www.dndbeyond.com/marketplace/sourcebooks/players-handbook"
-    }, {
-      "price": "$30",
-      "title": "Dungeon Master's Guide",
-      "url": "https://www.dndbeyond.com/marketplace/sourcebooks/dungeon-masters-guide"
-    }],
+    "core_books": [
+      {
+        "price": "$30",
+        "title": "Player's Handbook",
+        "url": "https://www.dndbeyond.com/marketplace/sourcebooks/players-handbook"
+      },
+      {
+        "price": "$30",
+        "title": "Dungeon Master's Guide",
+        "url": "https://www.dndbeyond.com/marketplace/sourcebooks/dungeon-masters-guide"
+      }
+    ],
     "license": {
       "is_permissive": true,
       "display": "OGL + CC BY 4.0",
@@ -35,20 +42,30 @@
   {
     "name": "Pathfinder",
     "core_setting": "Medieval fantasy",
-    "largest_subreddit": "r/Pathfinder_RPG",
-    "subreddit_size": 152000,
-    "discord_url": "https://discord.com/invite/pathfinder",
-    "discord_size": 28000,
+    "communities": [
+      {
+        "label": "Reddit",
+        "url": "https://reddit.com/r/Pathfinder_RPG",
+        "size": 152000
+      },
+      {
+        "label": "Discord",
+        "url": "https://discord.com/invite/pathfinder",
+        "size": 28000
+      }
+    ],
     "known_for": "Adaptation of D&D 3.5E",
     "core_mechanic": "1d20 + ability bonus\n≥ target set by GM",
     "character_comp": null,
     "character_progression": null,
     "price_of_entry": 20,
-    "core_books": [{
-      "price": "$20",
-      "title": "Pathfinder Core Rulebook",
-      "url": "https://paizo.com/products/btq01zp3?Pathfinder-Core-Rulebook"
-    }],
+    "core_books": [
+      {
+        "price": "$20",
+        "title": "Pathfinder Core Rulebook",
+        "url": "https://paizo.com/products/btq01zp3?Pathfinder-Core-Rulebook"
+      }
+    ],
     "license": {
       "is_permissive": true,
       "display": "ORC",
@@ -64,20 +81,30 @@
   {
     "name": "Starfinder",
     "core_setting": "Science fiction / Space opera",
-    "largest_subreddit": "r/starfinder_rpg",
-    "subreddit_size": 45000,
-    "discord_url": "https://discord.com/invite/starfinder",
-    "discord_size": 6500,
+    "communities": [
+      {
+        "label": "Reddit",
+        "url": "https://reddit.com/r/starfinder_rpg",
+        "size": 45000
+      },
+      {
+        "label": "Discord",
+        "url": "https://discord.com/invite/starfinder",
+        "size": 6500
+      }
+    ],
     "known_for": "Adaptation of Pathfinder",
     "core_mechanic": "1d20 + ability bonus\n≥ target set by GM",
     "character_comp": null,
     "character_progression": null,
     "price_of_entry": 20,
-    "core_books": [{
-      "price": "$20",
-      "title": "Starfinder Core Rulebook",
-      "url": "https://paizo.com/products/btpy9ssr?Starfinder-Core-Rulebook"
-    }],
+    "core_books": [
+      {
+        "price": "$20",
+        "title": "Starfinder Core Rulebook",
+        "url": "https://paizo.com/products/btpy9ssr?Starfinder-Core-Rulebook"
+      }
+    ],
     "license": {
       "is_permissive": true,
       "display": "ORC",
@@ -93,20 +120,30 @@
   {
     "name": "Cypher System",
     "core_setting": "Setting-agnostic",
-    "largest_subreddit": "r/numenera",
-    "subreddit_size": 9400,
-    "discord_url": "https://discord.com/invite/WQYRWhn",
-    "discord_size": 6100,
+    "communities": [
+      {
+        "label": "Reddit",
+        "url": "https://reddit.com/r/numenera",
+        "size": 9400
+      },
+      {
+        "label": "Discord",
+        "url": "https://discord.com/invite/WQYRWhn",
+        "size": 6100
+      }
+    ],
     "known_for": "Easy to GM\n\"Cyphers\"",
     "core_mechanic": "Negotiate difficulty target\n1d20 ≥ target",
     "character_comp": "Class + Skill Set + Stat Pools",
     "character_progression": "XP for bad luck / character storytelling\nSpend to level up",
     "price_of_entry": 23,
-    "core_books": [{
-      "price": "$23",
-      "title": "Cypher System Rulebook",
-      "url": "https://www.montecookgames.com/store/product/cypher-system-rulebook-2/"
-    }],
+    "core_books": [
+      {
+        "price": "$23",
+        "title": "Cypher System Rulebook",
+        "url": "https://www.montecookgames.com/store/product/cypher-system-rulebook-2/"
+      }
+    ],
     "license": {
       "is_permissive": true,
       "display": "CSOL",
@@ -122,20 +159,30 @@
   {
     "name": "Basic Role-Playing\n(BRP)",
     "core_setting": "Setting-agnostic\n(Leans horror)",
-    "largest_subreddit": "r/callofcthulhu",
-    "subreddit_size": 70000,
-    "discord_url": "https://discord.com/invite/39SjY6snvA",
-    "discord_size": 1800,
+    "communities": [
+      {
+        "label": "Reddit",
+        "url": "https://reddit.com/r/callofcthulhu",
+        "size": 70000
+      },
+      {
+        "label": "Discord",
+        "url": "https://discord.com/invite/39SjY6snvA",
+        "size": 1800
+      }
+    ],
     "known_for": "Sanity tracker\nMost popular TTRPG in Japan (Cthulhu)",
     "core_mechanic": "1d100 ≤ character skill",
     "character_comp": null,
     "character_progression": null,
     "price_of_entry": 25,
-    "core_books": [{
-      "price": "$25",
-      "title": "Basic Roleplaying: Universal Game Engine",
-      "url": "https://www.chaosium.com/basic-roleplaying-universal-game-engine-pdf/"
-    }],
+    "core_books": [
+      {
+        "price": "$25",
+        "title": "Basic Roleplaying: Universal Game Engine",
+        "url": "https://www.chaosium.com/basic-roleplaying-universal-game-engine-pdf/"
+      }
+    ],
     "license": {
       "is_permissive": true,
       "display": "BRP-OGL",
@@ -151,20 +198,30 @@
   {
     "name": "Shadowrun 6E",
     "core_setting": "Cyber fantasy",
-    "largest_subreddit": "r/Shadowrun",
-    "subreddit_size": 58000,
-    "discord_url": "https://discord.com/invite/K5r2KFg6PR",
-    "discord_size": 2800,
+    "communities": [
+      {
+        "label": "Reddit",
+        "url": "https://reddit.com/r/Shadowrun",
+        "size": 58000
+      },
+      {
+        "label": "Discord",
+        "url": "https://discord.com/invite/K5r2KFg6PR",
+        "size": 2800
+      }
+    ],
     "known_for": "Incredibly granular rules",
     "core_mechanic": "d6 dice pool\ncount fives and sixes\n≥ threshold set by GM",
     "character_comp": null,
     "character_progression": null,
     "price_of_entry": 20,
-    "core_books": [{
-      "price": "$20",
-      "title": "Shadowrun: Sixth World Core Rulebook:\nCity Edition: Seattle",
-      "url": "https://store.catalystgamelabs.com/products/shadowrun-sixth-world-core-rulebook"
-    }],
+    "core_books": [
+      {
+        "price": "$20",
+        "title": "Shadowrun: Sixth World Core Rulebook:\nCity Edition: Seattle",
+        "url": "https://store.catalystgamelabs.com/products/shadowrun-sixth-world-core-rulebook"
+      }
+    ],
     "license": null,
     "srd_url": null,
     "most_famous_property": "Spinoff video game franchise",
@@ -176,20 +233,26 @@
   {
     "name": "Narrative Dice System\n(Genesys)",
     "core_setting": "Science fiction / Space opera",
-    "largest_subreddit": "r/swrpg",
-    "subreddit_size": 44000,
-    "discord_url": "https://discord.com/invite/starwarsrpg",
-    "discord_size": 12500,
+    "communities": [
+      { "label": "Reddit", "url": "https://reddit.com/r/swrpg", "size": 44000 },
+      {
+        "label": "Discord",
+        "url": "https://discord.com/invite/starwarsrpg",
+        "size": 12500
+      }
+    ],
     "known_for": "Side effects on rolls - not just pass/fail\nHigh improv",
     "core_mechanic": "custom non-numeric dice\n(success/fail, luck, critical results,\nand several others)",
     "character_comp": null,
     "character_progression": null,
     "price_of_entry": 20,
-    "core_books": [{
-      "price": "$20",
-      "title": "Genesys Core Rulebook",
-      "url": "https://preview.drivethrurpg.com/en/product/228813/genesys-core-rulebook"
-    }],
+    "core_books": [
+      {
+        "price": "$20",
+        "title": "Genesys Core Rulebook",
+        "url": "https://preview.drivethrurpg.com/en/product/228813/genesys-core-rulebook"
+      }
+    ],
     "license": {
       "is_permissive": false,
       "display": "Genesys Foundry Creator Program",
@@ -205,24 +268,35 @@
   {
     "name": "Forged in the Dark",
     "core_setting": "Victorian-era fantasy",
-    "largest_subreddit": "r/bladesinthedark",
-    "subreddit_size": 39000,
-    "discord_url": "https://discord.com/invite/uXwCKq3",
-    "discord_size": 8600,
+    "communities": [
+      {
+        "label": "Reddit",
+        "url": "https://reddit.com/r/bladesinthedark",
+        "size": 39000
+      },
+      {
+        "label": "Discord",
+        "url": "https://discord.com/invite/uXwCKq3",
+        "size": 8600
+      }
+    ],
     "known_for": "Fast-paced play\n\"Faction\" system",
     "core_mechanic": "d6 dice pool\ntake highest\n4/5 = partial success, 6 = success",
     "character_comp": null,
     "character_progression": null,
     "price_of_entry": 20,
-    "core_books": [{
-      "price": "$20",
-      "title": "Blades in the Dark",
-      "url": "https://evilhat.com/product/blades-in-the-dark/"
-    },{
-      "price": "$20",
-      "title": "Scum and Villainy",
-      "url": "https://evilhat.com/product/scum-and-villainy/"
-    }],
+    "core_books": [
+      {
+        "price": "$20",
+        "title": "Blades in the Dark",
+        "url": "https://evilhat.com/product/blades-in-the-dark/"
+      },
+      {
+        "price": "$20",
+        "title": "Scum and Villainy",
+        "url": "https://evilhat.com/product/scum-and-villainy/"
+      }
+    ],
     "license": {
       "is_permissive": true,
       "display": "CC BY 3.0",
@@ -238,20 +312,30 @@
   {
     "name": "Warhammer Fantasy Roleplay\n(WFRP)",
     "core_setting": "Renaissance-era fantasy",
-    "largest_subreddit": "r/WarhammerFantasy",
-    "subreddit_size": 104000,
-    "discord_url": "https://discord.com/invite/fzYuYwT",
-    "discord_size": 8600,
+    "communities": [
+      {
+        "label": "Reddit",
+        "url": "https://reddit.com/r/WarhammerFantasy",
+        "size": 104000
+      },
+      {
+        "label": "Discord",
+        "url": "https://discord.com/invite/fzYuYwT",
+        "size": 8600
+      }
+    ],
     "known_for": "High risk of PC death\nGritty setting",
     "core_mechanic": "1d100 ≤ character skill",
     "character_comp": null,
     "character_progression": null,
     "price_of_entry": 30,
-    "core_books": [{
-      "price": "$30",
-      "title": "WFRP: Core Rulebook",
-      "url": "https://cubicle7games.com/warhammer-fantasy-roleplay-rulebook-pdf"
-    }],
+    "core_books": [
+      {
+        "price": "$30",
+        "title": "WFRP: Core Rulebook",
+        "url": "https://cubicle7games.com/warhammer-fantasy-roleplay-rulebook-pdf"
+      }
+    ],
     "license": null,
     "srd_url": null,
     "most_famous_property": "Warhammer (video game franchise)\nWarhammer (miniature wargame)\nWarhammer 40,000 (miniature wargame)",
@@ -263,20 +347,30 @@
   {
     "name": "Ars Magica",
     "core_setting": "Medieval-era fantasy Europe",
-    "largest_subreddit": "r/arsmagica",
-    "subreddit_size": 2100,
-    "discord_url": "https://discord.com/invite/8CHys5M",
-    "discord_size": 1600,
+    "communities": [
+      {
+        "label": "Reddit",
+        "url": "https://reddit.com/r/arsmagica",
+        "size": 2100
+      },
+      {
+        "label": "Discord",
+        "url": "https://discord.com/invite/8CHys5M",
+        "size": 1600
+      }
+    ],
     "known_for": "Complex system for building custom spells",
     "core_mechanic": "1d10 + character bonuses\n≥ target set by GM",
     "character_comp": null,
     "character_progression": null,
     "price_of_entry": 20,
-    "core_books": [{
-      "price": "$20",
-      "title": "Ars Magica: Fifth Edition",
-      "url": "https://www.atlas-games.com/product_tables/AG0205"
-    }],
+    "core_books": [
+      {
+        "price": "$20",
+        "title": "Ars Magica: Fifth Edition",
+        "url": "https://www.atlas-games.com/product_tables/AG0205"
+      }
+    ],
     "license": null,
     "srd_url": null,
     "most_famous_property": "Itself",
@@ -288,28 +382,40 @@
   {
     "name": "Fuzion / Interlock",
     "core_setting": "Modern post-collapse USA",
-    "largest_subreddit": "r/cyberpunkred",
-    "subreddit_size": 48000,
-    "discord_url": "https://discord.com/invite/Bk3gXfr",
-    "discord_size": 10200,
+    "communities": [
+      {
+        "label": "Reddit",
+        "url": "https://reddit.com/r/cyberpunkred",
+        "size": 48000
+      },
+      {
+        "label": "Discord",
+        "url": "https://discord.com/invite/Bk3gXfr",
+        "size": 10200
+      }
+    ],
     "known_for": "\"Lifepath\" system",
     "core_mechanic": "1d10 + character bonuses\n≥ target set by GM",
     "character_comp": null,
     "character_progression": null,
     "price_of_entry": 30,
-    "core_books": [{
-      "price": "$4",
-      "title": "Fuzion Core",
-      "url": "https://preview.drivethrurpg.com/en/product/2367/fuzion-core-rules"
-    },{
-      "price": "$30",
-      "title": "Cyberpunk Red",
-      "url": "https://preview.drivethrurpg.com/en/product/333585/cyberpunk-red"
-    },{
-      "price": "$25",
-      "title": "The Witcher",
-      "url": "https://preview.drivethrurpg.com/en/product/248538/the-witcher-pen-paper-rpg"
-    }],
+    "core_books": [
+      {
+        "price": "$4",
+        "title": "Fuzion Core",
+        "url": "https://preview.drivethrurpg.com/en/product/2367/fuzion-core-rules"
+      },
+      {
+        "price": "$30",
+        "title": "Cyberpunk Red",
+        "url": "https://preview.drivethrurpg.com/en/product/333585/cyberpunk-red"
+      },
+      {
+        "price": "$25",
+        "title": "The Witcher",
+        "url": "https://preview.drivethrurpg.com/en/product/248538/the-witcher-pen-paper-rpg"
+      }
+    ],
     "license": {
       "is_permissive": false,
       "display": "Homebrew Content Policy",
@@ -325,44 +431,60 @@
   {
     "name": "Year Zero",
     "core_setting": "Sci-fi horror",
-    "largest_subreddit": "r/alienrpg",
-    "subreddit_size": 12000,
-    "discord_url": "https://discord.com/invite/VJ7Xpcq",
-    "discord_size": 5900,
+    "communities": [
+      {
+        "label": "Reddit",
+        "url": "https://reddit.com/r/alienrpg",
+        "size": 12000
+      },
+      {
+        "label": "Discord",
+        "url": "https://discord.com/invite/VJ7Xpcq",
+        "size": 5900
+      }
+    ],
     "known_for": "\"Pushed\" rolls\nHigh-profile licensed RPGs",
     "core_mechanic": "d6 dice pool\nsuccess = at least one 6",
     "character_comp": null,
     "character_progression": null,
     "price_of_entry": 25,
-    "core_books": [{
-      "price": "$25",
-      "title": "MUTANT: Year Zero",
-      "url": "https://preview.drivethrurpg.com/en/product/139453/mutant-year-zero-roleplaying-at-the-end-of-days"
-    },{
-      "price": "$25",
-      "title": "ALIEN RPG Core Rulebook",
-      "url": "https://preview.drivethrurpg.com/en/product/293976/alien-rpg-core-rulebook"
-    },{
-      "price": "$25",
-      "title": "Blade Runner RPG Core Rulebook",
-      "url": "https://preview.drivethrurpg.com/en/product/399929/blade-runner-rpg-core-rulebook"
-    },{
-      "price": "$25",
-      "title": "Forbidden Lands Core Game",
-      "url": "https://www.drivethrurpg.com/en/product/258593/forbidden-lands-core-game"
-    },{
-      "price": "$25",
-      "title": "Tales from the Loop RPG: Rulebook",
-      "url": "https://preview.drivethrurpg.com/en/product/210617/tales-from-the-loop-rpg-rulebook"
-    },{
-      "price": "$25",
-      "title": "The Walking Dead Universe RPG",
-      "url": "https://preview.drivethrurpg.com/en/product/458995/the-walking-dead-universe-rpg"
-    },{
-      "price": "$25",
-      "title": "Vaesen - Nordic Horror Roleplaying",
-      "url": "https://preview.drivethrurpg.com/en/product/319119/vaesen-nordic-horror-roleplaying"
-    }],
+    "core_books": [
+      {
+        "price": "$25",
+        "title": "MUTANT: Year Zero",
+        "url": "https://preview.drivethrurpg.com/en/product/139453/mutant-year-zero-roleplaying-at-the-end-of-days"
+      },
+      {
+        "price": "$25",
+        "title": "ALIEN RPG Core Rulebook",
+        "url": "https://preview.drivethrurpg.com/en/product/293976/alien-rpg-core-rulebook"
+      },
+      {
+        "price": "$25",
+        "title": "Blade Runner RPG Core Rulebook",
+        "url": "https://preview.drivethrurpg.com/en/product/399929/blade-runner-rpg-core-rulebook"
+      },
+      {
+        "price": "$25",
+        "title": "Forbidden Lands Core Game",
+        "url": "https://www.drivethrurpg.com/en/product/258593/forbidden-lands-core-game"
+      },
+      {
+        "price": "$25",
+        "title": "Tales from the Loop RPG: Rulebook",
+        "url": "https://preview.drivethrurpg.com/en/product/210617/tales-from-the-loop-rpg-rulebook"
+      },
+      {
+        "price": "$25",
+        "title": "The Walking Dead Universe RPG",
+        "url": "https://preview.drivethrurpg.com/en/product/458995/the-walking-dead-universe-rpg"
+      },
+      {
+        "price": "$25",
+        "title": "Vaesen - Nordic Horror Roleplaying",
+        "url": "https://preview.drivethrurpg.com/en/product/319119/vaesen-nordic-horror-roleplaying"
+      }
+    ],
     "license": {
       "is_permissive": true,
       "display": "FTL",
@@ -378,24 +500,35 @@
   {
     "name": "Storytelling System",
     "core_setting": "Modern vampire gothic",
-    "largest_subreddit": "r/WhiteWolfRPG",
-    "subreddit_size": 54000,
-    "discord_url": "https://discord.com/invite/worldofdarkness",
-    "discord_size": 24000,
+    "communities": [
+      {
+        "label": "Reddit",
+        "url": "https://reddit.com/r/WhiteWolfRPG",
+        "size": 54000
+      },
+      {
+        "label": "Discord",
+        "url": "https://discord.com/invite/worldofdarkness",
+        "size": 24000
+      }
+    ],
     "known_for": "Dark/mature themes\nPolitical intrigue",
     "core_mechanic": "d10 dice pool\n≥ target set by GM",
     "character_comp": null,
     "character_progression": null,
     "price_of_entry": 25,
-    "core_books": [{
-      "price": "$25",
-      "title": "Vampire: The Masquerade 5th Edition",
-      "url": "https://preview.drivethrurpg.com/en/product/256795/vampire-the-masquerade-5th-edition"
-    },{
-      "price": "$25",
-      "title": "Exalted 3rd Edition",
-      "url": "https://preview.drivethrurpg.com/en/product/162759/exalted-3rd-edition"
-    }],
+    "core_books": [
+      {
+        "price": "$25",
+        "title": "Vampire: The Masquerade 5th Edition",
+        "url": "https://preview.drivethrurpg.com/en/product/256795/vampire-the-masquerade-5th-edition"
+      },
+      {
+        "price": "$25",
+        "title": "Exalted 3rd Edition",
+        "url": "https://preview.drivethrurpg.com/en/product/162759/exalted-3rd-edition"
+      }
+    ],
     "license": {
       "is_permissive": false,
       "display": "Partner Licensing Network",
@@ -411,56 +544,71 @@
   {
     "name": "Powered by the Apocalypse\n(PbtA)",
     "core_setting": "Setting-agnostic",
-    "largest_subreddit": "r/PBtA",
-    "subreddit_size": 49000,
-    "discord_url": "https://discord.com/invite/Qxg28ts",
-    "discord_size": 1000,
+    "communities": [
+      { "label": "Reddit", "url": "https://reddit.com/r/PBtA", "size": 49000 },
+      {
+        "label": "Discord",
+        "url": "https://discord.com/invite/Qxg28ts",
+        "size": 1000
+      }
+    ],
     "known_for": "\"Moves\"\nPermissive license\nDiversity of spinoff games",
     "core_mechanic": "2d6 + modifiers\n≥ fixed target",
     "character_comp": "Class",
     "character_progression": "XP for rolls / moves / storytelling\nAutomatic level up",
     "price_of_entry": 28,
-    "core_books": [{
-      "price": "$28",
-      "title": "Apocalypse World (2nd Ed)",
-      "url": "https://preview.drivethrurpg.com/en/product/194344/apocalypse-world-2nd-ed"
-    }, {
-      "price": "$25",
-      "title": "Avatar Legends: The Roleplaying Game",
-      "url": "https://preview.drivethrurpg.com/en/product/384956/avatar-legends-the-roleplaying-game"
-    }, {
-      "price": "$20",
-      "title": "City of Mist: Player's Guide",
-      "url": "https://preview.drivethrurpg.com/en/product/266983/city-of-mist-player-s-guide"
-    }, {
-      "price": "$20",
-      "title": "City of Mist: MC Toolkit",
-      "url": "https://preview.drivethrurpg.com/en/product/266981/city-of-mist-mc-toolkit"
-    }, {
-      "price": "$10",
-      "title": "Dungeon World",
-      "url": "https://preview.drivethrurpg.com/en/product/108028/Dungeon-World"
-    }, {
-      "price": "Free",
-      "title": "Ironsworn",
-      "url": "https://www.ironswornrpg.com/downloads"
-    }, {
-      "price": "$14",
-      "title": "Masks: A New Generation",
-      "url": "https://preview.drivethrurpg.com/en/product/193258/masks-a-new-generation"
-    }, {
-      "price": "$10",
-      "title": "Monsterhearts",
-      "url": "https://preview.drivethrurpg.com/en/product/100540/monsterhearts"
-    }, {
-      "price": "$20",
-      "title": "Monster of the Week",
-      "url": "https://preview.drivethrurpg.com/en/product/143518/monster-of-the-week"
-    }, {
-      "price": "$15",
-      "title": "Thirsty Sword Lesbians",
-      "url": "https://preview.drivethrurpg.com/en/product/348096/thirsty-sword-lesbians"
-    }],
+    "core_books": [
+      {
+        "price": "$28",
+        "title": "Apocalypse World (2nd Ed)",
+        "url": "https://preview.drivethrurpg.com/en/product/194344/apocalypse-world-2nd-ed"
+      },
+      {
+        "price": "$25",
+        "title": "Avatar Legends: The Roleplaying Game",
+        "url": "https://preview.drivethrurpg.com/en/product/384956/avatar-legends-the-roleplaying-game"
+      },
+      {
+        "price": "$20",
+        "title": "City of Mist: Player's Guide",
+        "url": "https://preview.drivethrurpg.com/en/product/266983/city-of-mist-player-s-guide"
+      },
+      {
+        "price": "$20",
+        "title": "City of Mist: MC Toolkit",
+        "url": "https://preview.drivethrurpg.com/en/product/266981/city-of-mist-mc-toolkit"
+      },
+      {
+        "price": "$10",
+        "title": "Dungeon World",
+        "url": "https://preview.drivethrurpg.com/en/product/108028/Dungeon-World"
+      },
+      {
+        "price": "Free",
+        "title": "Ironsworn",
+        "url": "https://www.ironswornrpg.com/downloads"
+      },
+      {
+        "price": "$14",
+        "title": "Masks: A New Generation",
+        "url": "https://preview.drivethrurpg.com/en/product/193258/masks-a-new-generation"
+      },
+      {
+        "price": "$10",
+        "title": "Monsterhearts",
+        "url": "https://preview.drivethrurpg.com/en/product/100540/monsterhearts"
+      },
+      {
+        "price": "$20",
+        "title": "Monster of the Week",
+        "url": "https://preview.drivethrurpg.com/en/product/143518/monster-of-the-week"
+      },
+      {
+        "price": "$15",
+        "title": "Thirsty Sword Lesbians",
+        "url": "https://preview.drivethrurpg.com/en/product/348096/thirsty-sword-lesbians"
+      }
+    ],
     "license": {
       "is_permissive": true,
       "display": "PbtA policy",
@@ -476,20 +624,26 @@
   {
     "name": "Stars Without Number",
     "core_setting": "Science fiction",
-    "largest_subreddit": "r/SWN",
-    "subreddit_size": 15000,
-    "discord_url": "https://discord.com/invite/yzQ7PPX",
-    "discord_size": 2400,
+    "communities": [
+      { "label": "Reddit", "url": "https://reddit.com/r/SWN", "size": 15000 },
+      {
+        "label": "Discord",
+        "url": "https://discord.com/invite/yzQ7PPX",
+        "size": 2400
+      }
+    ],
     "known_for": "True sandbox exploration",
     "core_mechanic": "2d6 + modifiers\n≥ target set by GM",
     "character_comp": null,
     "character_progression": null,
     "price_of_entry": 0,
-    "core_books": [{
-      "price": "Free",
-      "title": "Stars Without Number: Revised Edition",
-      "url": "https://preview.drivethrurpg.com/en/product/230009/Stars-Without-Number-Revised-Edition-Free-Version"
-    }],
+    "core_books": [
+      {
+        "price": "Free",
+        "title": "Stars Without Number: Revised Edition",
+        "url": "https://preview.drivethrurpg.com/en/product/230009/Stars-Without-Number-Revised-Edition-Free-Version"
+      }
+    ],
     "license": null,
     "srd_url": null,
     "most_famous_property": "Itself\nWorlds Without Number",
@@ -501,24 +655,31 @@
   {
     "name": "Generic Universal Role-Playing System\n(GURPS)",
     "core_setting": "Setting-agnostic",
-    "largest_subreddit": "r/gurps",
-    "subreddit_size": 15000,
-    "discord_url": "https://discord.com/invite/vk5GtQy",
-    "discord_size": 6000,
+    "communities": [
+      { "label": "Reddit", "url": "https://reddit.com/r/gurps", "size": 15000 },
+      {
+        "label": "Discord",
+        "url": "https://discord.com/invite/vk5GtQy",
+        "size": 6000
+      }
+    ],
     "known_for": "First setting-agnostic RPG",
     "core_mechanic": "3d6 + modifiers\n≤ character skill",
     "character_comp": null,
     "character_progression": null,
     "price_of_entry": 55,
-    "core_books": [{
-      "price": "$30",
-      "title": "GURPS Basic Set: Characters",
-      "url": "https://preview.drivethrurpg.com/en/product/224830/gurps-basic-set-characters"
-    }, {
-      "price": "$25",
-      "title": "GURPS Basic Set: Campaigns",
-      "url": "https://preview.drivethrurpg.com/en/product/224831/gurps-basic-set-campaigns"
-    }],
+    "core_books": [
+      {
+        "price": "$30",
+        "title": "GURPS Basic Set: Characters",
+        "url": "https://preview.drivethrurpg.com/en/product/224830/gurps-basic-set-characters"
+      },
+      {
+        "price": "$25",
+        "title": "GURPS Basic Set: Campaigns",
+        "url": "https://preview.drivethrurpg.com/en/product/224831/gurps-basic-set-campaigns"
+      }
+    ],
     "license": {
       "is_permissive": false,
       "display": "No derivative works allowed",
@@ -534,32 +695,45 @@
   {
     "name": "Fudge",
     "core_setting": "Setting-agnostic",
-    "largest_subreddit": "r/FATErpg",
-    "subreddit_size": 17000,
-    "discord_url": "https://discord.com/invite/Trbmkyd",
-    "discord_size": 2900,
+    "communities": [
+      {
+        "label": "Reddit",
+        "url": "https://reddit.com/r/FATErpg",
+        "size": 17000
+      },
+      {
+        "label": "Discord",
+        "url": "https://discord.com/invite/Trbmkyd",
+        "size": 2900
+      }
+    ],
     "known_for": "Rules-light",
     "core_mechanic": "4d6 (as +/0/- dice)\ncount fives and sixes (+)\n≥ target set by GM",
     "character_comp": "Aspects (descriptive) + Skill points + Stunts",
     "character_progression": "Skill point per story milestone",
     "price_of_entry": 0,
-    "core_books": [{
-      "price": "Free",
-      "title": "Fate Core System",
-      "url": "https://evilhat.com/product/fate-core-system/"
-    }, {
-      "price": "$17",
-      "title": "Fudge 10th Anniversary Edition",
-      "url": "https://preview.drivethrurpg.com/en/product/327196/fudge-10th-anniversary-edition"
-    }, {
-      "price": "$25",
-      "title": "Dresden Files RPG: Your Story",
-      "url": "https://evilhat.com/product/dresden-files-rpg-your-story/"
-    }, {
-      "price": "$25",
-      "title": "Dresden Files RPG: Our World",
-      "url": "https://evilhat.com/product/dresden-files-rpg-our-world/"
-    }],
+    "core_books": [
+      {
+        "price": "Free",
+        "title": "Fate Core System",
+        "url": "https://evilhat.com/product/fate-core-system/"
+      },
+      {
+        "price": "$17",
+        "title": "Fudge 10th Anniversary Edition",
+        "url": "https://preview.drivethrurpg.com/en/product/327196/fudge-10th-anniversary-edition"
+      },
+      {
+        "price": "$25",
+        "title": "Dresden Files RPG: Your Story",
+        "url": "https://evilhat.com/product/dresden-files-rpg-your-story/"
+      },
+      {
+        "price": "$25",
+        "title": "Dresden Files RPG: Our World",
+        "url": "https://evilhat.com/product/dresden-files-rpg-our-world/"
+      }
+    ],
     "license": {
       "is_permissive": true,
       "display": "OGL",
@@ -575,20 +749,30 @@
   {
     "name": "Savage Worlds\n(SWADE)",
     "core_setting": "Setting-agnostic",
-    "largest_subreddit": "r/savageworlds",
-    "subreddit_size": 23000,
-    "discord_url": "https://discord.com/invite/VqT7CJj",
-    "discord_size": 4300,
+    "communities": [
+      {
+        "label": "Reddit",
+        "url": "https://reddit.com/r/savageworlds",
+        "size": 23000
+      },
+      {
+        "label": "Discord",
+        "url": "https://discord.com/invite/VqT7CJj",
+        "size": 4300
+      }
+    ],
     "known_for": "\"Bennies\"\nFlexible character advancement",
     "core_mechanic": "roll die assigned to trait\n(d4 - d12)\n≥ target set by GM (typically 4)",
     "character_comp": null,
     "character_progression": null,
     "price_of_entry": 20,
-    "core_books": [{
-      "price": "$20",
-      "title": "Savage Worlds Adventure Edition Core Rules",
-      "url": "https://peginc.com/product/savage-worlds-adventure-edition-core-rules-pdf-swade/"
-    }],
+    "core_books": [
+      {
+        "price": "$20",
+        "title": "Savage Worlds Adventure Edition Core Rules",
+        "url": "https://peginc.com/product/savage-worlds-adventure-edition-core-rules-pdf-swade/"
+      }
+    ],
     "license": {
       "is_permissive": false,
       "display": "Fan License\n+ Creator Program\n+ Partner Licensing",
@@ -604,20 +788,30 @@
   {
     "name": "Mörk Borg",
     "core_setting": "Horror / doom metal",
-    "largest_subreddit": "r/MorkBorg",
-    "subreddit_size": 16000,
-    "discord_url": "https://discord.com/invite/bMZw8G3",
-    "discord_size": 7300,
+    "communities": [
+      {
+        "label": "Reddit",
+        "url": "https://reddit.com/r/MorkBorg",
+        "size": 16000
+      },
+      {
+        "label": "Discord",
+        "url": "https://discord.com/invite/bMZw8G3",
+        "size": 7300
+      }
+    ],
     "known_for": "Extremely frequent PC death",
     "core_mechanic": "1d20 + stat bonus\n≥ target set by GM",
     "character_comp": null,
     "character_progression": null,
     "price_of_entry": 20,
-    "core_books": [{
-      "price": "$20",
-      "title": "Mörk Borg English",
-      "url": "https://preview.drivethrurpg.com/en/product/295910/moerk-borg-english"
-    }],
+    "core_books": [
+      {
+        "price": "$20",
+        "title": "Mörk Borg English",
+        "url": "https://preview.drivethrurpg.com/en/product/295910/moerk-borg-english"
+      }
+    ],
     "license": {
       "is_permissive": true,
       "display": "MÖRK BORG THIRD PARTY LICENSE",
@@ -633,20 +827,30 @@
   {
     "name": "Kids on Bikes",
     "core_setting": "1980s small-town USA",
-    "largest_subreddit": "r/Kidsonbikesrpg",
-    "subreddit_size": 3000,
-    "discord_url": "https://discord.com/invite/v2vVvAZ",
-    "discord_size": 4600,
+    "communities": [
+      {
+        "label": "Reddit",
+        "url": "https://reddit.com/r/Kidsonbikesrpg",
+        "size": 3000
+      },
+      {
+        "label": "Discord",
+        "url": "https://discord.com/invite/v2vVvAZ",
+        "size": 4600
+      }
+    ],
     "known_for": "Collaborative worldbuilding",
     "core_mechanic": "roll die assigned to trait\n(d4 - d12)\n≥ target set by GM",
     "character_comp": null,
     "character_progression": null,
     "price_of_entry": 10,
-    "core_books": [{
-      "price": "$10",
-      "title": "Kids on Bikes: Core Rulebook",
-      "url": "https://preview.drivethrurpg.com/en/product/231938/Kids-on-Bikes-Core-Rulebook"
-    }],
+    "core_books": [
+      {
+        "price": "$10",
+        "title": "Kids on Bikes: Core Rulebook",
+        "url": "https://preview.drivethrurpg.com/en/product/231938/Kids-on-Bikes-Core-Rulebook"
+      }
+    ],
     "license": null,
     "srd_url": null,
     "most_famous_property": "Itself",
@@ -658,20 +862,30 @@
   {
     "name": "Paragon",
     "core_setting": "Greek myth",
-    "largest_subreddit": "r/AgonGame",
-    "subreddit_size": 280,
-    "discord_url": "https://discord.com/invite/dmYTarecQz",
-    "discord_size": 400,
+    "communities": [
+      {
+        "label": "Reddit",
+        "url": "https://reddit.com/r/AgonGame",
+        "size": 280
+      },
+      {
+        "label": "Discord",
+        "url": "https://discord.com/invite/dmYTarecQz",
+        "size": 400
+      }
+    ],
     "known_for": "Zero-prep one-shots",
     "core_mechanic": "party rolls together\ndice pool based on traits\ntake 2 highest + d4 result\n≥ GM dice pool roll",
     "character_comp": null,
     "character_progression": null,
     "price_of_entry": 15,
-    "core_books": [{
-      "price": "$15",
-      "title": "AGON",
-      "url": "https://johnharper.itch.io/agon"
-    }],
+    "core_books": [
+      {
+        "price": "$15",
+        "title": "AGON",
+        "url": "https://johnharper.itch.io/agon"
+      }
+    ],
     "license": {
       "is_permissive": true,
       "display": "CC BY 4.0",
@@ -687,20 +901,26 @@
   {
     "name": "Risus",
     "core_setting": "Setting-agnostic",
-    "largest_subreddit": "r/risus",
-    "subreddit_size": 1000,
-    "discord_url": "https://discord.com/invite/pxVJFhG2e5",
-    "discord_size": 100,
+    "communities": [
+      { "label": "Reddit", "url": "https://reddit.com/r/risus", "size": 1000 },
+      {
+        "label": "Discord",
+        "url": "https://discord.com/invite/pxVJFhG2e5",
+        "size": 100
+      }
+    ],
     "known_for": "4-page rulebook\n\"Clichés\"",
     "core_mechanic": "d6 dice pool\n≥ target set by GM",
     "character_comp": "Tags",
     "character_progression": "Dice roll (optional rule)",
     "price_of_entry": 0,
-    "core_books": [{
-      "price": "Free",
-      "title": "Risus: The Anything RPG",
-      "url": "https://preview.drivethrurpg.com/en/product/170294/Risus-The-Anything-RPG"
-    }],
+    "core_books": [
+      {
+        "price": "Free",
+        "title": "Risus: The Anything RPG",
+        "url": "https://preview.drivethrurpg.com/en/product/170294/Risus-The-Anything-RPG"
+      }
+    ],
     "license": null,
     "srd_url": "https://www.risusiverse.com/home/rule-elucidation",
     "most_famous_property": "Itself",
@@ -712,20 +932,30 @@
   {
     "name": "The Burning Wheel",
     "core_setting": "Medieval fantasy",
-    "largest_subreddit": "r/BurningWheel",
-    "subreddit_size": 4000,
-    "discord_url": "https://discord.com/invite/4K7e3Zv",
-    "discord_size": 1300,
+    "communities": [
+      {
+        "label": "Reddit",
+        "url": "https://reddit.com/r/BurningWheel",
+        "size": 4000
+      },
+      {
+        "label": "Discord",
+        "url": "https://discord.com/invite/4K7e3Zv",
+        "size": 1300
+      }
+    ],
     "known_for": "\"Beliefs\"\nLiterary style",
     "core_mechanic": "d6 dice pool\ntarget depends on die\n≥ target set by GM + modifiers",
     "character_comp": null,
     "character_progression": null,
     "price_of_entry": 20,
-    "core_books": [{
-      "price": "$20",
-      "title": "Burning Wheel Gold Revised",
-      "url": "https://www.burningwheel.com/burning-wheel-gold-revised-pdf/"
-    }],
+    "core_books": [
+      {
+        "price": "$20",
+        "title": "Burning Wheel Gold Revised",
+        "url": "https://www.burningwheel.com/burning-wheel-gold-revised-pdf/"
+      }
+    ],
     "license": null,
     "srd_url": null,
     "most_famous_property": "Itself",
@@ -737,20 +967,30 @@
   {
     "name": "Champions / HERO System",
     "core_setting": "Setting-agnostic",
-    "largest_subreddit": "r/herosystem",
-    "subreddit_size": 1300,
-    "discord_url": "https://discord.com/invite/HcUJvJH",
-    "discord_size": 1000,
+    "communities": [
+      {
+        "label": "Reddit",
+        "url": "https://reddit.com/r/herosystem",
+        "size": 1300
+      },
+      {
+        "label": "Discord",
+        "url": "https://discord.com/invite/HcUJvJH",
+        "size": 1000
+      }
+    ],
     "known_for": "Very open-ended character creation",
     "core_mechanic": "3d6 ≤ character skill",
     "character_comp": "Skills + Stat Scores",
     "character_progression": null,
     "price_of_entry": 50,
-    "core_books": [{
-      "price": "$50",
-      "title": "HERO System 6th Edition Bundle",
-      "url": "https://preview.drivethrurpg.com/en/product/64074/hero-system-6th-edition-bundle-character-creation-combat-and-adventuring"
-    }],
+    "core_books": [
+      {
+        "price": "$50",
+        "title": "HERO System 6th Edition Bundle",
+        "url": "https://preview.drivethrurpg.com/en/product/64074/hero-system-6th-edition-bundle-character-creation-combat-and-adventuring"
+      }
+    ],
     "license": null,
     "srd_url": null,
     "most_famous_property": "Champions Online (spinoff video game)",
@@ -762,20 +1002,30 @@
   {
     "name": "Cortex System",
     "core_setting": "Setting-agnostic",
-    "largest_subreddit": "r/CortexRPG",
-    "subreddit_size": 2400,
-    "discord_url": "https://discord.com/invite/KjbWxmk",
-    "discord_size": 3900,
+    "communities": [
+      {
+        "label": "Reddit",
+        "url": "https://reddit.com/r/CortexRPG",
+        "size": 2400
+      },
+      {
+        "label": "Discord",
+        "url": "https://discord.com/invite/KjbWxmk",
+        "size": 3900
+      }
+    ],
     "known_for": "Several licensed RPGs",
     "core_mechanic": "roll dice assigned to traits\n(d4 - d12)\nadd two highest\n≥ GM d6 pool roll",
     "character_comp": null,
     "character_progression": null,
     "price_of_entry": 25,
-    "core_books": [{
-      "price": "$25",
-      "title": "Cortex Prime",
-      "url": "https://shop.direwolfdigital.com/products/cortex-prime?variant=42682288275609"
-    }],
+    "core_books": [
+      {
+        "price": "$25",
+        "title": "Cortex Prime",
+        "url": "https://shop.direwolfdigital.com/products/cortex-prime?variant=42682288275609"
+      }
+    ],
     "license": null,
     "srd_url": null,
     "most_famous_property": "Battlestar Galactica RPG\nMarvel Heroic RPG\nSerenity RPG (AKA Firefly)\nSupernatural RPG",
@@ -787,20 +1037,21 @@
   {
     "name": "Dread",
     "core_setting": "Horror",
-    "largest_subreddit": "r/dread",
-    "subreddit_size": 2700,
-    "discord_url": null,
-    "discord_size": null,
+    "communities": [
+      { "label": "Reddit", "url": "https://reddit.com/r/dread", "size": 2700 }
+    ],
     "known_for": "Rising tension and suspense",
     "core_mechanic": "Pull 1+ blocks from Jenga tower",
     "character_comp": "Questionnaire (for flavor)",
     "character_progression": "None",
     "price_of_entry": 12,
-    "core_books": [{
-      "price": "$12",
-      "title": "Dread",
-      "url": "https://preview.drivethrurpg.com/en/product/83854/Dread"
-    }],
+    "core_books": [
+      {
+        "price": "$12",
+        "title": "Dread",
+        "url": "https://preview.drivethrurpg.com/en/product/83854/Dread"
+      }
+    ],
     "license": null,
     "srd_url": null,
     "most_famous_property": "Itself",
@@ -812,24 +1063,35 @@
   {
     "name": "Traveller",
     "core_setting": "Science fiction / Space opera",
-    "largest_subreddit": "r/traveller",
-    "subreddit_size": 14000,
-    "discord_url": "https://discord.com/invite/exqW759",
-    "discord_size": 4800,
+    "communities": [
+      {
+        "label": "Reddit",
+        "url": "https://reddit.com/r/traveller",
+        "size": 14000
+      },
+      {
+        "label": "Discord",
+        "url": "https://discord.com/invite/exqW759",
+        "size": 4800
+      }
+    ],
     "known_for": "One of the oldest sci-fi RPGs\nPossible inspiration for Firefly (TV series)",
     "core_mechanic": "2d6 + modifiers\n≥ 8 + modifiers",
     "character_comp": null,
     "character_progression": null,
     "price_of_entry": 99,
-    "core_books": [{
-      "price": "$99",
-      "title": "Traveller5 Core Rules 3-Book Set",
-      "url": "https://preview.drivethrurpg.com/en/product/150646/t5-traveller5-core-rules-3-book-set"
-    }, {
-      "price": "$30",
-      "title": "Traveller Core Rulebook Update 2022",
-      "url": "https://www.mongoosepublishing.com/products/traveller-core-rulebook-update-2022?variant=42088931754231"
-    }],
+    "core_books": [
+      {
+        "price": "$99",
+        "title": "Traveller5 Core Rules 3-Book Set",
+        "url": "https://preview.drivethrurpg.com/en/product/150646/t5-traveller5-core-rules-3-book-set"
+      },
+      {
+        "price": "$30",
+        "title": "Traveller Core Rulebook Update 2022",
+        "url": "https://www.mongoosepublishing.com/products/traveller-core-rulebook-update-2022?variant=42088931754231"
+      }
+    ],
     "license": {
       "is_permissive": false,
       "display": "Fair Use Policy\n+ Creator Program\n+ Partner Licensing",
@@ -845,28 +1107,40 @@
   {
     "name": "2d20",
     "core_setting": "Post-apocalyptic\nScience fiction",
-    "largest_subreddit": "r/startrekadventures",
-    "subreddit_size": 7900,
-    "discord_url": "https://discord.com/invite/fPtkHqx",
-    "discord_size": 800,
+    "communities": [
+      {
+        "label": "Reddit",
+        "url": "https://reddit.com/r/startrekadventures",
+        "size": 7900
+      },
+      {
+        "label": "Discord",
+        "url": "https://discord.com/invite/fPtkHqx",
+        "size": 800
+      }
+    ],
     "known_for": "\"Momentum\"\nMetacurrencies",
     "core_mechanic": "2d20\ncount ≤ character skill\n≥ target set by GM",
     "character_comp": null,
     "character_progression": null,
     "price_of_entry": 20,
-    "core_books": [{
-      "price": "$20",
-      "title": "Star Trek Adventures: Core Rulebook",
-      "url": "https://preview.drivethrurpg.com/en/product/214552/star-trek-adventures-core-rulebook"
-    }, {
-      "price": "$20",
-      "title": "Fallout: The Roleplaying Game Core Rulebook",
-      "url": "https://preview.drivethrurpg.com/en/product/366742/fallout-the-roleplaying-game-core-rulebook-pdf"
-    }, {
-      "price": "$25",
-      "title": "Dune - Adventures in the Imperium",
-      "url": "https://preview.drivethrurpg.com/en/product/338242/dune-adventures-in-the-imperium-core-rulebook-standard-edition"
-    }],
+    "core_books": [
+      {
+        "price": "$20",
+        "title": "Star Trek Adventures: Core Rulebook",
+        "url": "https://preview.drivethrurpg.com/en/product/214552/star-trek-adventures-core-rulebook"
+      },
+      {
+        "price": "$20",
+        "title": "Fallout: The Roleplaying Game Core Rulebook",
+        "url": "https://preview.drivethrurpg.com/en/product/366742/fallout-the-roleplaying-game-core-rulebook-pdf"
+      },
+      {
+        "price": "$25",
+        "title": "Dune - Adventures in the Imperium",
+        "url": "https://preview.drivethrurpg.com/en/product/338242/dune-adventures-in-the-imperium-core-rulebook-standard-edition"
+      }
+    ],
     "license": {
       "is_permissive": false,
       "display": "Worldbuilders Creator Program",
@@ -882,20 +1156,30 @@
   {
     "name": "Lancer",
     "core_setting": "Science fiction",
-    "largest_subreddit": "r/LancerRPG",
-    "subreddit_size": 42000,
-    "discord_url": "https://discord.com/invite/lancer",
-    "discord_size": 48600,
+    "communities": [
+      {
+        "label": "Reddit",
+        "url": "https://reddit.com/r/LancerRPG",
+        "size": 42000
+      },
+      {
+        "label": "Discord",
+        "url": "https://discord.com/invite/lancer",
+        "size": 48600
+      }
+    ],
     "known_for": "Customizable mechs\nCOMP/CON online companion",
     "core_mechanic": "1d20 + modifiers\n≥ 10, 20, or enemy value",
     "character_comp": null,
     "character_progression": null,
     "price_of_entry": 25,
-    "core_books": [{
-      "price": "$25",
-      "title": "Lancer Core Book: First Edition",
-      "url": "https://massif-press.itch.io/corebook-pdf"
-    }],
+    "core_books": [
+      {
+        "price": "$25",
+        "title": "Lancer Core Book: First Edition",
+        "url": "https://massif-press.itch.io/corebook-pdf"
+      }
+    ],
     "license": {
       "is_permissive": true,
       "display": "Third Party License",
@@ -911,20 +1195,30 @@
   {
     "name": "Fabula Ultima",
     "core_setting": "Medieval fantasy",
-    "largest_subreddit": "r/fabulaultima",
-    "subreddit_size": 4100,
-    "discord_url": "https://discord.com/invite/fMfV8Ty",
-    "discord_size": 5700,
+    "communities": [
+      {
+        "label": "Reddit",
+        "url": "https://reddit.com/r/fabulaultima",
+        "size": 4100
+      },
+      {
+        "label": "Discord",
+        "url": "https://discord.com/invite/fMfV8Ty",
+        "size": 5700
+      }
+    ],
     "known_for": "Emulating Japanese-style console RPGs",
     "core_mechanic": "roll dice assigned to attributes\n(d6 - d12)\n≥ target set by GM",
     "character_comp": null,
     "character_progression": null,
     "price_of_entry": 18,
-    "core_books": [{
-      "price": "$18",
-      "title": "Fabula Ultima TTJRPG",
-      "url": "https://preview.drivethrurpg.com/en/product/410108/fabula-ultima-ttjrpg"
-    }],
+    "core_books": [
+      {
+        "price": "$18",
+        "title": "Fabula Ultima TTJRPG",
+        "url": "https://preview.drivethrurpg.com/en/product/410108/fabula-ultima-ttjrpg"
+      }
+    ],
     "license": null,
     "srd_url": null,
     "most_famous_property": "Itself",
@@ -936,20 +1230,30 @@
   {
     "name": "Dungeon Crawl Classics\n(DCC)",
     "core_setting": "Medieval fantasy",
-    "largest_subreddit": "r/dccrpg",
-    "subreddit_size": 11000,
-    "discord_url": "https://discord.com/invite/GS5BBvdfYa",
-    "discord_size": 3300,
+    "communities": [
+      {
+        "label": "Reddit",
+        "url": "https://reddit.com/r/dccrpg",
+        "size": 11000
+      },
+      {
+        "label": "Discord",
+        "url": "https://discord.com/invite/GS5BBvdfYa",
+        "size": 3300
+      }
+    ],
     "known_for": "Adaptation of D&D 3.5E\nThe \"dice chain\"\nLots of random effect tables",
     "core_mechanic": "1d20 + stat bonus\n≥ target set by GM",
     "character_comp": null,
     "character_progression": null,
     "price_of_entry": 25,
-    "core_books": [{
-      "price": "$25",
-      "title": "Dungeon Crawl Classics RPG",
-      "url": "https://preview.drivethrurpg.com/en/product/101050/dungeon-crawl-classics-rpg-dcc-rpg"
-    }],
+    "core_books": [
+      {
+        "price": "$25",
+        "title": "Dungeon Crawl Classics RPG",
+        "url": "https://preview.drivethrurpg.com/en/product/101050/dungeon-crawl-classics-rpg-dcc-rpg"
+      }
+    ],
     "license": {
       "is_permissive": false,
       "display": "Free licensing with approval",
@@ -965,20 +1269,30 @@
   {
     "name": "Shadow of the Demon Lord",
     "core_setting": "Dark fantasy",
-    "largest_subreddit": "r/shadowofthedemonlord",
-    "subreddit_size": 5200,
-    "discord_url": "https://discord.com/invite/taDMeUPZCu",
-    "discord_size": 3500,
+    "communities": [
+      {
+        "label": "Reddit",
+        "url": "https://reddit.com/r/shadowofthedemonlord",
+        "size": 5200
+      },
+      {
+        "label": "Discord",
+        "url": "https://discord.com/invite/taDMeUPZCu",
+        "size": 3500
+      }
+    ],
     "known_for": "Gory setting\nInsanity/Corruption tracker",
     "core_mechanic": "1d20 + modifiers\n≥ 10",
     "character_comp": "Ancestry + Stats + Traits",
     "character_progression": "Automatic level up during downtime",
     "price_of_entry": 19,
-    "core_books": [{
-      "price": "$19",
-      "title": "Shadow of the Demon Lord",
-      "url": "https://preview.drivethrurpg.com/en/product/155572/shadow-of-the-demon-lord"
-    }],
+    "core_books": [
+      {
+        "price": "$19",
+        "title": "Shadow of the Demon Lord",
+        "url": "https://preview.drivethrurpg.com/en/product/155572/shadow-of-the-demon-lord"
+      }
+    ],
     "license": {
       "is_permissive": false,
       "display": "DotDL Creator Program",
@@ -994,20 +1308,26 @@
   {
     "name": "Old School Essentials\n(OSE)",
     "core_setting": "Medieval fantasy",
-    "largest_subreddit": "r/OSE",
-    "subreddit_size": 2000,
-    "discord_url": "https://discord.com/invite/7djvGNPnr6",
-    "discord_size": 6800,
+    "communities": [
+      { "label": "Reddit", "url": "https://reddit.com/r/OSE", "size": 2000 },
+      {
+        "label": "Discord",
+        "url": "https://discord.com/invite/7djvGNPnr6",
+        "size": 6800
+      }
+    ],
     "known_for": "Revival of Basic/Expert (B/X) D&D",
     "core_mechanic": "1d20 + modifiers\n≤ ability score",
     "character_comp": null,
     "character_progression": null,
     "price_of_entry": 20,
-    "core_books": [{
-      "price": "$20",
-      "title": "OSE Classic Fantasy: Rules Tome",
-      "url": "https://preview.drivethrurpg.com/en/product/279183/old-school-essentials-classic-fantasy-rules-tome"
-    }],
+    "core_books": [
+      {
+        "price": "$20",
+        "title": "OSE Classic Fantasy: Rules Tome",
+        "url": "https://preview.drivethrurpg.com/en/product/279183/old-school-essentials-classic-fantasy-rules-tome"
+      }
+    ],
     "license": {
       "is_permissive": true,
       "display": "Third Party License + OGL",
@@ -1023,28 +1343,40 @@
   {
     "name": "GUMSHOE System",
     "core_setting": "Mystery",
-    "largest_subreddit": "r/GumshoeRPG",
-    "subreddit_size": 2200,
-    "discord_url": "https://discord.com/invite/xKfgxVm",
-    "discord_size": 1800,
+    "communities": [
+      {
+        "label": "Reddit",
+        "url": "https://reddit.com/r/GumshoeRPG",
+        "size": 2200
+      },
+      {
+        "label": "Discord",
+        "url": "https://discord.com/invite/xKfgxVm",
+        "size": 1800
+      }
+    ],
     "known_for": "\"Clues\"\nAutomatic success on investigation checks",
     "core_mechanic": "1d6 + point spend\n≥ target set by GM",
     "character_comp": null,
     "character_progression": null,
     "price_of_entry": 25,
-    "core_books": [{
-      "price": "$15",
-      "title": "The Book of Unremitting Horror",
-      "url": "https://preview.drivethrurpg.com/en/product/51077/the-book-of-unremitting-horror-gumshoe-version"
-    },{
-      "price": "$30",
-      "title": "Swords of the Serpentine",
-      "url": "https://preview.drivethrurpg.com/en/product/408716/swords-of-the-serpentine"
-    },{
-      "price": "$25",
-      "title": "Night's Black Agents",
-      "url": "https://preview.drivethrurpg.com/en/product/106783/night-s-black-agents"
-    }],
+    "core_books": [
+      {
+        "price": "$15",
+        "title": "The Book of Unremitting Horror",
+        "url": "https://preview.drivethrurpg.com/en/product/51077/the-book-of-unremitting-horror-gumshoe-version"
+      },
+      {
+        "price": "$30",
+        "title": "Swords of the Serpentine",
+        "url": "https://preview.drivethrurpg.com/en/product/408716/swords-of-the-serpentine"
+      },
+      {
+        "price": "$25",
+        "title": "Night's Black Agents",
+        "url": "https://preview.drivethrurpg.com/en/product/106783/night-s-black-agents"
+      }
+    ],
     "license": {
       "is_permissive": true,
       "display": "CC BY 3.0",
@@ -1060,20 +1392,30 @@
   {
     "name": "Illuminated Worlds",
     "core_setting": "Industrial age mystery / Horror",
-    "largest_subreddit": "r/CandelaObscura",
-    "subreddit_size": 2800,
-    "discord_url": "https://discord.com/invite/WXaJtG4ujy",
-    "discord_size": 400,
+    "communities": [
+      {
+        "label": "Reddit",
+        "url": "https://reddit.com/r/CandelaObscura",
+        "size": 2800
+      },
+      {
+        "label": "Discord",
+        "url": "https://discord.com/invite/WXaJtG4ujy",
+        "size": 400
+      }
+    ],
     "known_for": "\"Gilded\" dice",
     "core_mechanic": "d6 dice pool\ntake highest\n4/5 = partial success, 6 = success",
     "character_comp": null,
     "character_progression": null,
     "price_of_entry": 20,
-    "core_books": [{
-      "price": "$20",
-      "title": "Candela Obscura Core Rulebook",
-      "url": "https://shop.critrole.com/collections/books/products/candela-obscura-core-rulebook-pdf"
-    }],
+    "core_books": [
+      {
+        "price": "$20",
+        "title": "Candela Obscura Core Rulebook",
+        "url": "https://shop.critrole.com/collections/books/products/candela-obscura-core-rulebook-pdf"
+      }
+    ],
     "license": {
       "is_permissive": true,
       "display": "CGL",
@@ -1089,20 +1431,30 @@
   {
     "name": "d100 Panic Engine",
     "core_setting": "Sci-fi horror",
-    "largest_subreddit": "r/mothershiprpg",
-    "subreddit_size": 12000,
-    "discord_url": "https://discord.com/invite/mothership-461670627468771329",
-    "discord_size": 11400,
+    "communities": [
+      {
+        "label": "Reddit",
+        "url": "https://reddit.com/r/mothershiprpg",
+        "size": 12000
+      },
+      {
+        "label": "Discord",
+        "url": "https://discord.com/invite/mothership-461670627468771329",
+        "size": 11400
+      }
+    ],
     "known_for": "\"Zine\" campaigns",
     "core_mechanic": "1d100 ≤ character skill",
     "character_comp": null,
     "character_progression": null,
     "price_of_entry": 0,
-    "core_books": [{
-      "price": "Free",
-      "title": "Mothership: Player's Survival Guide",
-      "url": "https://preview.drivethrurpg.com/en/product/245017/mothership-player-s-survival-guide"
-    }],
+    "core_books": [
+      {
+        "price": "Free",
+        "title": "Mothership: Player's Survival Guide",
+        "url": "https://preview.drivethrurpg.com/en/product/245017/mothership-player-s-survival-guide"
+      }
+    ],
     "license": null,
     "srd_url": null,
     "most_famous_property": "Mothership (RPG)",
@@ -1114,28 +1466,40 @@
   {
     "name": "Into the Odd",
     "core_setting": "Industrial age horror",
-    "largest_subreddit": "r/Mausritter",
-    "subreddit_size": 2100,
-    "discord_url": "https://discord.com/invite/u9Gyc3Y42Y",
-    "discord_size": 2800,
+    "communities": [
+      {
+        "label": "Reddit",
+        "url": "https://reddit.com/r/Mausritter",
+        "size": 2100
+      },
+      {
+        "label": "Discord",
+        "url": "https://discord.com/invite/u9Gyc3Y42Y",
+        "size": 2800
+      }
+    ],
     "known_for": "Quickness over realism",
     "core_mechanic": "1d20 ≤ attribute score",
     "character_comp": null,
     "character_progression": null,
     "price_of_entry": 15,
-    "core_books": [{
-      "price": "$15",
-      "title": "Into the Odd - Remastered",
-      "url": "https://preview.drivethrurpg.com/en/product/399483/into-the-odd-remastered"
-    },{
-      "price": "$19",
-      "title": "Electric Bastionland",
-      "url": "https://chrismcdee.itch.io/electric-bastionland"
-    },{
-      "price": "Free",
-      "title": "Mausritter",
-      "url": "https://losing-games.itch.io/mausritter"
-    }],
+    "core_books": [
+      {
+        "price": "$15",
+        "title": "Into the Odd - Remastered",
+        "url": "https://preview.drivethrurpg.com/en/product/399483/into-the-odd-remastered"
+      },
+      {
+        "price": "$19",
+        "title": "Electric Bastionland",
+        "url": "https://chrismcdee.itch.io/electric-bastionland"
+      },
+      {
+        "price": "Free",
+        "title": "Mausritter",
+        "url": "https://losing-games.itch.io/mausritter"
+      }
+    ],
     "license": {
       "is_permissive": true,
       "display": "Mark of the Odd",
@@ -1151,20 +1515,26 @@
   {
     "name": "Palladium System\n(Megaversal System)",
     "core_setting": "Setting-agnostic",
-    "largest_subreddit": "r/Rifts",
-    "subreddit_size": 4900,
-    "discord_url": "https://discord.com/invite/xGkk75Z",
-    "discord_size": 1600,
+    "communities": [
+      { "label": "Reddit", "url": "https://reddit.com/r/Rifts", "size": 4900 },
+      {
+        "label": "Discord",
+        "url": "https://discord.com/invite/xGkk75Z",
+        "size": 1600
+      }
+    ],
     "known_for": "Destructive battles\nHuge range of power levels at character creation",
     "core_mechanic": "1d100 ≤ character skill",
     "character_comp": null,
     "character_progression": null,
     "price_of_entry": 20,
-    "core_books": [{
-      "price": "$20",
-      "title": "Rifts Ultimate Edition",
-      "url": "https://preview.drivethrurpg.com/en/product/181928/rifts-ultimate-edition-rpg"
-    }],
+    "core_books": [
+      {
+        "price": "$20",
+        "title": "Rifts Ultimate Edition",
+        "url": "https://preview.drivethrurpg.com/en/product/181928/rifts-ultimate-edition-rpg"
+      }
+    ],
     "license": {
       "is_permissive": false,
       "display": "No derivative works allowed",
@@ -1180,20 +1550,30 @@
   {
     "name": "Eclipse Phase",
     "core_setting": "Sci-fi horror",
-    "largest_subreddit": "r/eclipsephase",
-    "subreddit_size": 4000,
-    "discord_url": "https://discord.com/invite/bPkxUxh",
-    "discord_size": 2000,
+    "communities": [
+      {
+        "label": "Reddit",
+        "url": "https://reddit.com/r/eclipsephase",
+        "size": 4000
+      },
+      {
+        "label": "Discord",
+        "url": "https://discord.com/invite/bPkxUxh",
+        "size": 2000
+      }
+    ],
     "known_for": "Transhumanist setting",
     "core_mechanic": "1d100 ≤ character skill + modifiers",
     "character_comp": null,
     "character_progression": null,
     "price_of_entry": 25,
-    "core_books": [{
-      "price": "$25",
-      "title": "Eclipse Phase Second Edition",
-      "url": "https://posthuman.shop/products/eclipse-phase-second-edition-pdf"
-    }],
+    "core_books": [
+      {
+        "price": "$25",
+        "title": "Eclipse Phase Second Edition",
+        "url": "https://posthuman.shop/products/eclipse-phase-second-edition-pdf"
+      }
+    ],
     "license": {
       "is_permissive": false,
       "display": "CC BY-NC-SA 4.0",
@@ -1209,20 +1589,30 @@
   {
     "name": "Mutants & Masterminds",
     "core_setting": "Superhero fiction",
-    "largest_subreddit": "r/mutantsandmasterminds",
-    "subreddit_size": 16000,
-    "discord_url": "https://discord.com/invite/MJQQd6H",
-    "discord_size": 2300,
+    "communities": [
+      {
+        "label": "Reddit",
+        "url": "https://reddit.com/r/mutantsandmasterminds",
+        "size": 16000
+      },
+      {
+        "label": "Discord",
+        "url": "https://discord.com/invite/MJQQd6H",
+        "size": 2300
+      }
+    ],
     "known_for": "\"Power Levels\"\nOpen-ended superpowers",
     "core_mechanic": "1d20 + stat bonus\n≥ target set by GM",
     "character_comp": null,
     "character_progression": null,
     "price_of_entry": 27,
-    "core_books": [{
-      "price": "$27",
-      "title": "Deluxe Hero's Handbook",
-      "url": "https://greenroninstore.com/collections/mutants-masterminds-third-edition/products/mutants-masterminds-deluxe-heros-handbook-pdf"
-    }],
+    "core_books": [
+      {
+        "price": "$27",
+        "title": "Deluxe Hero's Handbook",
+        "url": "https://greenroninstore.com/collections/mutants-masterminds-third-edition/products/mutants-masterminds-deluxe-heros-handbook-pdf"
+      }
+    ],
     "license": {
       "is_permissive": true,
       "display": "Super-Powered by M&M",
@@ -1238,20 +1628,30 @@
   {
     "name": "Archmage Engine",
     "core_setting": "Medieval fantasy",
-    "largest_subreddit": "r/13thage",
-    "subreddit_size": 3400,
-    "discord_url": "https://discord.com/invite/Bz9DA25",
-    "discord_size": 1600,
+    "communities": [
+      {
+        "label": "Reddit",
+        "url": "https://reddit.com/r/13thage",
+        "size": 3400
+      },
+      {
+        "label": "Discord",
+        "url": "https://discord.com/invite/Bz9DA25",
+        "size": 1600
+      }
+    ],
     "known_for": "\"Icons\"\nBackgrounds instead of skills",
     "core_mechanic": "1d20 + modifiers\n≥ environment/difficulty target",
     "character_comp": null,
     "character_progression": null,
     "price_of_entry": 25,
-    "core_books": [{
-      "price": "$25",
-      "title": "13th Age",
-      "url": "https://pelgranepress.com/product/13th-age/"
-    }],
+    "core_books": [
+      {
+        "price": "$25",
+        "title": "13th Age",
+        "url": "https://pelgranepress.com/product/13th-age/"
+      }
+    ],
     "license": {
       "is_permissive": true,
       "display": "OGL\n+ Compatibility License\n+ Archmage Engine License\n+ Community Use Policy",
@@ -1267,20 +1667,26 @@
   {
     "name": "TROIKA!",
     "core_setting": "Science fantasy",
-    "largest_subreddit": "r/Troika",
-    "subreddit_size": 2900,
-    "discord_url": "https://discord.com/invite/deePdtBM2n",
-    "discord_size": 2600,
+    "communities": [
+      { "label": "Reddit", "url": "https://reddit.com/r/Troika", "size": 2900 },
+      {
+        "label": "Discord",
+        "url": "https://discord.com/invite/deePdtBM2n",
+        "size": 2600
+      }
+    ],
     "known_for": "\"Testing your luck\"\nZany/psychedelic setting and adventures",
     "core_mechanic": "2d6 ≤ luck score\nThen luck - 1",
     "character_comp": null,
     "character_progression": null,
     "price_of_entry": 18,
-    "core_books": [{
-      "price": "$18",
-      "title": "Troika! The Science Fantasy RPG",
-      "url": "https://preview.drivethrurpg.com/en/product/269791/troika-the-science-fantasy-rpg"
-    }],
+    "core_books": [
+      {
+        "price": "$18",
+        "title": "Troika! The Science Fantasy RPG",
+        "url": "https://preview.drivethrurpg.com/en/product/269791/troika-the-science-fantasy-rpg"
+      }
+    ],
     "license": {
       "is_permissive": true,
       "display": "Compatibility license",
@@ -1296,20 +1702,30 @@
   {
     "name": "Symbaroum",
     "core_setting": "Dark fantasy",
-    "largest_subreddit": "r/Symbaroum",
-    "subreddit_size": 5800,
-    "discord_url": "https://discord.com/invite/E46WApE",
-    "discord_size": 1900,
+    "communities": [
+      {
+        "label": "Reddit",
+        "url": "https://reddit.com/r/Symbaroum",
+        "size": 5800
+      },
+      {
+        "label": "Discord",
+        "url": "https://discord.com/invite/E46WApE",
+        "size": 1900
+      }
+    ],
     "known_for": "Swedish folklore\nGM doesn't roll dice",
     "core_mechanic": "1d20 ≤ attribute score",
     "character_comp": null,
     "character_progression": null,
     "price_of_entry": 25,
-    "core_books": [{
-      "price": "$25",
-      "title": "Symbaroum - Core Rulebook",
-      "url": "https://www.drivethrurpg.com/en/product/163293/symbaroum-core-rulebook"
-    }],
+    "core_books": [
+      {
+        "price": "$25",
+        "title": "Symbaroum - Core Rulebook",
+        "url": "https://www.drivethrurpg.com/en/product/163293/symbaroum-core-rulebook"
+      }
+    ],
     "license": null,
     "srd_url": null,
     "most_famous_property": "Itself",
@@ -1321,20 +1737,25 @@
   {
     "name": "Ten Candles",
     "core_setting": "Tragic horror",
-    "largest_subreddit": "r/tencandles",
-    "subreddit_size": 1200,
-    "discord_url": null,
-    "discord_size": null,
+    "communities": [
+      {
+        "label": "Reddit",
+        "url": "https://reddit.com/r/tencandles",
+        "size": 1200
+      }
+    ],
     "known_for": "Snuffing candles as game progresses",
     "core_mechanic": "d6 dice pool\ncount sixes\n> sixes rolled by GM",
     "character_comp": "Personality traits (descriptive)",
     "character_progression": "Burn trait cards",
     "price_of_entry": 10,
-    "core_books": [{
-      "price": "$10",
-      "title": "Ten Candles",
-      "url": "https://cavalrygames.com/shop/ten-candles-pdf"
-    }],
+    "core_books": [
+      {
+        "price": "$10",
+        "title": "Ten Candles",
+        "url": "https://cavalrygames.com/shop/ten-candles-pdf"
+      }
+    ],
     "license": null,
     "srd_url": null,
     "most_famous_property": "Itself",
@@ -1346,24 +1767,30 @@
   {
     "name": "Das Schwarze Auge\n(The Dark Eye)",
     "core_setting": "Medieval fantasy",
-    "largest_subreddit": "r/DSA_RPG",
-    "subreddit_size": 9100,
-    "discord_url": null,
-    "discord_size": null,
+    "communities": [
+      {
+        "label": "Reddit",
+        "url": "https://reddit.com/r/DSA_RPG",
+        "size": 9100
+      }
+    ],
     "known_for": "Most popular German RPG",
     "core_mechanic": "1d20\n<= character skill ± modifier set by GM",
     "character_comp": "Species + Culture + Profession\nPoints buy for skills & attributes",
     "character_progression": "XP awarded by GM\nSpend on attribute improvements or skills",
     "price_of_entry": 20,
-    "core_books": [{
-      "price": "$20",
-      "title": "The Dark Eye - Core Rules",
-      "url": "https://www.drivethrurpg.com/en/product/185074/the-dark-eye-core-rules"
-    }, {
-      "price": "€9,99",
-      "title": "DSA5 - Regelwerk",
-      "url": "https://www.ulisses-ebooks.de/product/151474"
-    }],
+    "core_books": [
+      {
+        "price": "$20",
+        "title": "The Dark Eye - Core Rules",
+        "url": "https://www.drivethrurpg.com/en/product/185074/the-dark-eye-core-rules"
+      },
+      {
+        "price": "€9,99",
+        "title": "DSA5 - Regelwerk",
+        "url": "https://www.ulisses-ebooks.de/product/151474"
+      }
+    ],
     "license": {
       "is_permissive": true,
       "display": "ORC",

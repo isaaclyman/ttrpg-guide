@@ -29,7 +29,7 @@ Add a link to:
 - The largest Discord server
 - Any other place where the game is discussed online
 
-If the game doesn't have one of the above, you can skip it.
+The game must have an online community of 1,000 or more to be listed.
 -->
 **Evidence of popularity:**
 

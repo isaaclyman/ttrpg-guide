@@ -15,20 +15,20 @@ import {
   SortModule,
   Tabulator,
 } from "tabulator-tables";
+import { maxBy } from "./utils";
 
 rpgs.sort((rpg1, rpg2) => {
-  return rpg1.subreddit_size < rpg2.subreddit_size
-    ? 1
-    : rpg1.subreddit_size > rpg2.subreddit_size
-    ? -1
-    : 0;
-});
+  const largest1 = maxBy(rpg1.communities, c => c.size);
+  const largest2 = maxBy(rpg2.communities, c => c.size);
+
+  return largest1.size < largest2.size ? 1 : largest1.size > largest2.size ? -1 : 0;
+})
 
 rpgs.forEach(rpg => {
   (rpg as any).searchable = [
     rpg.name,
     rpg.core_setting,
-    rpg.largest_subreddit,
+    ...rpg.communities.map(comm => `${comm.label} ${comm.url}`),
     ...rpg.tags,
     rpg.known_for,
     rpg.core_mechanic,
@@ -65,7 +65,6 @@ Tabulator.registerModule([
 const table = new Tabulator("#rpgtable", {
   columns,
   data: rpgs,
-  initialSort: [{ column: "popularity", dir: "desc" }],
   movableColumns: true,
 });
 

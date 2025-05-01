@@ -1,5 +1,6 @@
 import { ColumnDefinition, Formatter, RowComponent } from "tabulator-tables";
 import { colorsByTag } from "./tags";
+import { maxBy } from "./utils";
 
 const crunchAmounts = [
   "low ",
@@ -27,6 +28,12 @@ const formatMissingCharacterInfo: Formatter = (cell) => {
   return contents;
 };
 
+interface Community {
+  label: string;
+  url: string;
+  size: number;
+}
+
 export const columns: ColumnDefinition[] = [
   {
     field: "name",
@@ -40,77 +47,46 @@ export const columns: ColumnDefinition[] = [
     headerSort: false,
   },
   {
-    field: "popularity",
-    title: "Popularity",
-    visible: false,
-    sorter: function (_, __, aRow, bRow) {
-      function getSize(row: RowComponent) {
-        const data = row.getData();
-        return Math.max(data.subreddit_size, data.discord_size);
-      }
-
-      const aSize = getSize(aRow);
-      const bSize = getSize(bRow);
-      return aSize - bSize;
-    },
-  },
-  {
-    field: "subreddit_size",
-    title: "Subreddit",
+    field: "communities",
+    title: "Communities",
     headerSortTristate: true,
     formatter: function (cell) {
-      const sub = cell.getData().largest_subreddit;
-      const size = cell.getValue();
-      if (!sub || !size) {
-        return "???";
-      }
+      const communities = cell.getData().communities as Community[];
+      communities.sort((comm1, comm2) => {
+        return comm1.size < comm2.size ? 1 : comm1.size > comm2.size ? -1 : 0;
+      });
 
       const container = document.createElement("div");
 
-      const sizeText = document.createElement("div");
-      sizeText.innerText = numberFormatter.format(Number(size));
-      container.appendChild(sizeText);
+      for (const community of communities) {
+        const commLine = document.createElement("div");
 
-      const subLink = document.createElement("a");
-      subLink.innerText = sub;
-      subLink.href = `https://reddit.com/${sub}`;
-      subLink.target = "_blank";
-      container.appendChild(subLink);
+        const sizeSpan = document.createElement("span");
+        const size = numberFormatter.format(community.size);
+        sizeSpan.innerText = `${size} `;
+        commLine.appendChild(sizeSpan);
+        
+        const link = document.createElement("a");
+        link.href = community.url;
+        link.innerText = `(${community.label})`;
+        commLine.appendChild(link);
 
-      return container;
-    },
-    sorter: "number",
-  },
-  {
-    field: "discord_size",
-    title: "Discord",
-    sorter: "number",
-    headerSortTristate: true,
-    formatter: function (cell) {
-      const url = cell.getData().discord_url;
-      const size = cell.getValue();
-      if (!url || !size) {
-        return "???";
+        container.appendChild(commLine);
       }
 
-      const container = document.createElement("div");
-
-      const sizeText = document.createElement("div");
-      sizeText.innerText = numberFormatter.format(Number(size));
-      container.appendChild(sizeText);
-
-      const subLink = document.createElement("a");
-      subLink.innerText = "Discord";
-      subLink.href = url;
-      subLink.target = "_blank";
-      container.appendChild(subLink);
-
       return container;
     },
+    sorter: function (comms1: Community[], comms2: Community[]) {
+      const largest1 = maxBy(comms1, c => c.size);
+      const largest2 = maxBy(comms2, c => c.size);
+
+      return largest1.size > largest2.size ? 1 : largest1.size < largest2.size ? -1 : 0;
+    }
   },
   {
     field: "tags",
     title: "Tags",
+    headerSort: false,
     formatter: function (cell) {
       const tags = cell.getValue() as string[];
       if (!tags || !tags.length) {
@@ -128,14 +104,15 @@ export const columns: ColumnDefinition[] = [
         const definition = colorsByTag[tag] ?? {};
         tagElement.classList.add("tag");
         tagElement.style.backgroundColor = definition.bgColor;
-        tagElement.style.color = definition.text == 'dark' ? '#101010' : '#DEDEDE';
+        tagElement.style.color =
+          definition.text == "dark" ? "#101010" : "#DEDEDE";
         tagElement.innerText = tag;
         tagElement.title = definition.tooltip;
         container.appendChild(tagElement);
       }
 
       return container;
-    }
+    },
   },
   {
     field: "known_for",
@@ -191,7 +168,7 @@ export const columns: ColumnDefinition[] = [
     field: "character_progression",
     title: "Character Progression",
     formatter: formatMissingCharacterInfo,
-    headerSort: false
+    headerSort: false,
   },
   {
     field: "price_of_entry",
@@ -271,7 +248,11 @@ export const columns: ColumnDefinition[] = [
     },
     sorter: function (aLicense, bLicense, aRow, bRow) {
       function getValue(license: any, row: RowComponent): number {
-        return (license !== null ? 2 : 0) + (license?.is_permissive ? 2 : 0) + (row.getData().srd_url !== null ? 1 : 0);
+        return (
+          (license !== null ? 2 : 0) +
+          (license?.is_permissive ? 2 : 0) +
+          (row.getData().srd_url !== null ? 1 : 0)
+        );
       }
       const aValue = getValue(aLicense, aRow);
       const bValue = getValue(bLicense, bRow);

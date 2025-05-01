@@ -2,10 +2,14 @@
   {
     "name": ,
     "core_setting": ,
-    "largest_subreddit": ,
-    "subreddit_size": ,
-    "discord_url": ,
-    "discord_size": ,
+    "communities": [
+      { "label": "Reddit", "url": , "size": },
+      {
+        "label": "Discord",
+        "url": ,
+        "size":
+      }
+    ],
     "known_for": ,
     "core_mechanic": ,
     "character_comp": ,
