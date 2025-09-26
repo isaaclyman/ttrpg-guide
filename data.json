@@ -19,17 +19,17 @@
     "core_mechanic": "1d20 + ability bonus\n≥ target set by GM",
     "character_comp": "Class + Subclass + Stat Scores",
     "character_progression": "XP for battle\nAutomatic level up",
-    "price_of_entry": 60,
+    "price_of_entry": 100,
     "core_books": [
       {
-        "price": "$30",
+        "price": "$50",
         "title": "Player's Handbook",
-        "url": "https://www.dndbeyond.com/marketplace/sourcebooks/players-handbook"
+        "url": "https://marketplace.dndbeyond.com/all-rulebooks/3709000"
       },
       {
-        "price": "$30",
+        "price": "$50",
         "title": "Dungeon Master's Guide",
-        "url": "https://www.dndbeyond.com/marketplace/sourcebooks/dungeon-masters-guide"
+        "url": "https://marketplace.dndbeyond.com/all-rulebooks/3710000"
       }
     ],
     "license": {
