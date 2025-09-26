@@ -1822,5 +1822,42 @@
     "owner": "Ulisses Spiele",
     "timeline": "1984 (1st ed)\n2015 (5th ed)",
     "tags": ["tactical", "action"]
+  },
+  {
+    "name": "Daggerheart",
+    "core_setting": "Medieval fantasy",
+    "communities": [
+      {
+        "label": "Reddit",
+        "url": "https://www.reddit.com/r/daggerheart/",
+        "size": 39000
+      },
+      {
+        "label": "Discord",
+        "url": "https://discord.com/invite/bdW9RBVj5k",
+        "size": 4165
+      }
+    ],
+    "known_for": "",
+    "core_mechanic": "2d12 ≥ DC\ngain a Hope or Fear token based on highest die",
+    "character_comp": "Ancestry, Community, Class, and Subclass",
+    "character_progression": "Domain cards and abilities gained through level up",
+    "price_of_entry": 60,
+    "core_books": [{
+      "price": "$60",
+      "title": "Daggerheart Core Set",
+      "url": "https://shop.critrole.com/products/daggerheart-core-set"
+    }],
+    "license": {
+      "is_permissive": true,
+      "display": "Darrington Press Community Gaming License (DPCGL)",
+      "url": "https://darringtonpress.com/license/"
+    },
+    "srd_url": "https://www.daggerheart.com/srd/",
+    "most_famous_property": "",
+    "crunch": "Medium crunch",
+    "owner": "Critical Role LLC / Darrington Press",
+    "timeline": "2023 (announced)\n2025 (released)",
+    "tags": ["collaborative", "action"]
   }
 ]
