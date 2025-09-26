@@ -1830,7 +1830,7 @@
       {
         "label": "Reddit",
         "url": "https://www.reddit.com/r/daggerheart/",
-        "size": 39000
+        "size": 37000
       },
       {
         "label": "Discord",
@@ -1838,15 +1838,15 @@
         "size": 4165
       }
     ],
-    "known_for": "",
-    "core_mechanic": "2d12 ≥ DC\ngain a Hope or Fear token based on highest die",
+    "known_for": "Critical Role\nHope and Fear dice",
+    "core_mechanic": "2d12\n≥ target set by GM\ngain a Hope or Fear token based on highest die",
     "character_comp": "Ancestry, Community, Class, and Subclass",
-    "character_progression": "Domain cards and abilities gained through level up",
-    "price_of_entry": 60,
+    "character_progression": "10 levels, level up on milestone\ngain domain cards and advancements each level",
+    "price_of_entry": 30,
     "core_books": [{
-      "price": "$60",
-      "title": "Daggerheart Core Set",
-      "url": "https://shop.critrole.com/products/daggerheart-core-set"
+      "price": "$30",
+      "title": "Daggerheart Corebook",
+      "url": "https://www.drivethrurpg.com/en/product/508832/daggerheart-corebook"
     }],
     "license": {
       "is_permissive": true,
@@ -1854,7 +1854,7 @@
       "url": "https://darringtonpress.com/license/"
     },
     "srd_url": "https://www.daggerheart.com/srd/",
-    "most_famous_property": "",
+    "most_famous_property": "Itself",
     "crunch": "Medium crunch",
     "owner": "Critical Role LLC / Darrington Press",
     "timeline": "2023 (announced)\n2025 (released)",
