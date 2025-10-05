@@ -1840,8 +1840,8 @@
     ],
     "known_for": "Critical Role\nHope and Fear dice",
     "core_mechanic": "2d12\n≥ target set by GM\ngain a Hope or Fear token based on highest die",
-    "character_comp": "Ancestry, Community, Class, and Subclass",
-    "character_progression": "10 levels, level up on milestone\ngain domain cards and advancements each level",
+    "character_comp": "Ancestry + Community + Class + Subclass",
+    "character_progression": "Level up on story milestone\nGain domain cards and advancements each level",
     "price_of_entry": 30,
     "core_books": [{
       "price": "$30",
